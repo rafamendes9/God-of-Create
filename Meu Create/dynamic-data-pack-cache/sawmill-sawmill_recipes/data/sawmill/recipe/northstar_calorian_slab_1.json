@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "northstar:calorian_planks"
+    },
+    {
+      "item": "everycomp:q/northstar/vertical_calorian_planks"
+    }
+  ],
+  "result": {
+    "id": "northstar:calorian_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

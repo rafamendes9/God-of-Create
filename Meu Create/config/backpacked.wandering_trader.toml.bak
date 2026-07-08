@@ -1,0 +1,11 @@
+# If enabled, wandering traders will have a chance to spawn with a backpack
+# Valid values: true, false
+enableBackpack = true
+# The chance a Wandering Trader will spawn with a backpack. The chance is interpreted
+# as one out of x, with x being the number given from this config option.
+# Valid range: 1 to 100 (inclusive)
+spawnWithBackpackChance = 1
+
+[pickpocketingChallenge]
+	maxDetectionDistance = 1.0
+	dislikeCooldown = 60

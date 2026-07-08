@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "quark:blossom_planks"
+  },
+  "result": {
+    "id": "swem:pestle_mortar",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

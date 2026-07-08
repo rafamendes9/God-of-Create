@@ -1,0 +1,2169 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "minecolonies"
+	group: ""
+	id: "0E21FB2EFB41A583"
+	images: [
+		{
+			height: 3.867403314917127d
+			image: "questinstaller:textures/quests/minecolonies_logo_medium.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 3.0d
+			y: -21.5d
+		}
+		{
+			height: 2.0d
+			image: "questinstaller:textures/quests/hc_feed_the_machine.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: -4.0d
+			y: -15.0d
+		}
+		{
+			height: 0.4657039711191336d
+			image: "questinstaller:textures/quests/hc_logistics.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -4.0d
+			y: -7.5d
+		}
+		{
+			height: 0.6323529411764706d
+			image: "questinstaller:textures/quests/hc_utility.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 10.5d
+			y: -15.0d
+		}
+		{
+			height: 1.5d
+			image: "questinstaller:textures/quests/hc_university_research.png"
+			rotation: 0.0d
+			width: 4.5d
+			x: 10.5d
+			y: -9.5d
+		}
+		{
+			height: 1.5d
+			image: "questinstaller:textures/quests/hc_the_builder.png"
+			rotation: 0.0d
+			width: 3.1601941747572813d
+			x: 3.0d
+			y: -9.5d
+		}
+		{
+			height: 0.5d
+			image: "questinstaller:textures/quests/hc_defense.png"
+			rotation: 0.0d
+			width: 2.880952380952381d
+			x: 5.5d
+			y: -1.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1BB571557F74D3A1"
+			rewards: [{
+				id: "5118D5653FA17BEF"
+				type: "xp"
+				xp: 5
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "7BE92C777F0CDFCE"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -18.0d
+		}
+		{
+			dependencies: [
+				"1E1870FAD295DEDE"
+				"0F409DACBEB7BBF8"
+			]
+			dependency_requirement: "one_completed"
+			id: "0D6E099A1A242153"
+			rewards: [
+				{
+					id: "2C0FFA33AF366627"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutbuilder"
+					}
+					type: "item"
+				}
+				{
+					id: "2EB38BDE58E9CD20"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1775C68F15D3A127"
+					item: { count: 1, id: "structurize:sceptergold" }
+					type: "item"
+				}
+				{
+					id: "76047AC611CF5CEA"
+					item: { count: 1, id: "minecolonies:blockhuttownhall" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["583A7AA84FEC027F"]
+			id: "15B51FB56A64C303"
+			rewards: [
+				{
+					count: 8
+					id: "6EA63BB2DF16906E"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "370AD98C323714CC"
+					item: {
+						count: 1
+						id: "minecraft:paper"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "41C6DE416391669D"
+				item: { count: 1, id: "minecolonies:blockhutuniversity" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["0D6E099A1A242153"]
+			hide_dependency_lines: true
+			id: "75599A9909C7A8C8"
+			invisible: true
+			rewards: [{
+				count: 32
+				id: "462D964429E4145B"
+				item: {
+					count: 1
+					id: "minecraft:apple"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/citizen_eat_food_first"
+				criterion: ""
+				id: "5166EF74710327F7"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D6E099A1A242153"]
+			id: "583A7AA84FEC027F"
+			rewards: [
+				{
+					id: "1BE3A8B887502B0C"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "66D644A1B1483B6F"
+					table_id: 2567105459748842191L
+					type: "loot"
+				}
+			]
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				advancement: "minecolonies:minecolonies/build_builder"
+				criterion: ""
+				id: "42ACB94291B0A619"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["0D6E099A1A242153"]
+			hide_dependency_lines: true
+			id: "342A1EF584823D2C"
+			rewards: [
+				{
+					count: 16
+					id: "509384C588395E36"
+					item: {
+						count: 1
+						id: "minecraft:charcoal"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "75475F7FD3D0C89C"
+					item: {
+						count: 1
+						id: "minecraft:stick"
+					}
+					type: "item"
+				}
+				{
+					id: "30744697D2DBE047"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/building_add_recipe_torch"
+				criterion: ""
+				id: "0D004B0007E5AF2D"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["0D6E099A1A242153"]
+			hide_dependency_lines: true
+			id: "65D23E7683812E26"
+			invisible: true
+			rewards: [
+				{
+					count: 8
+					id: "75106226A0732DAC"
+					item: {
+						count: 1
+						id: "minecraft:apple"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "6C347E5C1C73E1DF"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/citizen_eat_food_rotten_flesh"
+				criterion: ""
+				id: "56AEC7E832A19F2C"
+				type: "advancement"
+			}]
+			x: 13.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["583A7AA84FEC027F"]
+			id: "23012F6C4C522CEB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1F3E6E49B8C50CBF"
+					table_id: 8216757454481317885L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "05DF32A68AF0C574"
+					table_id: 1496436499026242310L
+					type: "choice"
+				}
+				{
+					id: "2CBB5742EC60599C"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_lumberjack"
+				criterion: ""
+				id: "4B59516A205F5B3C"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["583A7AA84FEC027F"]
+			id: "6BB0C51EE8CA5966"
+			rewards: [
+				{
+					count: 16
+					id: "4877FBA6EC7A9D9C"
+					item: {
+						count: 1
+						id: "minecraft:ladder"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3DE7B05E6E138900"
+					table_id: 1287062647694046403L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "72668E383781D02C"
+					table_id: 8216757454481317885L
+					type: "choice"
+				}
+				{
+					id: "7FB0FBFF56E452F9"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_miner"
+				criterion: ""
+				id: "653FEFE52C7922EB"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["583A7AA84FEC027F"]
+			id: "0B009391E3F76D6E"
+			rewards: [
+				{
+					id: "41290EC24CAFB21A"
+					item: {
+						count: 1
+						id: "minecraft:fishing_rod"
+					}
+					type: "item"
+				}
+				{
+					id: "1688EC7CC1BA7308"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_fisherman"
+				criterion: ""
+				id: "5AD9F4B7AD855B62"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["583A7AA84FEC027F"]
+			id: "57C889EC980D33D9"
+			rewards: [
+				{
+					id: "2EC62DDE60A5271C"
+					item: {
+						count: 1
+						id: "minecraft:stone_hoe"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7ACE0D079636A714"
+					table_id: 4597731606249609751L
+					type: "choice"
+				}
+				{
+					id: "13AA24D3334C3312"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_farmer"
+				criterion: ""
+				id: "27273974BDD31F90"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["583A7AA84FEC027F"]
+			id: "67E8B8DCFC93F832"
+			rewards: [
+				{
+					count: 6
+					id: "7C9192244B100208"
+					item: {
+						count: 1
+						id: "minecolonies:blockminecoloniesrack"
+					}
+					type: "item"
+				}
+				{
+					id: "6FDB054D697C4EA9"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "3357ED5EB15A8E1F"
+					item: {
+						count: 1
+						id: "minecraft:leather_boots"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				advancement: "minecolonies:production/build_warehouse"
+				criterion: ""
+				id: "7854E168E9B85C0A"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["67E8B8DCFC93F832"]
+			id: "490628CE108A833A"
+			rewards: [
+				{
+					id: "7EFD224B4DFF2D7A"
+					item: {
+						count: 1
+						id: "minecraft:leather_boots"
+					}
+					type: "item"
+				}
+				{
+					id: "16CD6941494E94E4"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_delivery_person"
+				criterion: ""
+				id: "583088FA8B5FB372"
+				type: "advancement"
+			}]
+			x: -5.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["583A7AA84FEC027F"]
+			hide_dependency_lines: true
+			id: "71FCF06A98CC66D7"
+			rewards: [{
+				id: "2D0F9C1101384C0F"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "6FF8ACDFE7CCF238"
+				item: { count: 1, id: "minecolonies:clipboard" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -14.0d
+		}
+		{
+			dependencies: ["583A7AA84FEC027F"]
+			id: "48AC8545D66B71B7"
+			invisible: true
+			rewards: [{
+				id: "06F6BD1EAC09269C"
+				type: "xp"
+				xp: 10
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "minecolonies:minecolonies/build_builder_2"
+				criterion: ""
+				id: "085B7F66AE89804A"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["583A7AA84FEC027F"]
+			hide_dependency_lines: true
+			id: "3B40A769EDB26EA2"
+			rewards: [{
+				id: "3843BBFA28666B30"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [
+				{
+					id: "0CBB5387057BD20C"
+					item: { count: 1, id: "minecolonies:blockpostbox" }
+					type: "item"
+				}
+				{
+					id: "49A9EEEC13D15772"
+					item: { count: 1, id: "minecolonies:blockstash" }
+					type: "item"
+				}
+			]
+			x: 11.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["1BB571557F74D3A1"]
+			id: "6EEA012FA11C7C08"
+			rewards: [{
+				id: "562D1946CBD6D2FC"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "69C59B97E310195D"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -16.5d
+		}
+		{
+			dependencies: ["6EEA012FA11C7C08"]
+			id: "22F4C38E79DEFF1E"
+			rewards: [{
+				id: "332F2D21F7C92CE3"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0D31FB2D2AF9C5F2"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["22F4C38E79DEFF1E"]
+			id: "1E1870FAD295DEDE"
+			rewards: [{
+				id: "1BB2255A28D5416B"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "178C6956FA00A9AA"
+				item: { count: 1, id: "minecolonies:supplycampdeployer" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["22F4C38E79DEFF1E"]
+			id: "0F409DACBEB7BBF8"
+			rewards: [{
+				id: "5775E488967BE81A"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "1F8579DCF97FCBC6"
+				item: { count: 1, id: "minecolonies:supplychestdeployer" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["0D6E099A1A242153"]
+			hide_dependency_lines: true
+			id: "69EAF1072D492F1A"
+			rewards: [{
+				id: "37634C6C11ED163C"
+				item: {
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4FC0D16018A0834C"
+				item: { count: 1, id: "minecolonies:ancienttome" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["0D6E099A1A242153"]
+			hide_dependency_lines: true
+			id: "120152510AD4B59A"
+			rewards: [{
+				id: "7BB544852E19F144"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "387CF6BDD450D5BD"
+				item: { count: 1, id: "minecolonies:build_goggles" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: -14.0d
+		}
+		{
+			dependencies: [
+				"201CB898A399F1D5"
+				"49793060345FB28C"
+				"7870800C28A7E199"
+				"493B9FC17C3CF3CA"
+				"130E8FC7479E4271"
+			]
+			id: "4DD7E2BD8508A117"
+			rewards: [{
+				id: "0EF34269FB098EBD"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "minecolonies:production/build_all_herders"
+				criterion: ""
+				id: "69375D01EECF69DB"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: -13.0d
+		}
+		{
+			id: "49793060345FB28C"
+			rewards: [
+				{
+					id: "30842F1BADAF5B54"
+					item: {
+						count: 1
+						id: "minecraft:bucket"
+					}
+					type: "item"
+				}
+				{
+					id: "690DAC4AE12BF480"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "6A604DC08BC24230"
+				item: { count: 1, id: "minecolonies:blockhutcowboy" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -11.5d
+		}
+		{
+			id: "201CB898A399F1D5"
+			rewards: [
+				{
+					id: "5A4D37447956FC3D"
+					item: {
+						count: 1
+						id: "minecraft:carrot_on_a_stick"
+					}
+					type: "item"
+				}
+				{
+					id: "18076B10C69624F7"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "77C960B9B8F4F26C"
+				item: { count: 1, id: "minecolonies:blockhutswineherder" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -11.5d
+		}
+		{
+			id: "7870800C28A7E199"
+			rewards: [
+				{
+					count: 16
+					id: "2DD16BAF95D1FA06"
+					item: {
+						count: 1
+						id: "minecraft:wheat_seeds"
+					}
+					type: "item"
+				}
+				{
+					id: "5FDCB4CA7D52EBC5"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "2532D7CC1BE4EDC0"
+				item: { count: 1, id: "minecolonies:blockhutchickenherder" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -11.5d
+		}
+		{
+			id: "130E8FC7479E4271"
+			rewards: [
+				{
+					id: "64FBC8D5D5F8E092"
+					item: {
+						count: 1
+						id: "minecraft:shears"
+					}
+					type: "item"
+				}
+				{
+					id: "258FF1347447F9D8"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "76C613DD301AADAA"
+				item: { count: 1, id: "minecolonies:blockhutshepherd" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -13.5d
+		}
+		{
+			id: "493B9FC17C3CF3CA"
+			rewards: [
+				{
+					id: "242E90648A0F515D"
+					item: {
+						count: 1
+						id: "minecraft:carrot"
+					}
+					type: "item"
+				}
+				{
+					id: "52ECFE359C27BB6C"
+					item: {
+						count: 1
+						id: "minecraft:lead"
+					}
+					type: "item"
+				}
+				{
+					id: "42E89F39F14B91B8"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "45BFAC7E32843F7C"
+				item: { count: 1, id: "minecolonies:blockhutrabbithutch" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["00A3AD4BD4EE0FC7"]
+			id: "5A11A2FC20E5CE2A"
+			rewards: [
+				{
+					id: "05BBD7141863E37E"
+					item: {
+						count: 1
+						id: "minecraft:iron_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "7C16BBFC08BC6531"
+					item: {
+						count: 1
+						id: "minecraft:iron_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "5601B530472B5EA5"
+					item: {
+						count: 1
+						id: "minecraft:iron_boots"
+					}
+					type: "item"
+				}
+				{
+					id: "27BB49CEBC4B9C12"
+					item: {
+						count: 1
+						id: "minecraft:iron_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "6AD070468F671743"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:military/build_barracks"
+				criterion: ""
+				id: "3CD051A0BF135210"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["15B51FB56A64C303"]
+			id: "0EBB4E5195610A82"
+			rewards: [
+				{
+					id: "5805F3CA7D86C3C9"
+					item: {
+						count: 1
+						id: "structurize:sceptergold"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0CDE2C7DE16B9D97"
+					table_id: 8216757454481317885L
+					type: "choice"
+				}
+				{
+					id: "2F797236DAD21354"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_sawmill"
+				criterion: ""
+				id: "7FD8AFA50B110945"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["15B51FB56A64C303"]
+			id: "6B0CE8AD86991E28"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "300505E53BBE2D41"
+					table_id: 8849093687305634787L
+					type: "choice"
+				}
+				{
+					id: "7703976CA95A4CA2"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_composter"
+				criterion: ""
+				id: "06409E42896033EF"
+				type: "advancement"
+			}]
+			x: 11.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["15B51FB56A64C303"]
+			id: "206159A3C7A78447"
+			rewards: [{
+				id: "77C8FAFFFB207296"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/build_mysticalsite"
+				criterion: ""
+				id: "3D34C9F6B1CDA855"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["583A7AA84FEC027F"]
+			id: "00A3AD4BD4EE0FC7"
+			rewards: [
+				{
+					id: "1C00DB8352773D0D"
+					item: {
+						count: 1
+						id: "minecraft:leather_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "52BB7650BA7F93C6"
+					item: {
+						count: 1
+						id: "minecraft:leather_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "579FC0FF685F1B74"
+					item: {
+						count: 1
+						id: "minecraft:leather_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "5109E0B26D874E58"
+					item: {
+						count: 1
+						id: "minecraft:leather_boots"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "326C6E95DBAC8062"
+					item: {
+						count: 1
+						id: "minecolonies:blockhutguardtower"
+					}
+					type: "item"
+				}
+				{
+					id: "414561C4032D453A"
+					type: "xp"
+					xp: 5
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				advancement: "minecolonies:minecolonies/build_guard_tower"
+				criterion: ""
+				id: "141D6D650FC4BF6C"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["15B51FB56A64C303"]
+			id: "52453550206EC770"
+			rewards: [
+				{
+					count: 4
+					id: "6FF859D4E7AE14E4"
+					item: {
+						count: 1
+						id: "minecraft:red_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0D8E5EA45B170BC0"
+					item: {
+						count: 1
+						id: "minecraft:yellow_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7862A4D161DD35F5"
+					item: {
+						count: 1
+						id: "minecraft:blue_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5F38056AB77F2B51"
+					item: {
+						count: 1
+						id: "minecraft:green_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0D1DFD556FA08B48"
+					item: {
+						count: 1
+						id: "minecraft:white_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3C66C344455F510F"
+					item: {
+						count: 1
+						id: "minecraft:black_dye"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1B2173714B76B9B5"
+				item: { count: 1, id: "minecolonies:blockhutdyer" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["15B51FB56A64C303"]
+			id: "37E43341FA234E84"
+			rewards: [
+				{
+					count: 16
+					id: "1AA5DDD6C2D9D8B4"
+					item: {
+						count: 1
+						id: "minecraft:bone_meal"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "658A33E12DED5EF5"
+					table_id: 7776825318533965765L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_florist"
+				criterion: ""
+				id: "7CA26CEF33B7E7C4"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			id: "743D7D9204915A13"
+			invisible: true
+			rewards: [
+				{
+					id: "2A93DA054FEDFDE0"
+					item: {
+						count: 1
+						id: "minecraft:flower_pot"
+					}
+					type: "item"
+				}
+				{
+					id: "6B29E7DAE363A46D"
+					item: {
+						count: 1
+						id: "minecraft:lily_of_the_valley"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/citizen_bury"
+				criterion: ""
+				id: "11A3C7F3DC5C2A4F"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			id: "1C16AEE8E29FB5A0"
+			rewards: [{
+				id: "07881A4A804B5ABA"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "59ED1ABBA005E7C9"
+				item: { count: 1, id: "minecolonies:banner_rally_guards" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["15B51FB56A64C303"]
+			id: "15F03A5E7E14C022"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "047CCBADD8765A0E"
+					table_id: 1287062647694046403L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "42751B708AD34364"
+					table_id: 2567105459748842191L
+					type: "random"
+				}
+				{
+					id: "3C5281B70907C5C8"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_stonemason"
+				criterion: ""
+				id: "583FA03F43A8C439"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["5A11A2FC20E5CE2A"]
+			id: "4D9DC4973FD340E5"
+			rewards: [
+				{
+					id: "68743AAE977C18C9"
+					item: {
+						count: 1
+						id: "minecraft:iron_sword"
+					}
+					type: "item"
+				}
+				{
+					id: "555B440944DE3BF6"
+					item: {
+						count: 1
+						id: "minecraft:shield"
+					}
+					type: "item"
+				}
+				{
+					id: "379CFDA0B11D2CC6"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:military/build_combat_academy"
+				criterion: ""
+				id: "216A6D186442B812"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5A11A2FC20E5CE2A"]
+			id: "6D56AD1BEC644A10"
+			rewards: [
+				{
+					id: "3920611631742955"
+					item: {
+						count: 1
+						id: "minecraft:bow"
+					}
+					type: "item"
+				}
+				{
+					id: "1927A7F3D18CFE34"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:military/build_archery"
+				criterion: ""
+				id: "45EC23671E2EFAA2"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["15B51FB56A64C303"]
+			id: "33058894ACD9CB06"
+			rewards: [
+				{
+					count: 32
+					id: "655F6BD43915CAC1"
+					item: {
+						count: 1
+						id: "minecraft:rotten_flesh"
+					}
+					type: "item"
+				}
+				{
+					id: "5C68393FFCB588E9"
+					item: {
+						count: 1
+						id: "minecraft:iron_boots"
+					}
+					type: "item"
+				}
+				{
+					id: "7DE57083BEC1EAAD"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "25D5972318AE4EBB"
+				item: { count: 1, id: "minecolonies:blockhutgraveyard" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["583A7AA84FEC027F"]
+			id: "72C749AD9F1C634E"
+			rewards: [
+				{
+					count: 3
+					id: "1967A08F48E115F5"
+					item: {
+						count: 1
+						id: "minecraft:cooked_beef"
+					}
+					type: "item"
+				}
+				{
+					id: "0AB39C16F1633943"
+					item: {
+						count: 1
+						id: "minecraft:white_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "0045BB3F1EDF70A9"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/build_citizen"
+				criterion: ""
+				id: "5BB6907D960343BA"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["15B51FB56A64C303"]
+			id: "74C114D0C0D4D374"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2E0C0022EB951C89"
+					table_id: 4959401306108526783L
+					type: "choice"
+				}
+				{
+					id: "2C18461503E90836"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "7B16946B51885249"
+				item: { count: 1, id: "minecolonies:blockhuthospital" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["15B51FB56A64C303"]
+			id: "68FC81E133443E76"
+			rewards: [
+				{
+					count: 8
+					id: "5A880F1233D803D2"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "58FFC9391296B6E6"
+					item: {
+						count: 1
+						id: "minecraft:paper"
+					}
+					type: "item"
+				}
+				{
+					id: "5177AC0DE1075AA4"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_library"
+				criterion: ""
+				id: "3316D1B9DBC7EA0F"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["15B51FB56A64C303"]
+			id: "19D03831EB5EED02"
+			rewards: [{
+				count: 16
+				id: "054ADA61F5EBDF99"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecolonies:production/build_blacksmith"
+				criterion: ""
+				id: "0DA42996BDBDE771"
+				type: "advancement"
+			}]
+			x: 13.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["15B51FB56A64C303"]
+			id: "430475E11D259B74"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "00154CD53E104DD5"
+					table_id: 1287062647694046403L
+					type: "choice"
+				}
+				{
+					id: "4FBC37FDD0B5D6C9"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_stone_smeltery"
+				criterion: ""
+				id: "1C4CC262377E767F"
+				type: "advancement"
+			}]
+			x: 13.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["15B51FB56A64C303"]
+			id: "6A60B76053393288"
+			rewards: [
+				{
+					count: 16
+					id: "5823FBA3E567FE8C"
+					item: {
+						count: 1
+						id: "minecraft:iron_ore"
+					}
+					type: "item"
+				}
+				{
+					id: "07672D1F989CD3AE"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_smeltery"
+				criterion: ""
+				id: "4149CBA832F9F7B3"
+				type: "advancement"
+			}]
+			x: 13.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["4EEF0962CC249F30"]
+			id: "7B5E2CD676A1A1C4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "00F742CE5063BB97"
+					table_id: 4597731606249609751L
+					type: "choice"
+				}
+				{
+					id: "06E0B246DB023E47"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_baker"
+				criterion: ""
+				id: "417ABABF3953F755"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -13.0d
+		}
+		{
+			id: "085F473094778DCD"
+			rewards: [{
+				id: "4D8E17B38C63B53D"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "7FDC708CCFC43F1B"
+				item: { count: 1, id: "minecolonies:resourcescroll" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -14.0d
+		}
+		{
+			dependencies: ["15B51FB56A64C303"]
+			id: "3B91163DE3DA885C"
+			rewards: [{
+				count: 12
+				id: "212B59C3DEB3A36A"
+				item: {
+					count: 1
+					id: "minecraft:obsidian"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "375CB98D9CFA3BD1"
+				item: { count: 1, id: "minecolonies:blockhutnetherworker" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["00A3AD4BD4EE0FC7"]
+			id: "537A8F99CC3F525D"
+			invisible: true
+			rewards: [{
+				id: "01E903FEACE3702E"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				advancement: "minecolonies:military/army_8"
+				criterion: ""
+				id: "316B12D0955BD3A5"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["537A8F99CC3F525D"]
+			id: "5F5DB67F6A470C73"
+			invisible: true
+			rewards: [{
+				id: "227BA266A045FDA2"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				advancement: "minecolonies:military/army_30"
+				criterion: ""
+				id: "7B6CBFCC0D73938B"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5F5DB67F6A470C73"]
+			id: "53F8923B85A8A9CC"
+			invisible: true
+			rewards: [{
+				id: "373767266F024F66"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "minecolonies:military/army_80"
+				criterion: ""
+				id: "0576D447E526E8C2"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["72C749AD9F1C634E"]
+			id: "3AE1C3290500638F"
+			invisible: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5E48B17F81800DBC"
+					table_id: 4597731606249609751L
+					type: "choice"
+				}
+				{
+					id: "6B5312C1055ED517"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/colony_population_10"
+				criterion: ""
+				id: "47E29293D84B8C1F"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3AE1C3290500638F"]
+			id: "4D61009737D94BDA"
+			invisible: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "62CA7982C2A3CBAA"
+					table_id: 4959401306108526783L
+					type: "choice"
+				}
+				{
+					id: "61FE7BF994C2256E"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/colony_population_25"
+				criterion: ""
+				id: "5EE4B0C4C88E2C21"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4D61009737D94BDA"]
+			id: "14DA3DC7C0009A6A"
+			invisible: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "64C6A587169EFED6"
+					table_id: 4597731606249609751L
+					type: "choice"
+				}
+				{
+					id: "05541FC6AEDC730A"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/colony_population_50"
+				criterion: ""
+				id: "3A10636BFEEE2400"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5A11A2FC20E5CE2A"]
+			id: "360E9E02A494217C"
+			invisible: true
+			rewards: [
+				{
+					id: "779D1636D1B845C9"
+					item: {
+						count: 1
+						id: "minecraft:iron_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "1CB2EAA35925129F"
+					item: {
+						count: 1
+						id: "minecraft:iron_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "6A8367ED8183237B"
+					item: {
+						count: 1
+						id: "minecraft:iron_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "1903F76EC438085C"
+					item: {
+						count: 1
+						id: "minecraft:iron_boots"
+					}
+					type: "item"
+				}
+				{
+					id: "168FA1336D70A482"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:military/build_barracks_tower"
+				criterion: ""
+				id: "00EB245458699A11"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["33058894ACD9CB06"]
+			id: "696BDC29ACCBBE29"
+			invisible: true
+			rewards: [{
+				id: "07ACEB931B4480C1"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/undertaker_totem"
+				criterion: ""
+				id: "3A72EC9D1339464A"
+				type: "advancement"
+			}]
+			x: 13.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["0EBB4E5195610A82"]
+			id: "68500900087F92BC"
+			invisible: true
+			rewards: [
+				{
+					id: "651BBB4D77E5B7BF"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "20110BAC5A1C81EB"
+					table_id: 8216757454481317885L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/building_add_recipe_door"
+				criterion: ""
+				id: "3FAFD3B7E01CCBD8"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: -9.0d
+		}
+		{
+			id: "6B26495A9E7D77FC"
+			invisible: true
+			rewards: [
+				{
+					id: "3562F2AFBC208295"
+					item: {
+						count: 1
+						id: "minecraft:red_bed"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6618E5FAA99690C4"
+					table_id: 2567105459748842191L
+					type: "random"
+				}
+				{
+					id: "22694B23F037369B"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/colony_population_5"
+				criterion: ""
+				id: "72AB20636F505D75"
+				type: "advancement"
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7D3489901AA47547"]
+			id: "37BE190EE466D697"
+			invisible: true
+			rewards: [{
+				id: "4E66B79ECC629FBD"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/build_town_hall_5"
+				criterion: ""
+				id: "5ADD18EEB58A873B"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -8.5d
+		}
+		{
+			id: "503C5A0CE113962C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "450CD29537FAF8BF"
+					table_id: 2567105459748842191L
+					type: "random"
+				}
+				{
+					id: "180BF0B37EF2CD10"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "41E1240EDDD3F18A"
+				item: { count: 1, id: "minecolonies:assistanthammer_gold" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["4EEF0962CC249F30"]
+			id: "55851524FDDB6959"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6F570DFB3F9B0F99"
+					table_id: 4597731606249609751L
+					type: "choice"
+				}
+				{
+					id: "222BB16F1BFFB629"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "075EBB9F447BA339"
+				item: { count: 1, id: "minecolonies:blockhutkitchen" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["206159A3C7A78447"]
+			id: "5827E9110E4B19F9"
+			invisible: true
+			rewards: [
+				{
+					count: 3
+					id: "14677649E2CFBF71"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "62EF7719AFAC37B2"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/build_mysticalsite_5"
+				criterion: ""
+				id: "26D442F20A46F878"
+				type: "advancement"
+			}]
+			x: 13.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["14DA3DC7C0009A6A"]
+			id: "3F77375A5E0F0FFA"
+			invisible: true
+			rewards: [{
+				id: "66E23E218BCAB5FE"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/colony_population_75"
+				criterion: ""
+				id: "4C32135EC1DD16C2"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			id: "0D56E3C121A776DF"
+			invisible: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2393FDDDFD2A444E"
+					table_id: 7776825318533965765L
+					type: "choice"
+				}
+				{
+					id: "4253FF1CA5C33037"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/citizen_resurrect"
+				criterion: ""
+				id: "1C40A4AFCE5C2AB0"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["583A7AA84FEC027F"]
+			id: "7D3489901AA47547"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0EC30F4D91BF6600"
+					table_id: 2567105459748842191L
+					type: "random"
+				}
+				{
+					id: "3AB4F240DDB060E4"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/place_townhall"
+				criterion: ""
+				id: "5329761D15AD7A2D"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["583A7AA84FEC027F"]
+			id: "4EEF0962CC249F30"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4F1860A141110E9C"
+					table_id: 4597731606249609751L
+					type: "choice"
+				}
+				{
+					id: "10052AEDC98972A7"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_cook"
+				criterion: ""
+				id: "6E30AB6B9EFC8567"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["583A7AA84FEC027F"]
+			id: "75CBFD0F90772359"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7752AA65150ED232"
+					table_id: 2567105459748842191L
+					type: "choice"
+				}
+				{
+					id: "34906739966BFC3C"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:minecolonies/build_tavern"
+				criterion: ""
+				id: "3320F0F605644C6C"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["15B51FB56A64C303"]
+			id: "07C26C046CDE2507"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "053463DF132494C0"
+					table_id: 8298941300314909535L
+					type: "choice"
+				}
+				{
+					id: "6746CC44B780D545"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_crusher"
+				criterion: ""
+				id: "6FDFC04DEA487274"
+				type: "advancement"
+			}]
+			x: 13.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["360E9E02A494217C"]
+			id: "0B96EC5055E6B817"
+			invisible: true
+			rewards: [{
+				id: "44BD46C82881D560"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "minecolonies:military/build_all_barracks_towers"
+				criterion: ""
+				id: "299C4CA9454B25EB"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["15B51FB56A64C303"]
+			id: "79933C964312F721"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "43FD6B29EC71AA97"
+					table_id: 8298941300314909535L
+					type: "choice"
+				}
+				{
+					id: "600223DC13F80712"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_sifter"
+				criterion: ""
+				id: "3599DA126DE57B76"
+				type: "advancement"
+			}]
+			x: 13.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["6A60B76053393288"]
+			id: "6B80B2314CC47FD6"
+			invisible: true
+			rewards: [
+				{
+					count: 16
+					id: "71FE1B4720977E27"
+					item: {
+						count: 1
+						id: "minecraft:iron_ore"
+					}
+					type: "item"
+				}
+				{
+					id: "2850D5DA8A45055B"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_smeltery_3"
+				criterion: ""
+				id: "4E61F84C1D2EDC01"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["6B80B2314CC47FD6"]
+			id: "0089B6C20C45DDCA"
+			invisible: true
+			rewards: [
+				{
+					count: 16
+					id: "2E1AFC2C64DCC34A"
+					item: {
+						count: 1
+						id: "minecraft:iron_ore"
+					}
+					type: "item"
+				}
+				{
+					id: "6AB623EC76F0AC5D"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/build_smeltery_5"
+				criterion: ""
+				id: "33D151F7844FADCB"
+				type: "advancement"
+			}]
+			x: 16.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["57C889EC980D33D9"]
+			id: "226176A1C73431B5"
+			invisible: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "09573D784D77C108"
+					table_id: 4597731606249609751L
+					type: "choice"
+				}
+				{
+					id: "41C3E99A6F0AC495"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				advancement: "minecolonies:production/max_fields"
+				criterion: ""
+				id: "555E3450E5B558D6"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "2FD5037D4E720043"
+			invisible: true
+			rewards: [
+				{
+					id: "3860F63BF484FDAE"
+					item: {
+						count: 1
+						id: "minecolonies:assistanthammer_iron"
+					}
+					type: "item"
+				}
+				{
+					id: "44C5340ABD89828F"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [
+				{
+					id: "5B0B85743EA3AAF8"
+					item: { count: 1, id: "minecolonies:assistanthammer_gold" }
+					type: "item"
+				}
+				{
+					id: "28D192168CDB3667"
+					item: { count: 1, id: "minecolonies:resourcescroll" }
+					type: "item"
+				}
+				{
+					id: "512C83A72DA598AB"
+					item: { count: 1, id: "minecolonies:build_goggles" }
+					type: "item"
+				}
+				{
+					id: "6EF1CECC5F9C262A"
+					item: { count: 1, id: "minecolonies:clipboard" }
+					type: "item"
+				}
+				{
+					id: "61F40AAE8AA8EA72"
+					item: { count: 1, id: "minecolonies:banner_rally_guards" }
+					type: "item"
+				}
+				{
+					id: "6965ED856289BA6C"
+					item: { count: 1, id: "minecolonies:ancienttome" }
+					type: "item"
+				}
+				{
+					id: "539E55E624706FDA"
+					item: { count: 1, id: "minecolonies:blockpostbox" }
+					type: "item"
+				}
+				{
+					id: "53F1F85197665E34"
+					item: { count: 1, id: "minecolonies:blockstash" }
+					type: "item"
+				}
+				{
+					advancement: "minecolonies:minecolonies/building_add_recipe_torch"
+					criterion: ""
+					id: "143CD0910A08C08C"
+					type: "advancement"
+				}
+			]
+			x: 11.5d
+			y: -12.0d
+		}
+	]
+}

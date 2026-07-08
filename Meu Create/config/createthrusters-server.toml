@@ -1,0 +1,34 @@
+#Authoritative server-side behavior
+[server]
+	#Spawn thruster exhaust particles while active
+	enableThrusterParticles = true
+	#Multiplier for active thruster particle count
+	# Default: 1.0
+	# Range: 0.0 ~ 4.0
+	thrusterParticleIntensity = 1.0
+	#Force thruster air streams to bulk-process items using Create fan blasting or haunting
+	enableThrusterBulkProcessing = true
+	#Bulk processing rate multiplier at 100% throttle, relative to Create's default fan processing speed. Processing scales linearly with throttle, so 50% throttle matches Create when this is 2.0
+	# Default: 2.0
+	# Range: 0.0 ~ 64.0
+	thrusterBulkProcessingFullThrottleMultiplier = 2.0
+	#Allow linking Advanced Data Link blocks to Simulated gyro sensors
+	enableGyroscopeLinking = true
+	#Maximum block distance between selected gyro sensor and placed Advanced Data Link, matching Create's Display Link flow
+	# Default: 128
+	# Range: 1 ~ 1024
+	gyroscopeLinkRange = 128
+	#How many ticks a virtual orientation source remains active without an update
+	# Default: 40
+	# Range: 1 ~ 1200
+	virtualOrientationSourceTimeoutTicks = 40
+	#Maximum tilt magnitude (degrees) when deriving orientation from Analogue Contraption Controller pitch/roll axes
+	# Default: 45.0
+	# Range: 1.0 ~ 89.0
+	controllerOrientationSourceMaxTiltDegrees = 45.0
+	#Allow right-click toggling enabled/disabled state on thrusters
+	allowThrusterManualToggle = true
+	#Maximum allowed link distance for Physics Gantry Belt Wheel (hard capped to 64 blocks)
+	# Default: 64
+	# Range: 1 ~ 64
+	physicsGantryBeltWheelMaxDistance = 64

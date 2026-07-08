@@ -1,0 +1,12 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "northstar:calorian_log"
+  },
+  "result": {
+    "id": "everycomp:q/northstar/calorian_chest",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

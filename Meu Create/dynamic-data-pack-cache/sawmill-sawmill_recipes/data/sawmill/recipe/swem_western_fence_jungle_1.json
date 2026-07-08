@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:jungle_planks"
+    },
+    {
+      "item": "quark:vertical_jungle_planks"
+    }
+  ],
+  "result": {
+    "id": "swem:western_fence_jungle",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "minecraft:cactus"
+  },
+  "result": {
+    "id": "domum_ornamentum:cactus_extra",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

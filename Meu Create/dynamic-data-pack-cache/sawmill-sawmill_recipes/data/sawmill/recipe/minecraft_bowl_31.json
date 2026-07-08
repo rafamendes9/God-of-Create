@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "northstar:coiler_planks"
+    },
+    {
+      "item": "everycomp:q/northstar/vertical_coiler_planks"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bowl",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

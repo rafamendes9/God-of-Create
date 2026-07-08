@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "northstar:wilter_planks"
+    },
+    {
+      "item": "everycomp:q/northstar/vertical_wilter_planks"
+    }
+  ],
+  "result": {
+    "id": "everycomp:hc/northstar/wilter_pillar_trim",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:oak_planks"
+    },
+    {
+      "item": "quark:vertical_oak_planks"
+    }
+  ],
+  "result": {
+    "id": "createcasing:oak_shaft",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

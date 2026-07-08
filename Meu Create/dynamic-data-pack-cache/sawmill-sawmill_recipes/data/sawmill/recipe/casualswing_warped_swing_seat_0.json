@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:warped_stem"
+    },
+    {
+      "item": "minecraft:warped_hyphae"
+    },
+    {
+      "item": "minecraft:stripped_warped_stem"
+    },
+    {
+      "item": "minecraft:stripped_warped_hyphae"
+    }
+  ],
+  "result": {
+    "id": "casualswing:warped_swing_seat",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

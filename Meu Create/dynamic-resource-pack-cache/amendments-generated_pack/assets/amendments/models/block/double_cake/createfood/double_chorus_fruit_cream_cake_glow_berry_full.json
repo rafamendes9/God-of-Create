@@ -1,0 +1,13 @@
+{
+	"parent": "amendments:block/double_cake/full_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "createfood:block/chorus_fruit_cream_cake_side",
+		"top_up": "createfood:block/chorus_fruit_cream_cake_top_glow_berry",
+		"bottom": "createfood:block/cake_bottom",
+		"top": "createfood:block/chorus_fruit_cream_cake_top_glow_berry",
+		"particle": "createfood:block/chorus_fruit_cream_cake_side",
+		"side": "createfood:block/chorus_fruit_cream_cake_side"
+	}
+
+}

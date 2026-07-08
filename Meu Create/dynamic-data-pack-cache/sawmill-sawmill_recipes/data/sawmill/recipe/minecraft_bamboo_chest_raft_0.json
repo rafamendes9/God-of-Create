@@ -1,0 +1,17 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bamboo_chest_raft",
+    "count": 1
+  },
+  "ingredient_count": 5,
+  "type": "sawmill:woodcutting"
+}

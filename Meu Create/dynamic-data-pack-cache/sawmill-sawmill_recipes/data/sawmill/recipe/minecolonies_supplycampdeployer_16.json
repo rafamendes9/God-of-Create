@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_wood"
+    },
+    {
+      "item": "quark:stripped_ancient_log"
+    },
+    {
+      "item": "quark:stripped_ancient_wood"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:supplycampdeployer",
+    "count": 1
+  },
+  "ingredient_count": 10,
+  "type": "sawmill:woodcutting"
+}

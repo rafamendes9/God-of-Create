@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "northstar:calorian_log"
+  },
+  "result": {
+    "id": "handcrafted:wood_crockery_combo",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

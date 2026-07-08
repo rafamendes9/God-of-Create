@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "quark:ancient_planks"
+  },
+  "result": {
+    "id": "handcrafted:wood_bowl",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

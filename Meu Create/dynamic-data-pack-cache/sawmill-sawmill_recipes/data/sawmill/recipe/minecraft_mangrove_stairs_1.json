@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:mangrove_planks"
+    },
+    {
+      "item": "quark:vertical_mangrove_planks"
+    }
+  ],
+  "result": {
+    "id": "minecraft:mangrove_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

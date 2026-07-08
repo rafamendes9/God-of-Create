@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:crimson_stem"
+    },
+    {
+      "item": "minecraft:crimson_hyphae"
+    },
+    {
+      "item": "minecraft:stripped_crimson_stem"
+    },
+    {
+      "item": "minecraft:stripped_crimson_hyphae"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:supplycampdeployer",
+    "count": 1
+  },
+  "ingredient_count": 10,
+  "type": "sawmill:woodcutting"
+}

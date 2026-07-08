@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "quark:ancient_planks"
+  },
+  "result": {
+    "id": "everycomp:hc/quark/ancient_corner_trim",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

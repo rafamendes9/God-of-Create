@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:jungle_planks"
+    },
+    {
+      "item": "quark:vertical_jungle_planks"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:jungle_pillar_trim",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_wood"
+    },
+    {
+      "item": "quark:stripped_ancient_log"
+    },
+    {
+      "item": "quark:stripped_ancient_wood"
+    }
+  ],
+  "result": {
+    "id": "quark:ancient_chest",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

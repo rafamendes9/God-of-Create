@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "northstar:argyre_planks"
+    },
+    {
+      "item": "everycomp:q/northstar/vertical_argyre_planks"
+    }
+  ],
+  "result": {
+    "id": "everycomp:hc/northstar/argyre_dining_bench",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

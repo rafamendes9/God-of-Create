@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "northstar:wilter_log"
+    },
+    {
+      "item": "northstar:stripped_wilter_log"
+    }
+  ],
+  "result": {
+    "id": "everycomp:q/northstar/vertical_wilter_planks",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

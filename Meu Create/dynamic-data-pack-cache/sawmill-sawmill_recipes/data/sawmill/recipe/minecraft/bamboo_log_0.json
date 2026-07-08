@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "minecraft:bamboo_block"
+  },
+  "result": {
+    "id": "minecraft:stripped_bamboo_block",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

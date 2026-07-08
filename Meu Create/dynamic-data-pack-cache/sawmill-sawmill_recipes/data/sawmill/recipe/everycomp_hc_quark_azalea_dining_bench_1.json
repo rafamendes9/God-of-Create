@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "quark:azalea_planks"
+  },
+  "result": {
+    "id": "everycomp:hc/quark/azalea_dining_bench",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

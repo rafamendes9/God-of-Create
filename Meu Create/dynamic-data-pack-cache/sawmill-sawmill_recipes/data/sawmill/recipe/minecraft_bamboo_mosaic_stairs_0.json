@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bamboo_mosaic_stairs",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

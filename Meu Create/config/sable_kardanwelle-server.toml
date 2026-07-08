@@ -1,0 +1,9 @@
+[cardan_shaft]
+	#Maximum allowed cardan shaft length in blocks, measured through Sable sub-level space.
+	# Default: 12.0
+	# Range: 1.0 ~ 256.0
+	maxLength = 12.0
+	#Runtime grace period in ticks before an already linked cardan shaft breaks after exceeding maxLength.
+	# Default: 40
+	# Range: 0 ~ 1200
+	overlengthGraceTicks = 40

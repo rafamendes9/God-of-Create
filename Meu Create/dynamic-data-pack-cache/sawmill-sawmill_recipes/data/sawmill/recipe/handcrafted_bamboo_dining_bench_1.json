@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "quark:vertical_bamboo_planks"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:bamboo_dining_bench",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

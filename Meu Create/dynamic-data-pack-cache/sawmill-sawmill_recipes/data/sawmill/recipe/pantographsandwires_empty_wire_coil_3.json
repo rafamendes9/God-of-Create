@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "quark:azalea_planks"
+  },
+  "result": {
+    "id": "pantographsandwires:empty_wire_coil",
+    "count": 3
+  },
+  "type": "sawmill:woodcutting"
+}

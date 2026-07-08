@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "minecraft:crimson_stem"
+  },
+  "result": {
+    "id": "minecraft:stripped_crimson_hyphae",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

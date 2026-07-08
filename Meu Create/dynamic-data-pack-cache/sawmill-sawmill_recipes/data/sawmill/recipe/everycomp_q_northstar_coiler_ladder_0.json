@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "northstar:coiler_log"
+    },
+    {
+      "item": "northstar:stripped_coiler_log"
+    }
+  ],
+  "result": {
+    "id": "everycomp:q/northstar/coiler_ladder",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

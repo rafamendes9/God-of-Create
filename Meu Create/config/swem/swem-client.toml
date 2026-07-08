@@ -1,0 +1,23 @@
+# || =========== [Wings Transparency] =========== ||
+[wings_tansparency]
+	# || Set how visible the horse wings should be! 0 = off, 1 = 25%, 2 = 50%, 3 = 75%, 4 = 100%
+	# Default: 4
+	# Range: 0 ~ 4
+	wingsTransparency = 4
+
+# || =========== [Gait HUD] =========== ||
+[hud]
+	# || Should the gait HUD be enabled?
+	gaitHudEnabled = true
+	# || How much would you like to offset the current X position? (A negative value moves the text up and a positive value down.)				
+	# Default: 0
+	# Range: > -2147483648
+	gaitHudX = 0
+	# || How much would you like to offset the current Y position? (A negative value moves the text up and a positive value down.)				
+	# Default: 0
+	# Range: > -2147483648
+	gaitHudY = 0
+	# || What color should the gait HUD be?
+	# Default: 16777215
+	# Range: > -2147483648
+	gaitHudColor = 16777215

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_wood"
+    },
+    {
+      "item": "quark:stripped_ancient_log"
+    },
+    {
+      "item": "quark:stripped_ancient_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_plate",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

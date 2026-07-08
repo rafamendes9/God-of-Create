@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:dark_oak_log"
+    },
+    {
+      "item": "minecraft:dark_oak_wood"
+    },
+    {
+      "item": "minecraft:stripped_dark_oak_log"
+    },
+    {
+      "item": "minecraft:stripped_dark_oak_wood"
+    }
+  ],
+  "result": {
+    "id": "pantographsandwires:empty_wire_coil",
+    "count": 13
+  },
+  "type": "sawmill:woodcutting"
+}

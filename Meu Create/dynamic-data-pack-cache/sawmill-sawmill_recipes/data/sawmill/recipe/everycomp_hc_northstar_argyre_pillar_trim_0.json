@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "northstar:argyre_log"
+    },
+    {
+      "item": "northstar:stripped_argyre_log"
+    }
+  ],
+  "result": {
+    "id": "everycomp:hc/northstar/argyre_pillar_trim",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "minecraft:jungle_log"
+  },
+  "result": {
+    "id": "minecraft:stripped_jungle_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

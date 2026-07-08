@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "tag": "minecraft:logs"
+  },
+  "result": {
+    "id": "supplementaries:timber_cross_brace",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

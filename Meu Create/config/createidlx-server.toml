@@ -1,0 +1,25 @@
+#.
+#Placeholders Settings
+[placeholdersSettings]
+	#.
+	#Treat {} (curly brackets) as a placeholder for the Attached Label.
+	enableCurlyBracketsPlaceholder = true
+	#.
+	#Treat $ (dollar sign) as a placeholder for the Attached Label.
+	enableDollarSignPlaceholder = true
+	#.
+	#Treat \ (backslash) placed right before a placeholder as a sign to treat that placeholder as a literal character.
+	enableEscapingOfPlaceholders = true
+	#.
+	#Hide backslashes placed before the disabled placeholders.
+	hideEscapingOfDisabledPlaceholders = false
+
+#.
+#Display Source Settings
+[displaySourceSettings]
+	#.
+	#Add Attached Label functionality to the Current Floor display source from Create.
+	enhanceCurrentFloorDisplaySource = true
+	#.
+	#Add Attached Label functionality to the Train Status display source from Create.
+	enhanceTrainStatusDisplaySource = true

@@ -1,0 +1,14 @@
+{
+	"parent": "amendments:block/double_cake/slice3_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "creategarnished:block/pound_cake_side",
+		"top_up": "creategarnished:block/pound_cake_top",
+		"inner": "creategarnished:block/pound_cake_inner",
+		"bottom": "creategarnished:block/pound_cake_bottom",
+		"top": "creategarnished:block/pound_cake_top",
+		"particle": "creategarnished:block/pound_cake_side",
+		"side": "creategarnished:block/pound_cake_side"
+	}
+
+}

@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "quark:vertical_cherry_planks"
+    }
+  ],
+  "result": {
+    "id": "pantographsandwires:empty_wire_coil",
+    "count": 3
+  },
+  "type": "sawmill:woodcutting"
+}

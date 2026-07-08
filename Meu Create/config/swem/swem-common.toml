@@ -1,0 +1,11 @@
+# || =========== [Block o Water] =========== ||
+[block_o_water]
+	# || Does the spigot require a Block O Water?
+	needBlockOWater = true
+
+# || =========== [Shining Amethyst] =========== ||
+[amethyst]
+	# || What is the spawn chance (%) for Shining Amethyst?
+	# Default: 25
+	# Range: 0 ~ 100
+	amethystSpawnChance = 25

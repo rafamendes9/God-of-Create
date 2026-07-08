@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "northstar:coiler_log"
+  },
+  "result": {
+    "id": "northstar:stripped_coiler_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

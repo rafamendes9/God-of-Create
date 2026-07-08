@@ -1,0 +1,63 @@
+{
+	id: "14C4691141636B06"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{
+			count: 16
+			id: "4F4599A400C56EFB"
+			item: {
+				count: 1
+				id: "minecraft:oak_sapling"
+			}
+		}
+		{
+			count: 16
+			id: "38AA2DE83942F5B5"
+			item: {
+				count: 1
+				id: "minecraft:spruce_sapling"
+			}
+		}
+		{
+			count: 16
+			id: "3B545CF028161CC1"
+			item: {
+				count: 1
+				id: "minecraft:birch_sapling"
+			}
+		}
+		{
+			count: 16
+			id: "0E0E8CE6231E062D"
+			item: {
+				count: 1
+				id: "minecraft:jungle_sapling"
+			}
+		}
+		{
+			count: 16
+			id: "12583EB0D7397E24"
+			item: {
+				count: 1
+				id: "minecraft:acacia_sapling"
+			}
+		}
+		{
+			count: 16
+			id: "1E5A09D8DE1E6031"
+			item: {
+				count: 1
+				id: "minecraft:dark_oak_sapling"
+			}
+		}
+		{
+			count: 16
+			id: "50901AF49C3688B4"
+			item: {
+				count: 1
+				id: "minecraft:cherry_sapling"
+			}
+		}
+	]
+}

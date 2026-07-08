@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_crockery_combo",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

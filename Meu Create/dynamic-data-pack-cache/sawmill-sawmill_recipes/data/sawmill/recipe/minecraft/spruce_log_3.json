@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "minecraft:spruce_wood"
+  },
+  "result": {
+    "id": "minecraft:spruce_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

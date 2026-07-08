@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "tag": "minecraft:logs"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

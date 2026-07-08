@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "tag": "minecraft:logs"
+  },
+  "result": {
+    "id": "create_blaze_burner_fuels:stick_trapdoor",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "quark:stripped_blossom_log"
+  },
+  "result": {
+    "id": "quark:stripped_blossom_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

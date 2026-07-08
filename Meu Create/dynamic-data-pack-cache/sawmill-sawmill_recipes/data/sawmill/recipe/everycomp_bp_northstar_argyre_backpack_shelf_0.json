@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "northstar:argyre_log"
+    },
+    {
+      "item": "northstar:stripped_argyre_log"
+    }
+  ],
+  "result": {
+    "id": "everycomp:bp/northstar/argyre_backpack_shelf",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

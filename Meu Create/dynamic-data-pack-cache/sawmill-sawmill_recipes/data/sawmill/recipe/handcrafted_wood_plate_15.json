@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:mangrove_planks"
+    },
+    {
+      "item": "quark:vertical_mangrove_planks"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}
