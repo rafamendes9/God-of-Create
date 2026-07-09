@@ -1,9 +1,0 @@
-{
-	"loader": "amendments:wall_lantern",
-	"support": {
-		"parent": "amendments:block/northstar/wall_extinguished_lantern_2_template",
-		"textures": {
-			"1": "amendments:block/wall_lanterns/northstar/extinguished_lantern"
-		}
-	}
-}

@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "supplementaries:block/way_signs/template",
-	"textures": {
-		"particle": "supplementaries:block/way_signs/northstar/way_sign_wilter",
-		"sign": "supplementaries:block/way_signs/northstar/way_sign_wilter"
-	}
-}

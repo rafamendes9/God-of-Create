@@ -1,1 +1,0 @@
-{"jarName":"create_mob_spawners-1.0.0.jar","modId":"create_mob_spawners","name":"Create: Mob Spawners","version":"1.0.0","mixinConfigs":["create_mob_spawners.common.mixins.json","create_mob_spawners.client.mixins.json"],"jarJarMods":[],"curseForgeHash":124658521,"modrinthHash":"43f6627a7670c0053f76127eac51d0ff2985ce9e"}

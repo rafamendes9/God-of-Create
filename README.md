@@ -148,16 +148,23 @@ FTB Quests, Create Questing (Data Pack)
 
 2. Abra o Curse Forge
 
-3. Aoerte em "Importar"
+3. Aperte em "Criar"
 
-4. Selecione o arquivo .ZP do Modpack " God of Create "
+4. Selecione o nome do Modpack como " God of Create " ou qualquer versão desejada
 
-5. Selecione a opção "I understand that installing all files...."
+5. Selecione a opção "Versao Minecraft" - 1.21.1
 
-6.Selecione All Files
-obs: isso ocorre por existir varios mods baixados pelo [modrinth](https://modrinth.com/) e/ou nao estão disponibilizados no [CurseForge](https://www.curseforge.com/) 
+6. Selecione a opção "Carregador de modificações" - "NeoForge"
 
-7. Após isso, vai ser instalado tudo automaticamnete e o usuario precisa apenas apertar em "JOGAR
+7. Selecione a opção "Versão do Carregador de modificações" - "21.1.233"
+
+8. Selecione a opção "Criar"
+
+9. Toque com botão direito no perfil criado e selecione "Abrir Pasta"
+
+10. Coloque todos os arquivos contidos de "God of Create" dentro dessa pasta aperta anteriormente ( exceto a pasta .git e .gitattributes)
+
+11. Feche o diretorio e selecione "Jogar"no perfil criado anteriormente no "CurseForge"
 
 OBS: Boa Jogatina
 
