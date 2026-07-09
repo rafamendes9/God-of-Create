@@ -6,7 +6,7 @@
 
 ## 📋 Sobre
 
-**God of Create** é uma versão altamente customizada do popular modpack **All Of Create**, otimizada para jogadores que desejam uma experiência enriquecida com performance aprimorada, mecânicas avançadas de engenharia e conteúdo adicional de qualidade.
+**God of Create** é uma versão altamente customizada do popular modpack **All Of Create**, otimizada para jogadores que desejam uma experiência enriquecida com performance aprimorada, mecânicas inovadoras e conteúdo exclusivo.
 
 ---
 
@@ -23,24 +23,92 @@
 
 ## 🎮 Características Principais
 
-### Mods Inclusos
+### 🌟 Mods Destaque - Os Essenciais
 
-- ✨ **Performance**: Mods otimizados para melhor desempenho
-- 🏗️ **Create Addons**: Extensões adicionais do mod Create
-- ✈️ **Create Aeronautics**: Sistema de aviação e aeronaves
-- 🧪 **Create Chemical**: Expansão química para Create
-- 🌍 **Create Northstar Redux**: Conteúdo northstar aprimorado
-- 👾 **Alex's Mobs (PORT)**: Criaturas customizadas
-- ⚡ **SWEM Lite**: Mecânicas eletrônicas leves
-- 🔧 **TFMG**: Mods industriais avançados
-- 🏘️ **Minecolones + Style Packs**: Customizações visuais
-- E muitos outros...
+#### ⚙️ **Create & Addons** (O Coração do Modpack)
+- **Create** - Sistema mecânico revolucionário para automação industrial
+- **Create: Dreams n' Desires** - Expansão massiva com novos componentes
+- **Create: Slice & Dice** - Processamento e fatiamento de itens
+- **Create: New Age** - Tecnologia energética avançada
+- **Create: Central Kitchen** - Culinária automatizada
+- **Create Crafts & Additions** - Integração eletrônica com Create
+- **Create: Diesel Generators** - Geração de energia diesel
+- **Create: Blaze Burner Fuels** - Combustíveis alternativos
 
-### Geração de Mundo
+#### 🎨 **Mods Visuais & Interface**
+- **Iris Shaders & Complementary Shaders** - Gráficos de alta qualidade
+- **Sodium** - Otimização de renderização essencial
+- **ImmediatelyFast** - Aceleração de performance
+- **Jade 🔍** - Informações flutuantes de blocos
+- **JEI (Just Enough Items)** - Gerenciamento de receitas
+- **FancyMenu** - Menu customizado elegante
+- **Not Enough Animations** - Animações suaves
 
-- 🗺️ **WorldGen**: Larion + WWOO (ambientes imersivos)
-- 🎲 **Seed Recomendada**: `3866829312109018270`
-- 📍 **Centro Recomendado**: X: -6000 | Z: 321
+#### 🏗️ **Estrutura & Construção**
+- **Create: Ornithopter Glider** - Aviões e estruturas voadoras
+- **Create: Framed** - Blocos customizáveis
+- **Handcrafted** - Móveis e decoração artesanal
+- **Supplementaries** - Itens decorativos adicionais
+- **Minecolones + Style Packs** - Blocos estilosos
+
+#### ⛏️ **Recursos & Exploração**
+- **Integrated Dungeons and Structures (IDAS)** - Dungeons melhoradas
+- **Integrated Stronghold** - Strongholds customizados
+- **Integrated Villages** - Aldeias expandidas
+- **TerraBlender** - Geração de mundo avançada
+- **Paxi** - Estruturas customizadas
+
+#### 🧪 **Conteúdo Científico & Industrial**
+- **Create: Enchantment Industry** - Encantamentos automatizados
+- **Create: Metalwork** - Trabalho com metais
+- **Create: Pattern Schematics** - Esquemas avançados
+- **Quark** - Enhancements do Minecraft vanilla
+
+#### 🎯 **Utilitários & QoL**
+- **FTB Quests** - Sistema de quests integrado
+- **Open Parties and Claims** - Proteção de territórios
+- **Xaero's Minimap & World Map** - Mapas detalhados
+- **Controlling** - Remapeamento avançado de controles
+- **Trading Post** - Comércio expandido
+
+---
+
+### 🎮 Categorias Completas de Mods
+
+#### 🚀 **Performance & Otimização** (12 mods)
+Sodium, Lithium, ImmediatelyFast, FerriteCore, ModernFix, Alternate Current, Clumps, Neruina, AllTheLeaks, Chunk Sending, Smooth Chunk Save, Server Performance
+
+#### 🌍 **WorldGen & Exploração** (8 mods)
+Larion, WWOO, Integrated Dungeons and Structures, Integrated Stronghold, Integrated Villages, TerraBlender, Paxi, Bad Wither No Cookie
+
+#### 🎨 **Gráficos & Interface** (18 mods)
+Complementary Shaders, Iris Shaders, Sodium, ImmediatelyFast, Jade, JEI, FancyMenu, Not Enough Animations, Skin Layers 3D, Entity Model Features, Continuity, Drippy Loading Screen, Xaero's Minimap, Xaero's World Map, Chat Heads, Item Highlighter, Despawn Tweaks
+
+#### ⚙️ **Create Addons Principais** (25+ mods)
+Create, Create: Dreams n' Desires, Create: Slice & Dice, Create: New Age, Create: Central Kitchen, Create Crafts & Additions, Create: Diesel Generators, Create: Blaze Burner Fuels, Create: Ornithopter Glider, Create: Framed, Create: Mechanical Botany, Create: Pattern Schematics, Create: Enchantment Industry, Create: Metalwork, Create: Tradeworks, Create: Winery, Create: Wrapped, Create: Confectionery, Create: Mob Spawners, Create: Stock Market, Create: Aquatic Ambitions, Create: Sound of Steam, Create: Deep Dark, Create: Copper Splashing, Create: Prismatic Shine, Create: Power Grid, Create: Mobile Packages, Create: More Package Couriers, Create: Escalated, Create: Factory, Create: Fantasizing Again, Create: Transmission!, Create: Totem Factory, Create: Cafe, Create: Train Parts, Create: Hypertubes, Create: Bells & Whistles, Create: Design n' Decor, Create: Rubberworks, Create: Dragons Plus, Create: Integrated Farming, Create: Gears n' Kinetics, Create: Optical, Create: Chocolate Fountain, Create: Stuff 'N Additions, Create: Diesel Generators
+
+#### 🏘️ **Decoração & Construção** (12 mods)
+Supplementaries, Handcrafted, Minecolones, Quark, Create: Framed, Create: Copycats+, Blueprint, Gallery, Amendments, Structure Essentials, Lithostitched, Prickle
+
+#### 📚 **Informações & Receitas** (6 mods)
+JEI, Just Enough Breeding, Just Enough Resources, Just Enough Professions, Patchouli, Jade
+
+#### 🔧 **Comércio & Negócios** (4 mods)
+Trading Post, Create: Tradeworks, Create: Stock Market, Create: Trading Floor
+
+#### 👥 **Multiplayer & Social** (4 mods)
+FTB Teams, Open Parties and Claims, Simple Discord RPC, Server Browser
+
+#### 📖 **Progressão & Quests** (2 mods)
+FTB Quests, Create Questing (Data Pack)
+
+---
+
+### 🗺️ Geração de Mundo
+
+- **WorldGen**: Larion + WWOO (ambientes imersivos)
+- **🎲 Seed Recomendada**: `3866829312109018270`
+- **📍 Centro Recomendado**: X: -6000 | Z: 321
 
 ---
 
