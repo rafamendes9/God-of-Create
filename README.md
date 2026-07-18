@@ -76,16 +76,16 @@
 - **Xaero's Minimap & World Map** - Mapas detalhados
 - **Controlling** - Remapeamento avançado de controles
 
-#### 🎯 **Aventura & Exploração**
-- **Touhou Little Maid - Sistema de Empregadas e companheiras de jogatina, muito Uteis motivadoras para a jogatina
-- **Maid Dimension - Dimensão Particular das Maids, mundo personalizado para aumentar sua imersão com a sua colega de aventura
-- **Born in Chaos - Monstros e variaçõs de mobs para enriquecer o mundo
-- **Deeper and Darker - Monstros e variaçõs de mobs para enriquecer o mundo, alem de novas dimensões
-- **Doggy Talents Next - Aprimorar e criar toda uma linha de evolução para os Lobos, de forma que viram seus companheiros de aventura inseparaveis, com varias mecanicas para o aumento da imersão
-- **Alex Mobs - Novos Mobs e criaturas para dar mais vida aos Biomas
-- **Mowzie' Mobs - Explore um Mundo VIVO onde passaros voao ao seu redor, criaturas vivam nas cavernas e muito mais, torna o jogo vivo e foge do mundo estatico 
-- **Ender's Cataclysm - Mude totalmente aquele sentimento de paz e tranquilidade, esse mod de Mobs torna sua aventura em um verdadeiro desafio
-- **Sea Life - Aumente ainda mais a vida nos Oceanos e crie toda uma utilidade para bases navais ou costeiras
+#### 🌍 **Aventura & Exploração**
+- **Touhou Little Maid** - Sistema de Empregadas e companheiras de jogatina, muito Uteis motivadoras para a jogatina
+- **Maid Dimension** - Dimensão Particular das Maids, mundo personalizado para aumentar sua imersão com a sua colega de aventura
+- **Born in Chaos** - Monstros e variaçõs de mobs para enriquecer o mundo
+- **Deeper and Darker** - Monstros e variaçõs de mobs para enriquecer o mundo, alem de novas dimensões
+- **Doggy Talents Next** - Aprimorar e criar toda uma linha de evolução para os Lobos, de forma que viram seus companheiros de aventura inseparaveis, com varias mecanicas para o aumento da imersão
+- **Alex Mobs** - Novos Mobs e criaturas para dar mais vida aos Biomas
+- **Mowzie' Mobs** - Explore um Mundo VIVO onde passaros voao ao seu redor, criaturas vivam nas cavernas e muito mais, torna o jogo vivo e foge do mundo estatico 
+- **Ender's Cataclysm** - Mude totalmente aquele sentimento de paz e tranquilidade, esse mod de Mobs torna sua aventura em um verdadeiro desafio
+- **Sea Life** - Aumente ainda mais a vida nos Oceanos e crie toda uma utilidade para bases navais ou costeiras
 
 #### E Muito mais
 ---
