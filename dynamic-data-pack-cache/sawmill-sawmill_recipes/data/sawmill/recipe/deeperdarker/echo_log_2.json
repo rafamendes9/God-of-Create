@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "deeperdarker:echo_log"
+  },
+  "result": {
+    "id": "deeperdarker:echo_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

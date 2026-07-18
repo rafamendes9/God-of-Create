@@ -1,0 +1,5 @@
+#Chance in percent for the fish trap block to permanently break when taking out the caught item.
+#Default Value: 0.25
+# Default: 0.25
+# Range: 0.0 ~ 1.0
+fish_trap_breaking_chance = 0.25

@@ -1,0 +1,4 @@
+#FE Cable Transfer Rate (FE/t)
+# Default: 1024
+# Range: 1 ~ 1073741823
+feCableTransfer = 1024

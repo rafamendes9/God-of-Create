@@ -1,0 +1,325 @@
+#Gameplay values shared between client and server
+[common]
+
+	#Registry-time feature toggles. Changes require a full game restart.
+	[common.features]
+
+		[common.features.blocks]
+			#Enable registration for industrial motor. Changes require a full game restart.
+			industrial_motor = true
+			#Enable registration for powered zipline. Changes require a full game restart.
+			powered_zipline = true
+			#Enable registration for bidirectional gearbox. Changes require a full game restart.
+			bidirectional_gearbox = true
+			#Enable registration for analogue contraption controller. Changes require a full game restart.
+			analogue_contraption_controller = true
+			#Enable registration for advanced navigation table. Changes require a full game restart.
+			advanced_navigation_table = true
+			#Enable registration for analogue joystick. Changes require a full game restart.
+			analogue_joystick = true
+			#Enable registration for gyro redstone bridge. Changes require a full game restart.
+			gyro_redstone_bridge = false
+			#Enable registration for entity launcher. Changes require a full game restart.
+			entity_launcher = true
+			#Enable registration for shipping manifest. Changes require a full game restart.
+			shipping_manifest = true
+			#Enable registration for rope knot. Changes require a full game restart.
+			rope_knot = true
+			#Enable registration for gyroscope link. Changes require a full game restart.
+			gyroscope_link = true
+			#Enable registration for thruster. Changes require a full game restart.
+			thruster = true
+			#Enable registration for alternator. Changes require a full game restart.
+			alternator = true
+			#Enable registration for physics gantry shaft. Changes require a full game restart.
+			physics_gantry_shaft = true
+			#Enable registration for physics gantry carriage. Changes require a full game restart.
+			physics_gantry_carriage = true
+			#Enable registration for fuel oxidizer. Changes require a full game restart.
+			fuel_oxidizer = true
+			#Enable registration for virtual orientation source. Changes require a full game restart.
+			virtual_orientation_source = false
+			#Enable registration for claw. Changes require a full game restart.
+			claw = true
+			#Enable registration for andesite cable. Changes require a full game restart.
+			andesite_cable = true
+			#Enable registration for physics gantry belt wheel. Changes require a full game restart.
+			physics_gantry_belt_wheel = true
+			#Enable registration for variable transmission. Changes require a full game restart.
+			variable_transmission = true
+			#Enable registration for advanced contraption controller. Changes require a full game restart.
+			advanced_contraption_controller = true
+			#Enable registration for thruster bearing. Changes require a full game restart.
+			thruster_bearing = true
+			#Enable registration for aileron bearing. Changes require a full game restart.
+			aileron_bearing = true
+			#Enable registration for scissor piston. Changes require a full game restart.
+			scissor_piston = true
+
+		[common.features.items]
+			#Enable registration for configuration clipboard. Changes require a full game restart.
+			configuration_clipboard = true
+			#Enable registration for advanced contraption controller. Changes require a full game restart.
+			advanced_contraption_controller = true
+			#Enable registration for physics staff. Changes require a full game restart.
+			physics_staff = true
+			#Enable registration for propulsion upgrade t4. Changes require a full game restart.
+			propulsion_upgrade_t4 = true
+			#Enable registration for propulsion upgrade t3. Changes require a full game restart.
+			propulsion_upgrade_t3 = true
+			#Enable registration for propulsion upgrade t2. Changes require a full game restart.
+			propulsion_upgrade_t2 = true
+			#Enable registration for propulsion upgrade t1. Changes require a full game restart.
+			propulsion_upgrade_t1 = true
+			#Enable registration for claw. Changes require a full game restart.
+			claw = true
+			#Enable registration for processing upgrade haunting t4. Changes require a full game restart.
+			processing_upgrade_haunting_t4 = true
+			#Enable registration for thruster lense. Changes require a full game restart.
+			thruster_lense = true
+			#Enable registration for processing upgrade haunting t3. Changes require a full game restart.
+			processing_upgrade_haunting_t3 = true
+			#Enable registration for rope knot. Changes require a full game restart.
+			rope_knot = true
+			#Enable registration for processing upgrade haunting t2. Changes require a full game restart.
+			processing_upgrade_haunting_t2 = true
+			#Enable registration for processing upgrade haunting t1. Changes require a full game restart.
+			processing_upgrade_haunting_t1 = true
+			#Enable registration for advanced navigation table. Changes require a full game restart.
+			advanced_navigation_table = true
+			#Enable registration for thruster bearing. Changes require a full game restart.
+			thruster_bearing = true
+			#Enable registration for shipping manifest. Changes require a full game restart.
+			shipping_manifest = true
+			#Enable registration for gyro redstone bridge. Changes require a full game restart.
+			gyro_redstone_bridge = false
+			#Enable registration for physics gantry shaft. Changes require a full game restart.
+			physics_gantry_shaft = true
+			#Enable registration for physics gantry carriage. Changes require a full game restart.
+			physics_gantry_carriage = true
+			#Enable registration for industrial motor. Changes require a full game restart.
+			industrial_motor = true
+			#Enable registration for virtual orientation source. Changes require a full game restart.
+			virtual_orientation_source = false
+			#Enable registration for contraption network linker. Changes require a full game restart.
+			contraption_network_linker = true
+			#Enable registration for processing upgrade smoking t4. Changes require a full game restart.
+			processing_upgrade_smoking_t4 = true
+			#Enable registration for gyroscope link. Changes require a full game restart.
+			gyroscope_link = true
+			#Enable registration for analogue contraption controller. Changes require a full game restart.
+			analogue_contraption_controller = true
+			#Enable registration for processing upgrade smoking t3. Changes require a full game restart.
+			processing_upgrade_smoking_t3 = true
+			#Enable registration for andesite cable. Changes require a full game restart.
+			andesite_cable = true
+			#Enable registration for processing upgrade smoking t2. Changes require a full game restart.
+			processing_upgrade_smoking_t2 = true
+			#Enable registration for processing upgrade smoking t1. Changes require a full game restart.
+			processing_upgrade_smoking_t1 = true
+			#Enable registration for vertical variable transmission. Changes require a full game restart.
+			vertical_variable_transmission = true
+			#Enable registration for variable transmission. Changes require a full game restart.
+			variable_transmission = true
+			#Enable registration for bidirectional gearbox. Changes require a full game restart.
+			bidirectional_gearbox = true
+			#Enable registration for thruster. Changes require a full game restart.
+			thruster = true
+			#Enable registration for analogue joystick. Changes require a full game restart.
+			analogue_joystick = true
+			#Enable registration for entity launcher. Changes require a full game restart.
+			entity_launcher = true
+			#Enable registration for powered zipline. Changes require a full game restart.
+			powered_zipline = true
+			#Enable registration for vertical bidirectional gearbox. Changes require a full game restart.
+			vertical_bidirectional_gearbox = true
+			#Enable registration for processing upgrade smelting t4. Changes require a full game restart.
+			processing_upgrade_smelting_t4 = true
+			#Enable registration for processing upgrade smelting t3. Changes require a full game restart.
+			processing_upgrade_smelting_t3 = true
+			#Enable registration for processing upgrade smelting t2. Changes require a full game restart.
+			processing_upgrade_smelting_t2 = true
+			#Enable registration for processing upgrade smelting t1. Changes require a full game restart.
+			processing_upgrade_smelting_t1 = true
+			#Enable registration for physics goggles. Changes require a full game restart.
+			physics_goggles = true
+			#Enable registration for alternator. Changes require a full game restart.
+			alternator = true
+			#Enable registration for physics gantry belt wheel. Changes require a full game restart.
+			physics_gantry_belt_wheel = true
+			#Enable registration for aileron bearing. Changes require a full game restart.
+			aileron_bearing = true
+			#Enable registration for music disc twisted alive. Changes require a full game restart.
+			music_disc_twisted_alive = true
+			#Enable registration for scissor piston. Changes require a full game restart.
+			scissor_piston = true
+			#Enable registration for music disc kinetic currency. Changes require a full game restart.
+			music_disc_kinetic_currency = true
+			#Enable registration for scissor arms. Changes require a full game restart.
+			scissor_arms = true
+			#Enable registration for music disc unplug the earth. Changes require a full game restart.
+			music_disc_unplug_the_earth = true
+			#Enable registration for small thruster. Changes require a full game restart.
+			small_thruster = true
+
+		[common.features.entities]
+			#Enable registration for entity launcher. Changes require a full game restart.
+			entity_launcher = true
+
+	#Thruster propulsion, fuel, beam mode, and upgrade scaling
+	[common.thruster]
+		#Base thrust at 100% throttle for normal (non-beam, non-soul) thrusters. Default 640 gives ~2.94 kpN at full throttle in standard atmosphere.
+		# Default: 640.0
+		# Range: 1.0 ~ 100000.0
+		thrusterBaseThrust = 640.0
+		#Base airflow at 100% throttle
+		# Default: 80.0
+		# Range: 0.0 ~ 100000.0
+		thrusterBaseAirflow = 80.0
+		#Base fuel usage in mB/t at 100% throttle for a neutral fuel
+		# Default: 5.6
+		# Range: 0.01 ~ 1000.0
+		thrusterBaseFuelUsePerTick = 5.6
+		#Fuel curve exponent: >1 makes low throttle significantly more efficient
+		# Default: 1.35
+		# Range: 0.1 ~ 4.0
+		thrusterFuelThrottleExponent = 1.35
+		#Thrust multiplier for beam (focused/lense) thruster mode. Default 1.5 gives ~4.41 kpN at full throttle, above normal thrusters at ~2.94 kpN.
+		# Default: 1.5
+		# Range: 0.0 ~ 100.0
+		beamThrustMultiplier = 1.5
+		#Fuel efficiency multiplier for fluids tagged as dense thruster fuels
+		# Default: 1.45
+		# Range: 0.01 ~ 100.0
+		denseFuelEfficiencyMultiplier = 1.45
+		#Fuel efficiency multiplier for fluids tagged as light thruster fuels
+		# Default: 0.7
+		# Range: 0.01 ~ 100.0
+		lightFuelEfficiencyMultiplier = 0.7
+		#FE consumed per tick at 100% throttle when a thruster is in focused/beam mode. Scales linearly with throttle.
+		# Default: 90.0
+		# Range: 1.0 ~ 100000.0
+		focusedModeFePerTick = 90.0
+		#Maximum FE a beam thruster can store internally
+		# Default: 100000
+		# Range: 1000 ~ 10000000
+		focusedModeFeCapacity = 100000
+		#Maximum multiplier allowed from propulsion upgrades. Tiers apply 2x, 4x, 8x, and 16x before this cap.
+		# Default: 16.0
+		# Range: 1.0 ~ 64.0
+		propulsionUpgradeMaxMultiplier = 16.0
+		#Thrust multiplier applied to oxidized thruster fuels
+		# Default: 1.5
+		# Range: 0.0 ~ 100.0
+		oxidizedFuelThrustMultiplier = 1.5
+
+	#Servo Bearing pivot controls
+	[common.thruster_bearing]
+		#Maximum pivot angle in degrees when bearing receives full redstone differential
+		# Default: 90.0
+		# Range: 1.0 ~ 180.0
+		bearingMaxPivotAngleDeg = 90.0
+		#Bearing interpolation factor per tick (0 = no movement, 1 = snap)
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		bearingSmoothing = 0.25
+		#Bearing target debounce ticks before motion updates
+		# Default: 2
+		# Range: 0 ~ 40
+		bearingDebounceTicks = 2
+
+	#Gyroscope and gearbox controls
+	[common.gearbox]
+		#Maximum static per-face angle reported by the bi-directional gearbox from gyro input
+		# Default: 90.0
+		# Range: 1.0 ~ 180.0
+		gearboxMaxStaticAngleDeg = 90.0
+		#Invert gearbox gyro-derived face angles and redstone outputs when the gearbox is powered
+		gearboxReverseWithRedstone = true
+
+	#Shared kinetic and Forge Energy conversion values
+	[common.energy]
+		#Forge Energy conversion rate in FE/t at 256 RPM. The alternator multiplies this by its efficiency; default 5883 keeps alternator output at 5000 FE/t with 0.85 efficiency.
+		# Default: 5883
+		# Range: > 0
+		feAtMaxRpm = 5883
+		#Maximum stress for the Alternator and Industrial Motor in SU at 256 RPM.
+		# Default: 96800
+		# Range: > 0
+		maxStress = 96800
+
+	#Industrial Motor energy input and speed limits
+	[common.industrial_motor]
+		#Industrial Motor min/max RPM range.
+		# Default: 256
+		# Range: > 1
+		motorRpmRange = 256
+		#Industrial Motor minimum required energy consumption in FE/t.
+		# Default: 8
+		# Range: > 0
+		motorMinConsumption = 8
+		#Industrial Motor max FE input transfer rate.
+		# Default: 5000
+		# Range: > 0
+		motorMaxInput = 5000
+		#Industrial Motor internal FE buffer.
+		# Default: 5000
+		# Range: > 0
+		motorCapacity = 5000
+
+	#Alternator energy output and efficiency
+	[common.alternator]
+		#Alternator max FE output transfer rate.
+		# Default: 5000
+		# Range: > 0
+		generatorMaxOutput = 5000
+		#Alternator internal FE buffer.
+		# Default: 5000
+		# Range: > 0
+		generatorCapacity = 5000
+		#Alternator efficiency relative to the shared FE-at-256-RPM conversion rate.
+		# Default: 0.85
+		# Range: 0.01 ~ 1.0
+		generatorEfficiency = 0.85
+
+	#Powered Zipline movement and rope attachment behavior
+	[common.powered_zipline]
+		#Powered Zipline hanging-rope anchor motion damping while ropes are attached. 0 = instant start/stop, 1 = strongest smoothing/coasting. Higher values reduce sway from hard starts and stops.
+		# Default: 0.45
+		# Range: 0.0 ~ 1.0
+		poweredZiplineRopeAttachmentInertiaDamping = 0.45
+
+	#Claw block targeting and entity pickup behavior
+	[common.claw]
+		#Allow the Claw block to scan for and pick up living entities
+		clawCanGrabEntities = true
+
+	#Entity Launcher throw and grapple behavior
+	[common.entity_launcher]
+		#Maximum knockback applied when a fully charged Entity Launcher throws a held entity
+		# Default: 4.0
+		# Range: 0.1 ~ 64.0
+		entityLauncherMaxKnockback = 4.0
+		#Maximum player pull velocity per tick while actively reeling toward a grapple anchor
+		# Default: 0.62
+		# Range: 0.01 ~ 8.0
+		entityLauncherGrappleReelVelocity = 0.62
+		#Maximum player pull velocity per tick when only enforcing rope slack/length without active reel
+		# Default: 0.18
+		# Range: 0.0 ~ 8.0
+		entityLauncherGrappleSlackPullVelocity = 0.18
+		#Maximum grapple movement velocity cap applied to the player
+		# Default: 0.78
+		# Range: 0.1 ~ 16.0
+		entityLauncherGrappleMaxVelocity = 0.78
+		#Tangential swing acceleration applied from movement input while grappling
+		# Default: 0.045
+		# Range: 0.0 ~ 2.0
+		entityLauncherGrappleSwingAcceleration = 0.045
+
+	#Scissor Piston extension limits
+	[common.scissor_piston]
+		#Maximum extension range, in blocks, after adding Scissor Arms
+		# Default: 32
+		# Range: 1 ~ 32
+		maxRange = 32

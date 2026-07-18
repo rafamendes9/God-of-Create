@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:mangrove_planks"
+    },
+    {
+      "item": "quark:vertical_mangrove_planks"
+    }
+  ],
+  "result": {
+    "id": "blocksyouneed_luna:mangrove_thirds_lattice",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

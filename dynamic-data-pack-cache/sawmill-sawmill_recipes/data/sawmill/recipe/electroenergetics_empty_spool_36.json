@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
+  "result": {
+    "id": "electroenergetics:empty_spool",
+    "count": 15
+  },
+  "type": "sawmill:woodcutting"
+}

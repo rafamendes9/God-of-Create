@@ -1,0 +1,12 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
+  "result": {
+    "id": "domum_ornamentum:blockbarreldeco_standing",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

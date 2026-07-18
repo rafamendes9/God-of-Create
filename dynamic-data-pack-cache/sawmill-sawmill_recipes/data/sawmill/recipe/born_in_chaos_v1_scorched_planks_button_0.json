@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "born_in_chaos_v1:scorched_log"
+    },
+    {
+      "item": "born_in_chaos_v1:scorched_wood"
+    },
+    {
+      "item": "born_in_chaos_v1:stripped_scorched_log"
+    },
+    {
+      "item": "born_in_chaos_v1:stripped_scorched_wood"
+    }
+  ],
+  "result": {
+    "id": "born_in_chaos_v1:scorched_planks_button",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

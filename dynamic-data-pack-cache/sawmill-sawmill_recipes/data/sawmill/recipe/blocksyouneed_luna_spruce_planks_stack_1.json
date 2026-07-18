@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:spruce_planks"
+    },
+    {
+      "item": "quark:vertical_spruce_planks"
+    }
+  ],
+  "result": {
+    "id": "blocksyouneed_luna:spruce_planks_stack",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

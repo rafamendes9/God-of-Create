@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "deeperdarker:blooming_stem"
+    },
+    {
+      "item": "deeperdarker:stripped_blooming_stem"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:deeperdarker/way_sign_bloom",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

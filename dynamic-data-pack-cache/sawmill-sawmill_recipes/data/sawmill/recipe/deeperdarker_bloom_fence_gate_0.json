@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "deeperdarker:blooming_stem"
+    },
+    {
+      "item": "deeperdarker:stripped_blooming_stem"
+    }
+  ],
+  "result": {
+    "id": "deeperdarker:bloom_fence_gate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

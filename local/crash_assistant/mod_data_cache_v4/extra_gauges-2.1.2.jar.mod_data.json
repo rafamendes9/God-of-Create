@@ -1,0 +1,1 @@
+{"jarName":"extra_gauges-2.1.2.jar","modId":"extra_gauges","name":"Create: Extra Gauges","version":"2.1.2","mixinConfigs":["extra_gauges.mixins.json"],"jarJarMods":[{"jarName":"exp4j-0.4.8.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}],"curseForgeHash":2267003175,"modrinthHash":"d6bc0896c33213d6b5623dba053dab2df9502bd4"}

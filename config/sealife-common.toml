@@ -1,0 +1,543 @@
+[pickerel]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 2
+	# Default: 2
+	# Range: > 0
+	weight = 2
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	max_count = 3
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 2
+	# Default: 2
+	# Range: > 0
+	min_count = 2
+
+[manta_ray]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	weight = 1
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	max_count = 1
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	min_count = 1
+
+[tuna]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 2
+	# Default: 2
+	# Range: > 0
+	weight = 2
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 5
+	# Default: 5
+	# Range: > 0
+	max_count = 5
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	min_count = 3
+
+[damselfish]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	weight = 3
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	max_count = 3
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 2
+	# Default: 2
+	# Range: > 0
+	min_count = 2
+
+[koi]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	weight = 1
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 2
+	# Default: 2
+	# Range: > 0
+	max_count = 2
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	min_count = 1
+
+[sardine]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 12
+	# Default: 12
+	# Range: > 0
+	weight = 12
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 12
+	# Default: 12
+	# Range: > 0
+	max_count = 12
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 7
+	# Default: 7
+	# Range: > 0
+	min_count = 7
+
+[trout]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 8
+	# Default: 8
+	# Range: > 0
+	weight = 8
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 6
+	# Default: 6
+	# Range: > 0
+	max_count = 6
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 4
+	# Default: 4
+	# Range: > 0
+	min_count = 4
+
+[neon_tetra]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 2
+	# Default: 2
+	# Range: > 0
+	weight = 2
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 8
+	# Default: 8
+	# Range: > 0
+	max_count = 8
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 5
+	# Default: 5
+	# Range: > 0
+	min_count = 5
+
+[stingray]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	weight = 1
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	max_count = 1
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	min_count = 1
+
+[bowfin]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	weight = 3
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 5
+	# Default: 5
+	# Range: > 0
+	max_count = 5
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	min_count = 3
+
+[catfish]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	weight = 3
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 2
+	# Default: 2
+	# Range: > 0
+	max_count = 2
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	min_count = 1
+
+[goldfish]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 12
+	# Default: 12
+	# Range: > 0
+	weight = 12
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 2
+	# Default: 2
+	# Range: > 0
+	max_count = 2
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	min_count = 1
+
+[anglerfish]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	weight = 1
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	max_count = 1
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	min_count = 1
+
+[blue_tang]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	weight = 1
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	max_count = 3
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 2
+	# Default: 2
+	# Range: > 0
+	min_count = 2
+
+[lungfish]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	weight = 1
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	max_count = 1
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	min_count = 1
+
+[angelfish]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	weight = 3
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 5
+	# Default: 5
+	# Range: > 0
+	max_count = 5
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	min_count = 3
+
+[lamprey]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 4
+	# Default: 4
+	# Range: > 0
+	weight = 4
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	max_count = 1
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	min_count = 1
+
+[electric_ray]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	weight = 1
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	max_count = 1
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	min_count = 1
+
+[walleye]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 5
+	# Default: 5
+	# Range: > 0
+	weight = 5
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	max_count = 3
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 2
+	# Default: 2
+	# Range: > 0
+	min_count = 2
+
+[pupfish]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 4
+	# Default: 4
+	# Range: > 0
+	weight = 4
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 5
+	# Default: 5
+	# Range: > 0
+	max_count = 5
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	min_count = 3
+
+[perch]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 10
+	# Default: 10
+	# Range: > 0
+	weight = 10
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 5
+	# Default: 5
+	# Range: > 0
+	max_count = 5
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	min_count = 3
+
+[chub]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 10
+	# Default: 10
+	# Range: > 0
+	weight = 10
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 7
+	# Default: 7
+	# Range: > 0
+	max_count = 7
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 5
+	# Default: 5
+	# Range: > 0
+	min_count = 5
+
+[whitemargin_stargazer]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 2
+	# Default: 2
+	# Range: > 0
+	weight = 2
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	max_count = 1
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	min_count = 1
+
+[piranha]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	weight = 1
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 5
+	# Default: 5
+	# Range: > 0
+	max_count = 5
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	min_count = 3
+
+[butterflyfish]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	weight = 1
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 5
+	# Default: 5
+	# Range: > 0
+	max_count = 5
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	min_count = 3
+
+[northern_pike]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	weight = 1
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 2
+	# Default: 2
+	# Range: > 0
+	max_count = 2
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	min_count = 1
+
+[silver_stripe_blaasop]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	weight = 1
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	max_count = 1
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	min_count = 1
+
+[siamese_fighting_fish]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 2
+	# Default: 2
+	# Range: > 0
+	weight = 2
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	max_count = 1
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 1
+	# Default: 1
+	# Range: > 0
+	min_count = 1
+
+[bass]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 6
+	# Default: 6
+	# Range: > 0
+	weight = 6
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 5
+	# Default: 5
+	# Range: > 0
+	max_count = 5
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 3
+	# Default: 3
+	# Range: > 0
+	min_count = 3
+
+[carp]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 2
+	# Default: 2
+	# Range: > 0
+	weight = 2
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 6
+	# Default: 6
+	# Range: > 0
+	max_count = 6
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 4
+	# Default: 4
+	# Range: > 0
+	min_count = 4
+
+[anchovy]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 14
+	# Default: 14
+	# Range: > 0
+	weight = 14
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 12
+	# Default: 12
+	# Range: > 0
+	max_count = 12
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 8
+	# Default: 8
+	# Range: > 0
+	min_count = 8
+
+[minnow]
+	#How often this mob should spawn, higher values produce more spawns.
+	#Default Value: 14
+	# Default: 14
+	# Range: > 0
+	weight = 14
+	#The maximum count of mobs to spawn in a pack.
+	#Default Value: 8
+	# Default: 8
+	# Range: > 0
+	max_count = 8
+	#The minimum count of mobs to spawn in a pack.
+	#Default Value: 5
+	# Default: 5
+	# Range: > 0
+	min_count = 5

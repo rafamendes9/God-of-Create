@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "everycomp:q/alexscaves/vertical_pewen_planks"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:alexscaves/way_sign_pewen",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

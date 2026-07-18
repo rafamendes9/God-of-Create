@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "alexscaves:thornwood_planks"
+    },
+    {
+      "item": "everycomp:q/alexscaves/vertical_thornwood_planks"
+    }
+  ],
+  "result": {
+    "id": "everycomp:hc/alexscaves/thornwood_pillar_trim",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

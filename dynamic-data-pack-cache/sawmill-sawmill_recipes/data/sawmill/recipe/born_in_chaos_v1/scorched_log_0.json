@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "born_in_chaos_v1:scorched_log"
+  },
+  "result": {
+    "id": "born_in_chaos_v1:stripped_scorched_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

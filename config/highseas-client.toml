@@ -1,0 +1,5 @@
+#HighSeas client-only settings
+[firstrun]
+	#Whether the user has already seen the first-run warning screen.
+	#Set to false to see the warning screen again on next launch.
+	firstRunCompleted = true

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "alexscaves:pewen_log"
+    },
+    {
+      "item": "alexscaves:pewen_wood"
+    },
+    {
+      "item": "alexscaves:stripped_pewen_log"
+    },
+    {
+      "item": "alexscaves:stripped_pewen_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

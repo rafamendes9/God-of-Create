@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "quark:vertical_bamboo_planks"
+    }
+  ],
+  "result": {
+    "id": "blocksyouneed_luna:bamboo_planks_elegant",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "everycomp:q/cataclysm/vertical_chorus_planks"
+    }
+  ],
+  "result": {
+    "id": "pantographsandwires:empty_wire_coil",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

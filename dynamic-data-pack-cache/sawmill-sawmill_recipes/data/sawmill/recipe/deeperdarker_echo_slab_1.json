@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "deeperdarker:echo_planks"
+    },
+    {
+      "item": "everycomp:q/deeperdarker/vertical_echo_planks"
+    }
+  ],
+  "result": {
+    "id": "deeperdarker:echo_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

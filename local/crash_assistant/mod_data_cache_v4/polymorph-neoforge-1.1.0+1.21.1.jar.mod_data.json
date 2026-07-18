@@ -1,0 +1,1 @@
+{"jarName":"polymorph-neoforge-1.1.0+1.21.1.jar","modId":"polymorph","name":"Polymorph","version":"1.1.0+1.21.1","mixinConfigs":["polymorph.mixins.json","polymorph-compatibility.mixins.json","polymorph-compatibility.neoforge.mixins.json"],"jarJarMods":[],"curseForgeHash":2982501720,"modrinthHash":"84f8c539fa326dc723ae62b7a6916d6b01982d07"}

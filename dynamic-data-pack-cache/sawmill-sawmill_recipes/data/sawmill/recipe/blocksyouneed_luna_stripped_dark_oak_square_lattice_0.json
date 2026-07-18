@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:dark_oak_log"
+    },
+    {
+      "item": "minecraft:dark_oak_wood"
+    },
+    {
+      "item": "minecraft:stripped_dark_oak_log"
+    },
+    {
+      "item": "minecraft:stripped_dark_oak_wood"
+    }
+  ],
+  "result": {
+    "id": "blocksyouneed_luna:stripped_dark_oak_square_lattice",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

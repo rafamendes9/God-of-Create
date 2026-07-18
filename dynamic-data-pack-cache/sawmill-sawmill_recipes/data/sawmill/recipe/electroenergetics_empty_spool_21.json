@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "quark:vertical_bamboo_planks"
+    }
+  ],
+  "result": {
+    "id": "electroenergetics:empty_spool",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

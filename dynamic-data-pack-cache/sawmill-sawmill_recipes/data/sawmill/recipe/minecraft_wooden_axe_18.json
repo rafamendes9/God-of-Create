@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "deeperdarker:blooming_stem"
+    },
+    {
+      "item": "deeperdarker:stripped_blooming_stem"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

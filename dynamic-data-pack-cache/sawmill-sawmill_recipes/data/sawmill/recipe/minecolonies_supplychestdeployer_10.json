@@ -1,0 +1,17 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "deeperdarker:blooming_stem"
+    },
+    {
+      "item": "deeperdarker:stripped_blooming_stem"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:supplychestdeployer",
+    "count": 1
+  },
+  "ingredient_count": 5,
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "alexscaves:thornwood_log"
+    },
+    {
+      "item": "alexscaves:thornwood_wood"
+    },
+    {
+      "item": "alexscaves:stripped_thornwood_log"
+    },
+    {
+      "item": "alexscaves:stripped_thornwood_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

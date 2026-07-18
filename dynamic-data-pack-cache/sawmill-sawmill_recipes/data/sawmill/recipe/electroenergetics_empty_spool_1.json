@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:warped_planks"
+    },
+    {
+      "item": "quark:vertical_warped_planks"
+    }
+  ],
+  "result": {
+    "id": "electroenergetics:empty_spool",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

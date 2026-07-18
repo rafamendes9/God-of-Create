@@ -1,0 +1,4 @@
+#The cost of blooming a floculus
+# Default: 3
+# Range: > 0
+experienceCost = 3

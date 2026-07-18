@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "alexscaves:thornwood_log"
+  },
+  "result": {
+    "id": "alexscaves:stripped_thornwood_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

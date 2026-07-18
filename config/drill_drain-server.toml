@@ -1,0 +1,4 @@
+#Controls how much the drill drains are able to collect (0.0 - 1.0)
+# Default: 0.1
+# Range: 0.0 ~ 1.0
+fluidPickupModifier = 0.1

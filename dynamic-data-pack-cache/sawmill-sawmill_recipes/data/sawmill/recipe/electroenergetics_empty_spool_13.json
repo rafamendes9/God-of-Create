@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "northstar:argyre_planks"
+    },
+    {
+      "item": "everycomp:q/northstar/vertical_argyre_planks"
+    }
+  ],
+  "result": {
+    "id": "electroenergetics:empty_spool",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

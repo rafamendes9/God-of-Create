@@ -1,0 +1,4 @@
+# How much of the forward rolling friction stays active when NOT braking. (0.0 = completely frictionless, 1.0 = normal vanilla behavior)
+# Default: 0.01
+# Range: 0.0 ~ 1.0
+rollingFrictionMultiplier = 0.01

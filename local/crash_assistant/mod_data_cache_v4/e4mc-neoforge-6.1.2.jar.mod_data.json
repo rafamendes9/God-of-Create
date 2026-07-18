@@ -1,0 +1,1 @@
+{"jarName":"e4mc-neoforge-6.1.2.jar","modId":"e4mc","name":"e4mc","version":"6.1.2","mixinConfigs":["e4mc.mixins.json"],"jarJarMods":[{"jarName":"kaleido-config-0.3.3+1.3.2.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}],"curseForgeHash":4102109649,"modrinthHash":"1146ae355c716fbcd60bee90f2c3b2db129612c4"}
