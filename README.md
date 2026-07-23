@@ -135,7 +135,7 @@ FTB Quests, Create Questing (Data Pack)
 
 - **RAM**: 9 - 16 GB alocada
 - **Processador**: Intel i7/Ryzen 5 ou superior
-- **Armazenamento**: SSD Mínimo 8 GB de espaço livre para até 1 mes de gameplay ( isso pode variar de acordo com seu nivel de exploracao )
+- **Armazenamento**: SSD Mínimo 10 GB de espaço livre para até 1 mes de gameplay ( isso pode variar de acordo com seu nivel de exploracao )
 - **Java**: 17+ (compatível com Neo Forge)
 
 > ⚠️ Devido ao mod Distant Horizon entre outros, configurações com menos de 12 GB RAM podem apresentar lag ou crash
@@ -177,7 +177,9 @@ FTB Quests, Create Questing (Data Pack)
 
 11. Feche o diretorio e selecione "Jogar"no perfil criado anteriormente no "CurseForge"
 
-OBS: Boa Jogatina
+OBS: Fiz esse metodo por alguns motivos: O Cursefortge não é nosso amigo, ele sempre vai tentar corromper o seu modpack instalado ou save ao atualizar sem o conssentimento do usuario de forma silenciosa os mods ou o proprio modpack ( sempre faça backup da pasta do seu modpack)
+
+ Alguns mods/datapacks/shaders/resoucerpack são achados exclusivamente fora do curseforge por questões que fogem totalmente do meu controle ou curadoria, por esse motivo fiz esse metododo totalmente desligado para que voce como jogador nao precise ter dores de cabeças com atualizacoes ou qualquer outra "novidade" que eles tentem fazer, Boa Jogatina
 
 ### 3. Aplicar Seed Recomendada
 

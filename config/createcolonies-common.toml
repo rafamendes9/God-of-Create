@@ -1,2 +1,0 @@
-#Enable the debug log for items needed during the build (only recommended for development)
-debugLog = false

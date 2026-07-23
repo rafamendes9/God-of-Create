@@ -1,0 +1,17 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    }
+  ],
+  "result": {
+    "id": "minecraft:chiseled_bookshelf",
+    "count": 1
+  },
+  "ingredient_count": 3,
+  "type": "sawmill:woodcutting"
+}

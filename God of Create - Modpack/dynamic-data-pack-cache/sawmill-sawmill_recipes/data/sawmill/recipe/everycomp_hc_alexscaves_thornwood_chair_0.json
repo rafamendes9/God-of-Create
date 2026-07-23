@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "alexscaves:thornwood_log"
+    },
+    {
+      "item": "alexscaves:thornwood_wood"
+    },
+    {
+      "item": "alexscaves:stripped_thornwood_log"
+    },
+    {
+      "item": "alexscaves:stripped_thornwood_wood"
+    }
+  ],
+  "result": {
+    "id": "everycomp:hc/alexscaves/thornwood_chair",
+    "count": 3
+  },
+  "type": "sawmill:woodcutting"
+}

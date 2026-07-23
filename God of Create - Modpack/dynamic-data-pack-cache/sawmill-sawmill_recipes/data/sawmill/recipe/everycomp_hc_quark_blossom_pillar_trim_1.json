@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "quark:blossom_planks"
+  },
+  "result": {
+    "id": "everycomp:hc/quark/blossom_pillar_trim",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

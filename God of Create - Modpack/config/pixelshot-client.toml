@@ -1,0 +1,39 @@
+[high_resolution_screenshots]
+	#Vertical amount of pixels for high resolution screenshots.
+	#Largest allowed value depends on current system and will crash when unsupported. If that happens enable tiled rendering.
+	#Default Value: 2160
+	# Default: 2160
+	# Range: > 1
+	image_height = 2160
+	#Alternative high resolution screenshot rendering method, will halt the game while taking the screenshot. Supports higher resolutions than the default rendering.
+	#Rarely causes an unexpected indefinite client freeze while capturing. Use with caution.
+	#Default Value: false
+	tiled_rendering = false
+	#Image width and height for panoramic screenshot tiles. Should ideally be two to the power of X.
+	#Default Value: 1024
+	# Default: 1024
+	# Range: > 1
+	panoramic_resolution = 1024
+	#Horizontal amount of pixels for high resolution screenshots.
+	#Largest allowed value depends on current system and will crash when unsupported. If that happens enable tiled rendering.
+	#Default Value: 3840
+	# Default: 3840
+	# Range: > 1
+	image_width = 3840
+
+[orthographic_camera]
+	#Default rotation in degrees when opening the orthographic camera for the horizontal axis.
+	#Default Value: 30.0
+	# Default: 30.0
+	# Range: -90.0 ~ 90.0
+	initial_x_rotation = 30.0
+	#Default zoom level when opening the orthographic camera.
+	#Default Value: 8.0
+	# Default: 8.0
+	# Range: 0.10000000149011612 ~ 500.0
+	initial_zoom_level = 8.0
+	#Default rotation in degrees when opening the orthographic camera for the vertical axis.
+	#Default Value: 135.0
+	# Default: 135.0
+	# Range: -180.0 ~ 180.0
+	initial_y_rotation = 135.0

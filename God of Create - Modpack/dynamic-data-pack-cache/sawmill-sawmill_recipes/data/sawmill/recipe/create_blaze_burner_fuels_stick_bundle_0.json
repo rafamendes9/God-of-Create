@@ -1,0 +1,12 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "tag": "minecraft:logs"
+  },
+  "result": {
+    "id": "create_blaze_burner_fuels:stick_bundle",
+    "count": 1
+  },
+  "ingredient_count": 3,
+  "type": "sawmill:woodcutting"
+}

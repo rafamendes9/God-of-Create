@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:crimson_stem"
+    },
+    {
+      "item": "minecraft:crimson_hyphae"
+    },
+    {
+      "item": "minecraft:stripped_crimson_stem"
+    },
+    {
+      "item": "minecraft:stripped_crimson_hyphae"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:crimson_cabinet",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

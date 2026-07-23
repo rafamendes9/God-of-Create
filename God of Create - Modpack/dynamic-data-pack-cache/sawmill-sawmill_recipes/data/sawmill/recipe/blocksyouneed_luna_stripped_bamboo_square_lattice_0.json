@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    }
+  ],
+  "result": {
+    "id": "blocksyouneed_luna:stripped_bamboo_square_lattice",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

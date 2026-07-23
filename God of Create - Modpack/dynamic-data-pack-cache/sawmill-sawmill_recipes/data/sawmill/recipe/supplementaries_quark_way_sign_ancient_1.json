@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "quark:ancient_planks"
+  },
+  "result": {
+    "id": "supplementaries:quark/way_sign_ancient",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

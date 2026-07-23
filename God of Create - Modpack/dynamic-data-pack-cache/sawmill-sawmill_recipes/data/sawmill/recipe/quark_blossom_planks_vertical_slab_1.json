@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "quark:blossom_planks"
+  },
+  "result": {
+    "id": "quark:blossom_planks_vertical_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

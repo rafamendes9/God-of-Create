@@ -1,8 +1,0 @@
-#Whether should add already collected item to result processing pattern.
-addGathered = false
-#Whether should add the 'create.materialChecklist.blocksNotLoaded' message to item lore when some chunks not loaded.
-showBlocksNotLoadedMessage = true
-#Whether should rename the output item to the nbt file name.
-showNbtFileName = true
-#The placeholder output item in processing pattern. Leave empty to use source blueprint.
-outputItem = ""

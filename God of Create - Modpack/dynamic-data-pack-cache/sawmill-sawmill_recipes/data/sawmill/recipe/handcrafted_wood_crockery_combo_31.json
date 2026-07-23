@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "born_in_chaos_v1:scorched_planks"
+    },
+    {
+      "item": "everycomp:q/born_in_chaos_v1/vertical_scorched_planks"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_crockery_combo",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

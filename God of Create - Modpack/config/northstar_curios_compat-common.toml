@@ -1,0 +1,13 @@
+[space_walk]
+	#Equipment slots that can receive the Space Walk enchantment.
+	#Valid values: feet, legs, chest, head
+	allowedSlots = ["feet"]
+	#Whether the Space Walk enchantment can appear in the enchanting table.
+	discoverable = false
+	#Whether the Space Walk enchantment can be obtained through villager trades.
+	tradeable = false
+	#Durability consumed per second while Space Walk actively enforces earth-like gravity.
+	#Set to 0 to disable durability consumption.
+	# Default: 1.0
+	# Range: 0.0 ~ 1000.0
+	durabilityPerSecond = 1.0

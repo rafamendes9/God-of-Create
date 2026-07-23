@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "supplementaries:block/way_signs/template",
-	"textures": {
-		"particle": "supplementaries:block/way_signs/cataclysm/way_sign_chorus",
-		"sign": "supplementaries:block/way_signs/cataclysm/way_sign_chorus"
-	}
-}

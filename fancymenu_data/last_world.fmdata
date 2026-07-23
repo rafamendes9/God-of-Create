@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = C:/Users/Rafaell/curseforge/minecraft/Instances/Meu Create/saves/Sol Nascente
-}
-

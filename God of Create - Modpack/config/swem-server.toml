@@ -1,0 +1,56 @@
+#|| How much to heal the player wearing Netherite+ Riding Boots as a percentage of damage dealt.
+# Default: 0.05
+# Range: 0.01 ~ 1.0
+lifesteal = 0.05
+
+# || =========== [Horse Care] =========== ||
+[horse_care]
+	# || Specify how many minutes the Health Booster lasts for?
+	# || We recommend '600' ~(30mc days) for singleplayer, and '10,000' ~(504mc days / 7irl days) for multiplayer.
+	# Default: 600
+	# Range: > 1
+	healthBoosterTime = 600
+
+# || =========== [Horse Experience Levels] =========== ||
+[horse_experience_levels]
+	# || Amount of XP required to max a horse's Speed stat.
+	# || We recommend '13500' for singleplayer, and '100000' for multiplayer.
+	# Default: 13500
+	# Range: > 1
+	maxSpeedXP = 13500
+	# || Amount of XP required to max a horse's Jump stat.
+	# || We recommend '13500' for singleplayer, and '100000' for multiplayer.
+	# Default: 13500
+	# Range: > 1
+	maxJumpXP = 13500
+	# || Amount of XP required to max a horse's Health  stat.
+	# || We recommend '13500' for singleplayer, and '100000' for multiplayer.
+	# Default: 13500
+	# Range: > 1
+	maxHealthXP = 13500
+	# || Amount of XP required to max a horse's Affinity stat.
+	# || We recommend '17000' for singleplayer, and '50000' for multiplayer.
+	# Default: 17000
+	# Range: > 1
+	maxAffinityXP = 17000
+
+# || =========== [Server Admin] =========== ||
+[server_admin]
+	# || Enable Coat Cycling (via lapis lazuli and redstone)?
+	# || Do not enable if the server is multiplayer and has an economy.
+	allowCoatCycling = true
+	# || Can Secret Coats be obtained via Secret Items? (Default = True = Yes)
+	# || Do not enable if the server is multiplayer and has an economy.
+	allowSecretCoats = true
+	# || Should the perks provided by the Amethyst Armor (excluding Amethyst Riding Boots) be disabled?
+	disableAmethystPerks = false
+	# || Should the rider be teleported with the horse if the horse should fall into the void whilst the horse is wearing Amethyst Tier Armor.
+	voidTP = true
+	# || Enable SWEM's built-in permission node system for controlling player use of commands.
+	# || This is recommended for servers ONLY.
+	enableKeyPermission = false
+	# || What horses should spawn? Vanilla horses only, SWEM horses only, or Both?
+	#Allowed Values: VANILLA_ONLY, SWEM_ONLY, BOTH
+	horseSpawn = "BOTH"
+	# || Should winged horse fly without requirement of Amethyst Horse Armor?
+	wingedHorseFly = true

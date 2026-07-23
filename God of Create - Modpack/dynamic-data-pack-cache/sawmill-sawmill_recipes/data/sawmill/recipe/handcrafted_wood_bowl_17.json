@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "everycomp:q/alexscaves/vertical_pewen_planks"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_bowl",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

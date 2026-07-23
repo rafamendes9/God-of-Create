@@ -1,0 +1,18 @@
+#Globally enable or disable horizontal mechanical crafter layouts.
+enableHorizontalGrid = true
+#The maximum number of connected mechanical crafter blocks to search in BFS traversals (validation & cache invalidation) to prevent lag spikes on giant setups.
+# Default: 100
+# Range: 10 ~ 500
+bfsSafetyLimit = 100
+#If true, adjacent horizontal and vertical crafter grids will attempt to connect. (Default is false to isolate them and prevent visual glitching).
+allowHorizontalVerticalCohabitation = false
+#Globally enable or disable the placement assistant that automatically configures placed mechanical crafters to match adjacent horizontal or vertical grids.
+autoAlignPlacement = true
+#The Y-axis height offset above the block face where items are spawned/ejected when a horizontal craft is completed or cleared.
+# Default: 0.65
+# Range: 0.1 ~ 1.5
+ejectSpawnOffset = 0.65
+#The duration (in milliseconds, 1000ms = 1 second) that the Wrench Mode selection HUD card remains on screen after sneaky scrolling.
+# Default: 2000
+# Range: 500 ~ 15000
+wrenchHudDuration = 2000

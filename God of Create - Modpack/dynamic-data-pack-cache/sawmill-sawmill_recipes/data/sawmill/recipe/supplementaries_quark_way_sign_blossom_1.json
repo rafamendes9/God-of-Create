@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "quark:blossom_planks"
+  },
+  "result": {
+    "id": "supplementaries:quark/way_sign_blossom",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

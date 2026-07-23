@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "northstar:coiler_log"
+    },
+    {
+      "item": "northstar:stripped_coiler_log"
+    }
+  ],
+  "result": {
+    "id": "domum_ornamentum:blockbarreldeco_onside",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

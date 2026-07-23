@@ -1,0 +1,20 @@
+{
+  "rain": {
+    "enabled": false,
+    "opacity": 0.19999999,
+    "tintType": "FOG"
+  },
+  "heavy_dust": {},
+  "splatter": {},
+  "smoke": {},
+  "streak": {},
+  "mist": {},
+  "shrub": {},
+  "snow_haze": {},
+  "mist_after_rain": {},
+  "ripple": {},
+  "rain_haze": {},
+  "snow": {},
+  "dust": {},
+  "dust_haze": {}
+}

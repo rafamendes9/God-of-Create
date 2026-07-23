@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:warped_stem"
+    },
+    {
+      "item": "minecraft:warped_hyphae"
+    },
+    {
+      "item": "minecraft:stripped_warped_stem"
+    },
+    {
+      "item": "minecraft:stripped_warped_hyphae"
+    }
+  ],
+  "result": {
+    "id": "quark:warped_ladder",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

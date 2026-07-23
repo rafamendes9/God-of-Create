@@ -1,0 +1,23 @@
+[worldshaper]
+	#Maximum raycast range for the enhanced Worldshaper.
+	# Default: 64
+	# Range: 1 ~ 256
+	maxRange = 64
+	#Maximum width, height, and length for the Cuboid brush in the enhanced Worldshaper UI.
+	# Default: 120
+	# Range: 1 ~ 120
+	maxCuboidBrushSize = 120
+	#Maximum block positions that the enhanced Worldshaper may process in one action.
+	# Default: 1728000
+	# Range: 1 ~ 1728000
+	maxBlocksPerAction = 1728000
+	#When true, Clear mode drops blocks using normal Minecraft loot tables.
+	enableDropsOnClear = true
+	#Maximum item count that Clear mode may drop in one action. Further blocks are still cleared, but their drops are skipped.
+	# Default: 4096
+	# Range: 1 ~ 65536
+	dropLimitPerAction = 4096
+	#When true, Clear mode evaluates loot tables with Silk Touch.
+	silkTouchClearMode = false
+	#Blocks that the enhanced Worldshaper must not clear.
+	blacklistBlocks = ["minecraft:bedrock", "minecraft:barrier", "minecraft:command_block"]

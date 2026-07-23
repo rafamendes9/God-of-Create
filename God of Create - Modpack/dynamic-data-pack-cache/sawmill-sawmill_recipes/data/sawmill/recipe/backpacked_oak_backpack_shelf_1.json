@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:oak_planks"
+    },
+    {
+      "item": "quark:vertical_oak_planks"
+    }
+  ],
+  "result": {
+    "id": "backpacked:oak_backpack_shelf",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

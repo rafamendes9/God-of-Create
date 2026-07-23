@@ -1,9 +1,0 @@
-{
-	"loader": "amendments:wall_lantern",
-	"support": {
-		"parent": "amendments:block/arcanelanterns/wall_brilliant_lantern_2_template",
-		"textures": {
-			"1": "amendments:block/wall_lanterns/arcanelanterns/brilliant_lantern"
-		}
-	}
-}

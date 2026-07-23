@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "alexscaves:pewen_log"
+    },
+    {
+      "item": "alexscaves:pewen_wood"
+    },
+    {
+      "item": "alexscaves:stripped_pewen_log"
+    },
+    {
+      "item": "alexscaves:stripped_pewen_wood"
+    }
+  ],
+  "result": {
+    "id": "everycomp:bp/alexscaves/pewen_backpack_shelf",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

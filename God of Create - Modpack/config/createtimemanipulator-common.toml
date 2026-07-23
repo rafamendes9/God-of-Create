@@ -1,0 +1,45 @@
+#Minimum RPM to apply Clear Weather effect
+# Default: 32
+# Range: > 1
+rpmClearWeather = 32
+#Minimum RPM to trigger Rain
+# Default: 64
+# Range: > 1
+rpmRain = 64
+#Minimum RPM to trigger Thunder
+# Default: 128
+# Range: > 1
+rpmThunder = 128
+#Minimum RPM to set time to Day
+# Default: 32
+# Range: > 1
+rpmSetDay = 32
+#Minimum RPM to set time to Night
+# Default: 64
+# Range: > 1
+rpmSetNight = 64
+#Minimum RPM to freeze time at the current value
+# Default: 256
+# Range: > 1
+rpmFreezeTime = 256
+#Minimum RPM for Perpetual Day (locks time to noon)
+# Default: 128
+# Range: > 1
+rpmPerpetualDay = 128
+#Minimum RPM for Perpetual Night (locks time to midnight)
+# Default: 128
+# Range: > 1
+rpmPerpetualNight = 128
+#Item used as catalyst for Clear Weather (ResourceLocation)
+catalystClearWeather = "minecraft:ice"
+catalystRain = "minecraft:water_bucket"
+catalystThunder = "minecraft:lightning_rod"
+catalystSetDay = "minecraft:clock"
+catalystSetNight = "minecraft:ender_pearl"
+catalystFreezeTime = "minecraft:nether_star"
+catalystPerpetualDay = "minecraft:daylight_detector"
+catalystPerpetualNight = "minecraft:blaze_rod"
+#Max items allowed in the catalyst slot (1-64)
+# Default: 64
+# Range: 1 ~ 64
+maxItemsPerSlot = 64

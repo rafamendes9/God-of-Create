@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "tag": "minecraft:planks"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

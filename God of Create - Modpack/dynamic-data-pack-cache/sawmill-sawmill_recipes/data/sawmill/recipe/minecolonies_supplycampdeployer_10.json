@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "alexscaves:pewen_log"
+    },
+    {
+      "item": "alexscaves:pewen_wood"
+    },
+    {
+      "item": "alexscaves:stripped_pewen_log"
+    },
+    {
+      "item": "alexscaves:stripped_pewen_wood"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:supplycampdeployer",
+    "count": 1
+  },
+  "ingredient_count": 10,
+  "type": "sawmill:woodcutting"
+}

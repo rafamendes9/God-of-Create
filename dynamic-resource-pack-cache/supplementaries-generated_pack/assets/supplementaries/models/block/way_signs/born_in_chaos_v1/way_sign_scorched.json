@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "supplementaries:block/way_signs/template",
-	"textures": {
-		"particle": "supplementaries:block/way_signs/born_in_chaos_v1/way_sign_scorched",
-		"sign": "supplementaries:block/way_signs/born_in_chaos_v1/way_sign_scorched"
-	}
-}

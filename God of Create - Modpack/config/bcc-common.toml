@@ -1,0 +1,13 @@
+#General settings
+[general]
+	#modpackProjectID is now deprecated and will be removed soon
+	# Default: 0
+	# Range: > 0
+	modpackProjectID = 26637
+	#The name of the modpack
+	modpackName = "All of Create 1.21"
+	#The version of the modpack
+	modpackVersion = "v2.1"
+	#Use the metadata.json to determine the modpack version
+	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
+	useMetadata = false

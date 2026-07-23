@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:spruce_planks"
+    },
+    {
+      "item": "quark:vertical_spruce_planks"
+    }
+  ],
+  "result": {
+    "id": "casualswing:spruce_swing_seat",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

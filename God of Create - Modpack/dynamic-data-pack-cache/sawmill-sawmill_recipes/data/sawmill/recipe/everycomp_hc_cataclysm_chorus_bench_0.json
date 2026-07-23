@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
+  "result": {
+    "id": "everycomp:hc/cataclysm/chorus_bench",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

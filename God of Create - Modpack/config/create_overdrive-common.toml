@@ -1,0 +1,44 @@
+#Minimum allowed radius for the particle accelerator
+# Default: 10
+# Range: 1 ~ 100
+min_radius = 10
+#Maximum allowed radius for the particle accelerator
+# Default: 32
+# Range: 1 ~ 256
+max_radius = 32
+#Default size used for accelerator recipes if not specified in the recipe JSON
+# Default: 10
+# Range: 1 ~ 256
+accelerator_default_size = 10
+#Fractional speed change per block deviation from the configured radius. Positive values make recipes faster the more the radius deviates.
+# Default: 0.05
+# Range: 0.0 ~ 1.0
+accelerator_speed_per_radius_diff = 0.05
+#Energy capacity of the Rotator Input
+# Default: 1000000
+# Range: > 1000
+rotator_capacity = 1000000
+#Maximum energy output of the Rotator Input per tick
+# Default: 250000
+# Range: > 100
+rotator_max_output = 250000
+#FE per 1000 unit of stress for the Rotator
+# Default: 25.0
+# Range: 0.0 ~ 2.147483647E9
+fe_stress = 25.0
+#Efficiency multiplier for energy conversion in the Rotator
+# Default: 1.0
+# Range: 0.1 ~ 1.0
+rotator_efficiency = 1.0
+#Stress added per extra rotator wheel (per unit of size). Default 10000
+# Default: 10000
+# Range: > 0
+rotator_stress_per_wheel = 10000
+#Maximum allowed width (number of Layer-2 columns) for the Rotator multiblock
+# Default: 10
+# Range: 1 ~ 32
+rotator_max_width = 10
+#Maximum SU that the fusion reactor generates
+# Default: 1048576
+# Range: > 1000
+max_fusion_generation = 1048576

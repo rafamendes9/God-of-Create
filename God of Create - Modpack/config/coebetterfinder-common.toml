@@ -1,0 +1,36 @@
+[radar]
+	#Rayon de scan du radar, en chunks.
+	# Default: 16
+	# Range: 1 ~ 64
+	rayonScanChunks = 16
+	#Intervalle entre deux scans serveur du radar, en ticks (jamais chaque tick).
+	# Default: 10
+	# Range: 5 ~ 100
+	intervalleScanTicks = 10
+	#Délai (cooldown) entre deux utilisations du radar, en ticks (20 ticks = 1 s).
+	# Default: 60
+	# Range: 10 ~ 1000
+	cooldownTicks = 60
+
+[densite]
+	#Active le placement de veines supplémentaires selon la densité radiale.
+	active = false
+	#Rayon (blocs) autour du spawn sans veine ajoutée par la densité.
+	# Default: 256.0
+	# Range: 0.0 ~ 1000000.0
+	rayonSpawnSansVeine = 256.0
+	#Distance (blocs) au spawn où la densité atteint son maximum.
+	# Default: 8000.0
+	# Range: 1.0 ~ 1000000.0
+	distanceDensiteMax = 8000.0
+	#Proportion minimale de chunks porteurs (au bord de la zone protégée).
+	# Default: 0.02
+	# Range: 0.0 ~ 1.0
+	densiteMin = 0.02
+	#Proportion maximale de chunks porteurs (à distanceDensiteMax et au-delà).
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	densiteMax = 0.2
+	#Courbe de croissance de la densité : LINEAIRE, PALIERS ou EXPONENTIELLE.
+	#Allowed Values: LINEAIRE, PALIERS, EXPONENTIELLE
+	courbe = "LINEAIRE"

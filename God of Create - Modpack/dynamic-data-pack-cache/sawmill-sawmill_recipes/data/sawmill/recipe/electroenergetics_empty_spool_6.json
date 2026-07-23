@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "northstar:calorian_log"
+  },
+  "result": {
+    "id": "electroenergetics:empty_spool",
+    "count": 25
+  },
+  "type": "sawmill:woodcutting"
+}

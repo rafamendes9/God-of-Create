@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "deeperdarker:echo_log"
+    },
+    {
+      "item": "deeperdarker:echo_wood"
+    },
+    {
+      "item": "deeperdarker:stripped_echo_log"
+    },
+    {
+      "item": "deeperdarker:stripped_echo_wood"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:supplychestdeployer",
+    "count": 1
+  },
+  "ingredient_count": 5,
+  "type": "sawmill:woodcutting"
+}

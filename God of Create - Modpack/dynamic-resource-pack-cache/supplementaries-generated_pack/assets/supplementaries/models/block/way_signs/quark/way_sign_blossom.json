@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "supplementaries:block/way_signs/template",
+	"textures": {
+		"particle": "supplementaries:block/way_signs/quark/way_sign_blossom",
+		"sign": "supplementaries:block/way_signs/quark/way_sign_blossom"
+	}
+}

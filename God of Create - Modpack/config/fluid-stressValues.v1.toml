@@ -1,0 +1,7 @@
+#Stress impact configurations for fluid
+#[in Stress Units]
+[impact]
+	fluid_atomizer = 4.0
+	centrifugal_pump = 8.0
+	logistics_junction = 8.0
+	pipette = 2.0

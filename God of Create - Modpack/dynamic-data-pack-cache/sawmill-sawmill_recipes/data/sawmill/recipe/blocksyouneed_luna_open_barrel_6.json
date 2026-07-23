@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "northstar:calorian_log"
+  },
+  "result": {
+    "id": "blocksyouneed_luna:open_barrel",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

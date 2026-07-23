@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:jungle_planks"
+    },
+    {
+      "item": "quark:vertical_jungle_planks"
+    }
+  ],
+  "result": {
+    "id": "casualswing:backed_jungle_swing_seat",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

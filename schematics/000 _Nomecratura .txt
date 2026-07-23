@@ -1,5 +1,0 @@
-B - Bulding  - Contrucao uteis
-D - Building - Decorativo ou estruturas sem maquinas ou para maquinas	
-E - Entity   - Entidade de todos os tipos	
-P - Portals  - Portais
-T - Trains   - Trens, trilhos, Vagoes, Monotrens

@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:birch_planks"
+    },
+    {
+      "item": "quark:vertical_birch_planks"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:birch_pillar_trim",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

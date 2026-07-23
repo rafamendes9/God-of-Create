@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "minecraft:dark_oak_wood"
+  },
+  "result": {
+    "id": "minecraft:stripped_dark_oak_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

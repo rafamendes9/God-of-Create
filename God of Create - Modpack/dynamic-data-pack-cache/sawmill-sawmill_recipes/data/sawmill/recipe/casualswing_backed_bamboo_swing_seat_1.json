@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "quark:vertical_bamboo_planks"
+    }
+  ],
+  "result": {
+    "id": "casualswing:backed_bamboo_swing_seat",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

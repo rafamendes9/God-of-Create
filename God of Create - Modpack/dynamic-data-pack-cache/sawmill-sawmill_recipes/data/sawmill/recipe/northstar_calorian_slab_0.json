@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "northstar:calorian_log"
+  },
+  "result": {
+    "id": "northstar:calorian_slab",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

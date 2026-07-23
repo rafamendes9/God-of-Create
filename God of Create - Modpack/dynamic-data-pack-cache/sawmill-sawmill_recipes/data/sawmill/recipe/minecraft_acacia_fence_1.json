@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:acacia_planks"
+    },
+    {
+      "item": "quark:vertical_acacia_planks"
+    }
+  ],
+  "result": {
+    "id": "minecraft:acacia_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

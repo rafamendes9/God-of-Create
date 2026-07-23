@@ -1,0 +1,8 @@
+#HighSeas experimental features (waves + physics)
+[experimental]
+	#Enables HighSeas experimental features: visual ocean waves,
+	#ship buoyancy and interior flooding physics.
+	#WARNING: experimental and known to cause significant performance loss.
+	#On a dedicated server this toggle controls whether physics ticks at all.
+	#Default: false
+	experimentalEnabled = false

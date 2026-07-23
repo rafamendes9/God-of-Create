@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "quark:blossom_planks"
+  },
+  "result": {
+    "id": "everycomp:hc/quark/blossom_dining_bench",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

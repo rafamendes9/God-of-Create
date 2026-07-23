@@ -1,0 +1,12 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "minecraft:cactus"
+  },
+  "result": {
+    "id": "minecraft:crafting_table",
+    "count": 1
+  },
+  "ingredient_count": 5,
+  "type": "sawmill:woodcutting"
+}

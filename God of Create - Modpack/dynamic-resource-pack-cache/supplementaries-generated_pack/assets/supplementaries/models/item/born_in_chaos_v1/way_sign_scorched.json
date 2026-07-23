@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "supplementaries:item/way_signs/born_in_chaos_v1/way_sign_scorched"
+  }
+}

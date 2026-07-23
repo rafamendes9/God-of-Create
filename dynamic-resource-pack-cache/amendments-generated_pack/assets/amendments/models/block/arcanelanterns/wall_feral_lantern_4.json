@@ -1,9 +1,0 @@
-{
-	"loader": "amendments:wall_lantern",
-	"support": {
-		"parent": "amendments:block/arcanelanterns/wall_feral_lantern_4_template",
-		"textures": {
-			"1": "amendments:block/wall_lanterns/arcanelanterns/feral_lantern"
-		}
-	}
-}

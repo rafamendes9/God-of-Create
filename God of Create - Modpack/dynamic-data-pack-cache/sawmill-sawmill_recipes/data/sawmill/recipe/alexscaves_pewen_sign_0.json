@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "alexscaves:pewen_log"
+    },
+    {
+      "item": "alexscaves:pewen_wood"
+    },
+    {
+      "item": "alexscaves:stripped_pewen_log"
+    },
+    {
+      "item": "alexscaves:stripped_pewen_wood"
+    }
+  ],
+  "result": {
+    "id": "alexscaves:pewen_sign",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

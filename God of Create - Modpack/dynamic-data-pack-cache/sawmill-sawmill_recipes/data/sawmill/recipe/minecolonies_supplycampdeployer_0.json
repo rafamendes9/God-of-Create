@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:warped_stem"
+    },
+    {
+      "item": "minecraft:warped_hyphae"
+    },
+    {
+      "item": "minecraft:stripped_warped_stem"
+    },
+    {
+      "item": "minecraft:stripped_warped_hyphae"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:supplycampdeployer",
+    "count": 1
+  },
+  "ingredient_count": 10,
+  "type": "sawmill:woodcutting"
+}

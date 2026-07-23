@@ -1,0 +1,12 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "minecraft:cactus"
+  },
+  "result": {
+    "id": "minecolonies:supplycampdeployer",
+    "count": 1
+  },
+  "ingredient_count": 10,
+  "type": "sawmill:woodcutting"
+}

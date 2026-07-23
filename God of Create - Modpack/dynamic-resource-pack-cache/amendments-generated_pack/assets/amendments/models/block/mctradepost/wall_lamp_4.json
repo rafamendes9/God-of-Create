@@ -1,0 +1,9 @@
+{
+	"loader": "amendments:wall_lantern",
+	"support": {
+		"parent": "amendments:block/mctradepost/wall_lamp_4_template",
+		"textures": {
+			"1": "amendments:block/wall_lanterns/mctradepost/lamp"
+		}
+	}
+}

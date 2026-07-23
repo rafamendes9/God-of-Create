@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "northstar:wilter_log"
+    },
+    {
+      "item": "northstar:stripped_wilter_log"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_shovel",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

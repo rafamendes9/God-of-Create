@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "quark:vertical_bamboo_planks"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_shovel",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

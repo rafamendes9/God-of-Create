@@ -1,0 +1,16 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "northstar:calorian_planks"
+    },
+    {
+      "item": "everycomp:q/northstar/vertical_calorian_planks"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_crockery_combo",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

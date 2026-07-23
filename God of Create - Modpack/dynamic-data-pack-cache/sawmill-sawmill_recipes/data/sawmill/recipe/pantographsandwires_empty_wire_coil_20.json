@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    }
+  ],
+  "result": {
+    "id": "pantographsandwires:empty_wire_coil",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

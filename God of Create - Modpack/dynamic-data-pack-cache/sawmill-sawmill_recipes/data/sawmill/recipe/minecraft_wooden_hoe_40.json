@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
+  "result": {
+    "id": "minecraft:wooden_hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

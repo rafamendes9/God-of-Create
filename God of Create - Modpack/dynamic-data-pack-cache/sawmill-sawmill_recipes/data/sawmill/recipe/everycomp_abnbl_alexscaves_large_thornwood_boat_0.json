@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "alexscaves:thornwood_log"
+    },
+    {
+      "item": "alexscaves:thornwood_wood"
+    },
+    {
+      "item": "alexscaves:stripped_thornwood_log"
+    },
+    {
+      "item": "alexscaves:stripped_thornwood_wood"
+    }
+  ],
+  "result": {
+    "id": "everycomp:abnbl/alexscaves/large_thornwood_boat",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

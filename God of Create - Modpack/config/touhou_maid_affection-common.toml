@@ -1,0 +1,453 @@
+#Kiss cooldown settings (in ticks, 20 ticks = 1 second)
+#Cooldown decreases as the maid's favorability level increases
+[cooldown]
+	#Cooldown at favorability level 0 (default: 100 = 5 seconds)
+	# Default: 100
+	# Range: 0 ~ 6000
+	level0 = 100
+	#Cooldown at favorability level 1 (default: 60 = 3 seconds)
+	# Default: 60
+	# Range: 0 ~ 6000
+	level1 = 60
+	#Cooldown at favorability level 2 (default: 20 = 1 second)
+	# Default: 20
+	# Range: 0 ~ 6000
+	level2 = 20
+	#Cooldown at favorability level 3 / max (default: 0 = no cooldown)
+	# Default: 0
+	# Range: 0 ~ 6000
+	level3 = 0
+
+#Favorability gain settings
+[favorability]
+	#Favorability points gained per kiss (default: 3)
+	# Default: 3
+	# Range: 1 ~ 100
+	points = 3
+	#Favorability gain cooldown in ticks (default: 600 = 30 seconds)
+	#This is separate from the interaction cooldown - prevents favorability farming
+	# Default: 600
+	# Range: 0 ~ 72000
+	cooldownTicks = 600
+
+#Bond ability P point costs
+#Defaults are tuned for Touhou Little Maid's normal P point acquisition pace
+[bondCosts]
+	#P point cost for Lap Pillow
+	# Default: 8
+	# Range: 0 ~ 9999
+	lapPillow = 8
+	#P point cost for Emergency Heal
+	# Default: 3
+	# Range: 0 ~ 9999
+	emergencyHeal = 3
+	#P point cost for Morning Kiss
+	# Default: 12
+	# Range: 0 ~ 9999
+	morningKiss = 12
+	#P point cost for YSM Action
+	# Default: 16
+	# Range: 0 ~ 9999
+	ysmAction = 16
+	#P point cost for Random Gift
+	# Default: 6
+	# Range: 0 ~ 9999
+	randomGift = 6
+	#Maximum distance to gift items after unlock
+	# Default: 6
+	# Range: 1 ~ 64
+	randomGiftMaxDistance = 6
+	#Maximum distance to start lap pillow
+	# Default: 3
+	# Range: 1 ~ 16
+	lapPillowMaxDistance = 3
+	#Show particles for Eternal Utopia during lap pillow (default: true)
+	lapPillowEternalUtopiaParticles = true
+
+	#Automatic random gift behaviour after unlock
+	[bondCosts.randomGiftBehavior]
+		#Enable the automatic random gift behavior after unlock
+		enabled = true
+		#Real-time minutes required to prepare one gift
+		# Default: 20
+		# Range: 1 ~ 1440
+		intervalRealMinutes = 20
+		#Maximum number of queued gifts per maid
+		# Default: 7
+		# Range: 1 ~ 64
+		maxQueuedGifts = 7
+		#Range around the player to search for nearby gift maids
+		# Default: 24
+		# Range: 4 ~ 128
+		deliverySearchRange = 24
+		#Distance at which the maid can throw the gift
+		# Default: 2.25
+		# Range: 0.5 ~ 16.0
+		deliveryReachDistance = 2.25
+		#Minimum ticks between consecutive automatic gift throws from the same maid
+		# Default: 40
+		# Range: 0 ~ 24000
+		deliveryCooldownTicks = 40
+		#Timeout for a single automatic gift delivery pathfinding task
+		# Default: 200
+		# Range: 20 ~ 24000
+		pathfindTimeoutTicks = 200
+		#Show action bar text when a maid throws a gift
+		showActionBar = true
+		#Automatically sample a batch of non-vanilla mod items into the gift pool
+		includeModItems = true
+		#How many non-vanilla mod items are auto-sampled into the gift pool
+		# Default: 96
+		# Range: 0 ~ 2048
+		autoModSampleSize = 96
+
+	#Morning Kiss behavior after unlock
+	[bondCosts.morningKissBehavior]
+		#Enable Morning Kiss after the ability is unlocked
+		enabled = true
+		#Required maid favorability level to use Morning Kiss
+		# Default: 3
+		# Range: 0 ~ 3
+		requiredFavorabilityLevel = 3
+		#Maximum distance to call a maid for Morning Kiss
+		# Default: 16
+		# Range: 1 ~ 128
+		maxDistance = 16
+		#Morning Kiss timeout in ticks
+		# Default: 200
+		# Range: 20 ~ 2400
+		timeoutTicks = 200
+		#Allowed in-world time ranges for Morning Kiss, using 24-hour time
+		#Examples: 06:00-08:00, 18:00-20:00
+		#Optional dialogue bucket prefix is supported: morning@06:00-08:00, evening@18:00-20:00
+		#Legacy tick ranges like 0-2000 are still accepted for compatibility
+		allowedTimeRanges = ["06:00-08:00", "18:00-20:00"]
+		#Minimum number of kisses performed in one Morning Kiss sequence
+		# Default: 1
+		# Range: 1 ~ 3
+		minKissCount = 1
+		#Maximum number of kisses performed in one Morning Kiss sequence
+		# Default: 3
+		# Range: 1 ~ 3
+		maxKissCount = 3
+		#Ticks between consecutive kisses in one Morning Kiss sequence
+		# Default: 16
+		# Range: 1 ~ 200
+		kissIntervalTicks = 16
+		#Apply Maid's Prayer during Morning Kiss
+		applyMaidsPrayer = true
+		#Maid's Prayer duration applied by Morning Kiss in ticks
+		# Default: 600
+		# Range: 20 ~ 72000
+		maidsPrayerDurationTicks = 600
+		#Where Morning Kiss prompts and dialogue are shown
+		#Allowed values: action_bar, chat
+		messageDisplayMode = "action_bar"
+		#Show Morning Kiss dialogue above the maid with Touhou Little Maid chat bubbles when possible
+		#If disabled, dialogue uses messageDisplayMode instead
+		dialogueChatBubbleEnabled = true
+		#Enable Morning Kiss AI-generated dialogue integration
+		#Requires Touhou Little Maid LLM to be enabled and configured on the maid
+		aiDialogueEnabled = false
+		#Language used for Morning Kiss AI dialogue pregeneration, live fallback, and generated TTS requests
+		#Use tlm/auto/default to follow Touhou Little Maid's per-maid chat/TTS language; set zh_cn, en_us, ja_jp, etc. to override
+		aiDialogueLanguage = "tlm"
+		#Prompt template for Morning Kiss AI-generated dialogue
+		#Placeholders: {maid}, {player}, {pool}, {time}
+		aiDialoguePrompt = "你正在扮演 Minecraft 中名为 {maid} 的女仆。现在是 {pool} 时段，你刚给玩家 {player} 送上早安吻或晚安吻。请只输出自然、温柔、适合显示在游戏内的简短台词，不要解释，不要添加引号。"
+		#Pregenerate AI Morning Kiss dialogue outside active Morning Kiss time windows to reduce trigger latency
+		aiDialoguePregenerateEnabled = true
+		#If no pregenerated line is cached, request one live through Touhou Little Maid chat during Morning Kiss
+		#This can add visible latency, so it is disabled by default
+		aiDialogueImmediateFallbackEnabled = false
+		#Generate remote TTS OGG voice for pregenerated Morning Kiss dialogue when the maid has TTS configured
+		#System/local TTS and non-OGG responses are ignored and fall back to text-only cached dialogue
+		aiDialogueTtsEnabled = true
+		#Ticks between AI dialogue pregeneration scans
+		# Default: 1200
+		# Range: 20 ~ 72000
+		aiDialogueScanIntervalTicks = 1200
+		#Range around each player to find owned maids for AI dialogue pregeneration
+		# Default: 16
+		# Range: 1 ~ 128
+		aiDialogueScanDistance = 16
+		#Target number of pregenerated Morning Kiss lines kept per maid and time pool
+		# Default: 4
+		# Range: 1 ~ 8
+		aiDialogueCacheTargetPerPool = 4
+		#Consume one pregenerated cache entry when Morning Kiss uses it
+		#Set false to reuse generated dialogue/voice until clear_ai_cache is run, saving LLM/TTS tokens
+		aiDialogueCacheConsumeOnUse = false
+		#Enable verbose debug logs for Morning Kiss AI dialogue pregeneration
+		aiDialogueVerboseLog = false
+		#Allow maids to proactively trigger Morning Kiss during allowed time windows
+		autoEnabled = true
+		#How often the server scans nearby loaded maids for proactive Morning Kiss
+		# Default: 40
+		# Range: 5 ~ 1200
+		autoScanIntervalTicks = 40
+		#How much of the current time window can be used for random proactive attempt scheduling
+		# Default: 70
+		# Range: 10 ~ 100
+		autoWindowAttemptSpreadPercent = 70
+		#When true, proactive Morning Kiss failures stay silent instead of notifying the player
+		autoSilentFailure = true
+		#When true, all eligible nearby maids may proactively trigger Morning Kiss in the same time window one after another
+		#When false, only one maid is selected for the whole time window
+		autoAllowAllEligibleMaids = true
+		#Allow only one active Morning Kiss task per player at a time
+		autoSingleActiveTaskPerPlayer = true
+
+	#Emergency rescue behaviour after unlock
+	[bondCosts.emergencyRescueBehavior]
+		#Master switch for emergency rescue interception
+		enabled = true
+		#Emergency rescue trigger threshold in health points
+		# Default: 4
+		# Range: 1 ~ 20
+		healthThreshold = 4
+		#Refresh rescue charges by Minecraft date/daytime progression instead of total game uptime
+		#When enabled, sleeping to the next day or /time add 24000 can refresh charges
+		refreshByDayTime = true
+		#How many rescue charges each unlocked maid contributes on daily refresh
+		# Default: 1
+		# Range: 1 ~ 16
+		chargesPerMaid = 1
+		#Default value of common voice fallback for rescue custom voice profiles
+		commonFallbackDefault = true
+		#Seconds between server rescue predefined sound folder scans
+		# Default: 30
+		# Range: 5 ~ 3600
+		syncScanIntervalSeconds = 30
+		#Verbose logs for rescue sound sync and playback fallback
+		syncVerboseLog = true
+		#Additional X-axis rotation offset for the rescue overlay maid shown in front of the player
+		#Negative tilts backward, positive tilts forward
+		#Range: -180 to 180 degrees
+		# Default: 0.0
+		# Range: -180.0 ~ 180.0
+		overlayViewPitchOffset = 0.0
+		#Additional Y-axis rotation offset for the rescue overlay maid shown in front of the player
+		#Useful when you want the maid to face the screen more directly
+		#Range: -180 to 180 degrees
+		# Default: 180.0
+		# Range: -180.0 ~ 180.0
+		overlayViewYawOffset = 180.0
+		#Additional Z-axis rotation offset for the rescue overlay maid shown in front of the player
+		#Negative rolls left, positive rolls right
+		#Range: -180 to 180 degrees
+		# Default: 0.0
+		# Range: -180.0 ~ 180.0
+		overlayViewRollOffset = 0.0
+
+#Maid's Prayer buff settings
+#Triggered by kissing multiple times in a short window
+[buff]
+	#Enable the Maid's Prayer buff (default: true)
+	enabled = true
+	#Number of kisses needed to trigger the buff (default: 3)
+	# Default: 3
+	# Range: 1 ~ 20
+	kissThreshold = 3
+	#Time window in ticks to reach the kiss threshold (default: 200 = 10 seconds)
+	# Default: 200
+	# Range: 20 ~ 6000
+	kissWindowTicks = 200
+	#Buff duration in ticks (default: 600 = 30 seconds)
+	# Default: 600
+	# Range: 20 ~ 72000
+	durationTicks = 600
+
+	#Regeneration amplifier per favorability level (0 = I, 1 = II, etc.)
+	#Higher levels can exceed vanilla limits — the power of love knows no bounds
+	[buff.amplifier]
+		#Amplifier at favorability level 0 (default: 0 = Regen I)
+		# Default: 0
+		# Range: 0 ~ 255
+		level0 = 0
+		#Amplifier at favorability level 1 (default: 1 = Regen II)
+		# Default: 1
+		# Range: 0 ~ 255
+		level1 = 1
+		#Amplifier at favorability level 2 (default: 2 = Regen III, beyond vanilla)
+		# Default: 2
+		# Range: 0 ~ 255
+		level2 = 2
+		#Amplifier at favorability level 3 (default: 4 = Regen V, far beyond vanilla)
+		# Default: 4
+		# Range: 0 ~ 255
+		level3 = 4
+
+#Particle settings
+[particles]
+	#Minimum number of heart particles per kiss (default: 3)
+	# Default: 3
+	# Range: 0 ~ 50
+	minCount = 3
+	#Extra random particles (total = min + random(0..extra)) (default: 4)
+	# Default: 4
+	# Range: 0 ~ 50
+	extraRandom = 4
+	#Vertical offset applied to particle anchor to avoid covering faces (default: 0.12)
+	# Default: 0.12
+	# Range: -1.0 ~ 2.5
+	offsetY = 0.12
+	#Horizontal spread radius of the particle field (default: 0.18)
+	# Default: 0.18
+	# Range: 0.0 ~ 2.0
+	spreadRadius = 0.18
+	#Forward offset of the particle anchor along player->maid direction (default: 0.45)
+	# Default: 0.45
+	# Range: -1.0 ~ 1.0
+	forwardOffset = 0.45
+	#How strongly particles avoid the center line of sight (default: 0.0)
+	# Default: 0.0
+	# Range: 0.0 ~ 2.0
+	avoidViewStrength = 0.0
+	#Particle spatial mode: RING | HALO | SPIRAL (default: SPIRAL)
+	shapeMode = "SPIRAL"
+	#Base upward speed of particles (default: 0.08)
+	# Default: 0.08
+	# Range: -0.2 ~ 1.0
+	upwardSpeed = 0.08
+	#Base radial expansion speed from anchor (default: 0.0)
+	# Default: 0.0
+	# Range: -0.3 ~ 0.3
+	radialSpeed = 0.0
+	#Tangential swirl speed component, useful for spiral feeling (default: 0.0)
+	# Default: 0.0
+	# Range: -2.0 ~ 2.0
+	swirlSpeed = 0.0
+	#How many timed burst phases a kiss emits (default: 5)
+	# Default: 5
+	# Range: 1 ~ 12
+	phaseBursts = 5
+	#Interval between burst phases in ticks (default: 2)
+	# Default: 2
+	# Range: 1 ~ 20
+	phaseIntervalTicks = 2
+	#Burst count ramp mode: EASE_IN | UNIFORM (default: EASE_IN)
+	phaseRamp = "EASE_IN"
+	#Extra micro-copies per logical heart to simulate larger size (default: 1)
+	# Default: 1
+	# Range: 0 ~ 8
+	clusterCopies = 1
+	#Jitter radius used for heart cluster size simulation (default: 0.03)
+	# Default: 0.03
+	# Range: 0.0 ~ 0.3
+	clusterJitter = 0.03
+	#Enable subtle accent particles (DUST/GLOW) to enrich atmosphere (default: true)
+	accentEnabled = true
+	#Accent particle type: NONE | DUST | GLOW (default: GLOW)
+	accentType = "GLOW"
+	#Chance per logical particle to spawn an accent particle (default: 0.7)
+	# Default: 0.7
+	# Range: 0.0 ~ 1.0
+	accentChance = 0.7
+	#When true, accent color can shift with maid favorability (default: true)
+	favorabilityColorAccent = true
+	#Accent color mode for DUST accent particles: FAVORABILITY | SOLID | GRADIENT (default: FAVORABILITY)
+	accentColorMode = "FAVORABILITY"
+
+	#Solid accent color RGBA (0..255)
+	[particles.accentSolidRgba]
+		# Default: 255
+		# Range: 0 ~ 255
+		r = 255
+		# Default: 166
+		# Range: 0 ~ 255
+		g = 166
+		# Default: 204
+		# Range: 0 ~ 255
+		b = 204
+		# Default: 220
+		# Range: 0 ~ 255
+		a = 220
+
+	#Gradient accent color start RGBA (0..255)
+	[particles.accentGradientStartRgba]
+		# Default: 255
+		# Range: 0 ~ 255
+		r = 255
+		# Default: 204
+		# Range: 0 ~ 255
+		g = 204
+		# Default: 224
+		# Range: 0 ~ 255
+		b = 224
+		# Default: 200
+		# Range: 0 ~ 255
+		a = 200
+
+	#Gradient accent color end RGBA (0..255)
+	[particles.accentGradientEndRgba]
+		# Default: 255
+		# Range: 0 ~ 255
+		r = 255
+		# Default: 118
+		# Range: 0 ~ 255
+		g = 118
+		# Default: 170
+		# Range: 0 ~ 255
+		b = 170
+		# Default: 230
+		# Range: 0 ~ 255
+		a = 230
+
+#FOV zoom effect on kiss
+#Creates a smooth 'lean-in' feeling by narrowing the FOV
+[fov]
+	#Enable FOV zoom on kiss (default: true)
+	enabled = true
+	#Zoom-in duration in ticks (default: 4 = 0.2s)
+	# Default: 4
+	# Range: 1 ~ 40
+	zoomInTicks = 4
+	#Hold at max zoom duration in ticks (default: 3 = 0.15s)
+	# Default: 3
+	# Range: 0 ~ 40
+	holdTicks = 3
+	#Zoom-out duration in ticks (default: 6 = 0.3s)
+	# Default: 6
+	# Range: 1 ~ 60
+	zoomOutTicks = 6
+	#Zoom strength (0.0 = no zoom, 1.0 = full zoom to 0 FOV) (default: 0.85)
+	# Default: 0.85
+	# Range: 0.0 ~ 0.95
+	strength = 0.85
+	#Princess-carry camera target side offset relative to player look direction
+	#Negative = left, positive = right (default: 0.48)
+	# Default: 0.48
+	# Range: -1.5 ~ 1.5
+	carriedSideOffset = 0.48
+	#Princess-carry camera target forward offset (default: 0.16)
+	# Default: 0.16
+	# Range: -1.0 ~ 1.0
+	carriedForwardOffset = 0.16
+	#Princess-carry camera target vertical offset from player eye (default: -0.10)
+	# Default: -0.1
+	# Range: -1.0 ~ 1.0
+	carriedVerticalOffset = -0.1
+
+#TMA MiMo adapter defaults for Touhou Little Maid AI chat/TTS
+#These values seed the TLM site editor defaults; per-site edits are still stored by TLM under config/touhou_little_maid/sites.
+#Do not publish your API key. Leave it blank here if you prefer entering it in the TLM AI settings GUI.
+[tmaMimoAdapter]
+	#Register TMA MiMo chat and TTS providers into Touhou Little Maid AI settings
+	enabled = true
+	#Default Xiaomi MiMo API key used when creating the TLM MiMo sites
+	#Blank by default; the TLM site editor can store it separately
+	apiKey = ""
+	#Default MiMo OpenAI-compatible chat completions endpoint
+	chatUrl = "https://api.xiaomimimo.com/v1/chat/completions"
+	#Default MiMo TTS endpoint; MiMo V2.5 TTS uses the chat completions API
+	ttsUrl = "https://api.xiaomimimo.com/v1/chat/completions"
+	#Default max_completion_tokens for MiMo chat requests sent through the TMA adapter
+	# Default: 1024
+	# Range: 1 ~ 8192
+	maxCompletionTokens = 1024
+	#Default voice design prompt for mimo-v2.5-tts-voicedesign
+	ttsVoicePrompt = "温柔、清澈、亲近的年轻女性声音，语速自然，适合 Minecraft 女仆角色。"
+	#Default requested MiMo TTS audio format
+	#MiMo V2.5 TTS supports mp3, wav, pcm, and pcm16; TLM's AI TTS playback path supports mp3 most reliably
+	ttsAudioFormat = "mp3"

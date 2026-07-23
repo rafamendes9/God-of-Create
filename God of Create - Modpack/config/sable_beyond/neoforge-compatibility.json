@@ -1,0 +1,16 @@
+{
+  "compatibility": {
+    "create": {
+      "mechanical_arm": {
+        "ignore_placement_range_for_sublevel_targets": true
+      },
+      "encased_fan": {
+        "apply_force_to_touched_sublevels": true
+      },
+      "basin": {
+        "basin_empty_input_inventory": false,
+        "basin_empty_output_inventory": false
+      }
+    }
+  }
+}

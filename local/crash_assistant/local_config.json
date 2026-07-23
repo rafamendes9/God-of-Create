@@ -1,9 +1,0 @@
-{
-	"shown_reasons": {
-		"Create6Addons": true,
-		"MissingUnsupportedDependencies": true,
-		"MixinApply": true,
-		"CorruptedModJar": true,
-		"OutOfMemoryError": true
-	}
-}

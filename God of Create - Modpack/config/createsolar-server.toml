@@ -1,0 +1,97 @@
+#Solar Panel settings
+#Maximum FE generated in one update interval at full sunlight (default 250 = 12.5 FE/T).
+# Default: 250
+# Range: 1 ~ 500
+max_output = 250
+#How many ticks between energy updates (default 20 = 1 second).
+# Default: 20
+# Range: 1 ~ 100
+update_interval = 20
+#Internal energy buffer capacity (FE). Default 1000.
+# Default: 1000
+# Range: 1 ~ 1000000
+max_energy_stored = 1000
+#Number of ticks to skip after placement or chunk reload (prevents race conditions). Default 5.
+# Default: 5
+# Range: 0 ~ 100
+startup_delay_ticks = 5
+#Altitude Dependence settings (disabled by default)
+#Whether solar panel output depends on altitude. Default false.
+altitude_dependence_enabled = false
+#Minimum Y level for altitude calculation (lowest altitude, default -64).
+# Default: -64
+# Range: -64 ~ 320
+altitude_min_y = -64
+#Maximum Y level for altitude calculation (highest altitude, default 61).
+# Default: 61
+# Range: -64 ~ 320
+altitude_max_y = 61
+#Output multiplier at minimum altitude (default 0.5 = 50% efficiency).
+# Default: 0.5
+# Range: 0.0 ~ 1.0
+altitude_min_factor = 0.5
+#Output multiplier at maximum altitude (default 1.0 = 100% efficiency).
+# Default: 1.0
+# Range: 0.0 ~ 1.0
+altitude_max_factor = 1.0
+#Temperature Dependence settings (disabled by default)
+#Whether solar panel output depends on biome temperature. Default false.
+temperature_dependence_enabled = false
+#Biome temperature at which TEMP_MIN_FACTOR applies. Default 0.0 (cold).
+# Default: 0.0
+# Range: -0.5 ~ 2.0
+temperature_min_value = 0.0
+#Biome temperature at which TEMP_MAX_FACTOR applies. Default 1.2 (hot).
+# Default: 1.2
+# Range: -0.5 ~ 2.0
+temperature_max_value = 1.2
+#Output multiplier at TEMP_MIN_VALUE. Default 0.7 = 70%.
+# Default: 0.7
+# Range: 0.0 ~ 1.0
+temperature_min_factor = 0.7
+#Output multiplier at TEMP_MAX_VALUE. Default 1.0 = 100%.
+# Default: 1.0
+# Range: 0.0 ~ 1.0
+temperature_max_factor = 1.0
+#Sculk Panel settings (generates XP at night)
+#Maximum XP generated in one update interval at peak night (default 10).
+# Default: 10
+# Range: 1 ~ 500
+sculk_max_xp = 10
+#How many ticks between XP updates (default 20 = 1 second).
+# Default: 20
+# Range: 1 ~ 100
+sculk_update_interval = 20
+#Internal XP buffer capacity. Default 10000.
+# Default: 10000
+# Range: 1 ~ 100000
+sculk_max_xp_stored = 10000
+#Growth Lamp settings (bonemeal based, balanced)
+#Effect radius in blocks (max 10). Default 5.
+# Default: 5
+# Range: 1 ~ 10
+growthLampRadius = 5
+#Ticks between bonemeal attempts. Default 40 (2 seconds).
+# Default: 40
+# Range: 10 ~ 200
+growthLampInterval = 40
+#Number of random blocks to try per interval. Default 10.
+# Default: 10
+# Range: 1 ~ 20
+growthLampBlocksPerInterval = 10
+#Chance (0.0-1.0) that a selected block actually receives bonemeal. Default 0.25.
+# Default: 0.25
+# Range: 0.0 ~ 1.0
+growthLampBonemealChance = 0.25
+#Ticks to wait after lamp becomes lit before first bonemeal. Default 60 (3 seconds).
+# Default: 60
+# Range: 0 ~ 100
+growthLampInitialDelay = 60
+#Growth Lamp filter settings (restored)
+#Filter mode: ALLOWLIST = only bonemeal blocks that match the filter lists; BLOCKLIST = bonemeal everything EXCEPT blocks that match the filter lists. Default BLOCKLIST.
+#Allowed Values: ALLOWLIST, BLOCKLIST
+growthLampFilterMode = "BLOCKLIST"
+#List of block IDs to either allow (if ALLOWLIST mode) or block (if BLOCKLIST mode).
+growthLampFilterBlocks = ["minecraft:grass_block", "minecraft:short_grass", "minecraft:fern"]
+#List of block tags (format: 'namespace:path') to either allow or block, depending on mode.
+growthLampFilterTags = []

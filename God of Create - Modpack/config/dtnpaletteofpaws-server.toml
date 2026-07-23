@@ -1,0 +1,7 @@
+#Set this to false to disable DTNP Chunk Generation Spawn.
+#Notice that when this option is disabled DTNP Wolves will not
+#spawn upon chunk generation.
+dtnp_static_spawn = true
+#Set this to false to prevent DTNP Chunk Generation Spawn
+#from doing any Underground Spawn (e.g Sculk, Charcoal).
+dtnp_static_underground_spawn = true

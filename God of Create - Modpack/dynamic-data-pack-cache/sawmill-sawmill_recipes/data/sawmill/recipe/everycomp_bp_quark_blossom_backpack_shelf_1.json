@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "quark:blossom_planks"
+  },
+  "result": {
+    "id": "everycomp:bp/quark/blossom_backpack_shelf",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

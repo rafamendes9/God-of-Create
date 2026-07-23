@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "minecraft:warped_stem"
+    },
+    {
+      "item": "minecraft:warped_hyphae"
+    },
+    {
+      "item": "minecraft:stripped_warped_stem"
+    },
+    {
+      "item": "minecraft:stripped_warped_hyphae"
+    }
+  ],
+  "result": {
+    "id": "minecraft:warped_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

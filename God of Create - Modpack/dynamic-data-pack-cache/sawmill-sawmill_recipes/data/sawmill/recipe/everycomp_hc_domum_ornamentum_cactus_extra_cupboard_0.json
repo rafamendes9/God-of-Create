@@ -1,0 +1,12 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "minecraft:cactus"
+  },
+  "result": {
+    "id": "everycomp:hc/domum_ornamentum/cactus_extra_cupboard",
+    "count": 1
+  },
+  "ingredient_count": 4,
+  "type": "sawmill:woodcutting"
+}

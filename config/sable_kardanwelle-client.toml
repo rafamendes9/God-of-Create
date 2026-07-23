@@ -1,3 +1,0 @@
-[sounds]
-	#Whether the local client plays the ratcheting wind-up click while previewing or stretching cardan shafts.
-	playExtensionRatchetSound = true

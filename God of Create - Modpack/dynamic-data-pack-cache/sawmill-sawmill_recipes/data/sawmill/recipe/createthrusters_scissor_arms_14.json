@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "northstar:coiler_log"
+    },
+    {
+      "item": "northstar:stripped_coiler_log"
+    }
+  ],
+  "result": {
+    "id": "createthrusters:scissor_arms",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

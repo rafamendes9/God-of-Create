@@ -1,0 +1,14 @@
+{
+	"parent": "amendments:block/double_cake/slice6_template",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"side_up": "createfood:block/cream_cake_side",
+		"top_up": "createfood:block/cream_cake_top",
+		"inner": "minecraft:block/cake_inner",
+		"bottom": "createfood:block/cake_bottom",
+		"top": "createfood:block/cream_cake_top",
+		"particle": "createfood:block/cream_cake_side",
+		"side": "createfood:block/cream_cake_side"
+	}
+
+}

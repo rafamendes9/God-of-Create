@@ -1,0 +1,12 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "createdieselgenerators:chip_wood_beam"
+  },
+  "result": {
+    "id": "everycomp:q/createdieselgenerators/chip_wood_chest",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

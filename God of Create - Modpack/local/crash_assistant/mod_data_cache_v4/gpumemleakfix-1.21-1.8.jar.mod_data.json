@@ -1,0 +1,1 @@
+{"jarName":"gpumemleakfix-1.21-1.8.jar","modId":"gpumemleakfix","name":"Gpu memory leak fix","version":"1.8","mixinConfigs":["gpumemleakfix.mixins.json"],"jarJarMods":[],"curseForgeHash":1193908577,"modrinthHash":"1894d2f0dd0c275aea0f1a6265ebd5715569c208"}

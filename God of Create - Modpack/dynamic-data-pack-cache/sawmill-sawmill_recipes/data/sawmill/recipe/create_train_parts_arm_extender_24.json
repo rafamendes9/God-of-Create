@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "quark:blossom_log"
+    },
+    {
+      "item": "quark:blossom_wood"
+    },
+    {
+      "item": "quark:stripped_blossom_log"
+    },
+    {
+      "item": "quark:stripped_blossom_wood"
+    }
+  ],
+  "result": {
+    "id": "create_train_parts:arm_extender",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

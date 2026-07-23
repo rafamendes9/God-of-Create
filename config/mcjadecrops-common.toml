@@ -1,4 +1,0 @@
-#Enable the Jade tooltip integration for MineColonies crops.
-enabled = true
-#Log unsupported MineColonies blocks once.
-debugLogging = false
