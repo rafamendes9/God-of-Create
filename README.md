@@ -216,6 +216,8 @@ Obs: deixo esse seed como padrao para voce ter a melhor experiencia mas voce é 
 3. Reinicie o cliente
 3.5 Mods adicionados sem um profudo entidemento sobre mods ou minecraft podem crashar o modpack, tornar conteudos repetitivos ou superfulos, sempre é recomendado ter um backup antes de fazer qualquer modificação no Modpack
 
+## 📄 Atenção
+1. Devido a limitações do proprio GitHub para arquivos grandes, deixarei uma pasta dedicada para todos os Mods ou itens necessarios para serem baixados pelo usuario, deixarei em uma pasta dedicada para isso
 ---
 
 ## 🐛 Suporte e Troubleshooting
