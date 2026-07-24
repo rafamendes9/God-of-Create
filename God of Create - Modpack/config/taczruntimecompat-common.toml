@@ -1,0 +1,47 @@
+#TaCZ Runtime Compat Configuration
+[general]
+	#Master switch for ResourceLocation parsing hooks. If false, disables the core fix.
+	enableGlobalSanitizer = true
+	#Enables the TaCZ-specific mixin that catches bad IDs directly from GunPackLoader. Provides better logs.
+	enableTaCZMixin = true
+	#If true, invalid IDs are logged but NOT fixed. Allows pack developers to see broken packs safely.
+	dryRun = false
+	#Caches sanitized results in memory to avoid repeated string manipulation. Recommended: true
+	cacheSanitizedResults = true
+	#Maximum number of entries in the sanitized cache to prevent memory bloat.
+	# Default: 8192
+	# Range: 1024 ~ 65536
+	maxCacheEntries = 8192
+	#Shows an in-game chat warning to players when joining if invalid gun packs were repaired.
+	showGuiWarning = true
+	#Emergency compatibility mode for unstable modpacks. Minimizes intervention and only logs.
+	safeMode = false
+
+#Sanitization Rules
+[rules]
+	#Replace colons in paths with underscores.
+	replaceColonWithUnderscore = true
+	#Replace spaces with underscores.
+	replaceSpaces = true
+	#Force all characters to lowercase.
+	forceLowercase = true
+	#Strip all non-ASCII unicode characters from IDs. Helpful for paths with emojis or foreign chars.
+	stripUnicode = true
+	#Custom character replacements. Format: 'target=replacement'. Example: '@=*'
+	customReplacementRules = []
+
+#Namespace filtering settings
+[namespaces]
+	#If true, only sanitizes namespaces listed in allowedNamespaces.
+	strictTaCZOnlyMode = true
+	#List of namespaces allowed to be sanitized if strict mode is enabled.
+	allowedNamespaces = ["tacz", "modern_kinetic_gun", "sfms", "cgm", "pointblank"]
+	#List of namespaces that will NEVER be sanitized. Protects core game and loader resources.
+	blockedNamespaces = ["minecraft", "neoforge", "forge", "realms"]
+
+#Debugging and logging
+[debug]
+	#Enables full debug reporting, statistics tracking, and log exporting.
+	debugMode = false
+	#If true, prints every single sanitization event to the console. Spammy! Use for debugging only.
+	logEveryFix = false

@@ -1,0 +1,19 @@
+[fusion]
+	#Allow shift + right-click fusing of unlock items into a higher rarity.
+	enabled = true
+	#Same-rarity unlock items consumed per fuse roll.
+	# Default: 3
+	# Range: 2 ~ 10
+	cost = 3
+
+[access]
+	#Allow client-side preview of a skin the player doesn't own on the refit screen.
+	allowLockedSkinPreview = true
+	#Permission level allowed to equip a skin without owning it.
+	# Default: 2
+	# Range: 0 ~ 4
+	equipBypassPermissionLevel = 2
+	#Permission level required for /mcpskins give and take.
+	# Default: 4
+	# Range: 2 ~ 4
+	adminCommandPermissionLevel = 4

@@ -1,0 +1,14 @@
+#Mobs that play the vanilla death animation instead of turning into a ragdoll.
+#Each entry MUST be a quoted entity ID string. Example:
+#  blacklist = ["minecraft:villager", "minecraft:zombie"]
+#Bare (unquoted) values such as [minecraft:zombie] are invalid TOML and will not load.
+blacklist = []
+#Maximum number of ragdoll bodies that can exist in the world at once.
+#When the limit is reached, the oldest ragdoll is removed to make room.
+# Default: 32
+# Range: 1 ~ 256
+max_ragdolls = 32
+#How long a ragdoll body stays in the world before disappearing, in seconds.
+# Default: 12
+# Range: 1 ~ 600
+ragdoll_lifetime_seconds = 12

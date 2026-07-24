@@ -1,0 +1,34 @@
+{
+  "tacz:glock17": {
+    "casingVelocity": 0.35,
+    "isRight": true,
+    "rotationAngle": 85.0,
+    "verticalScalingFactor": 0.7,
+    "verticalOffset": -0.25,
+    "sideOffsetDistance": 0.15,
+    "forwardOffsetDistance": 0.45
+  },
+  "tacz:deagle_golden": {
+    "casingVelocity": 0.4,
+    "isRight": true,
+    "rotationAngle": 85.0,
+    "verticalScalingFactor": 0.7,
+    "verticalOffset": -0.3,
+    "sideOffsetDistance": 0.55,
+    "forwardOffsetDistance": 0.425,
+    "rotationPitchDeg": -45.0,
+    "rotationRollDeg": -0.25,
+    "offsetX": 0.55,
+    "offsetY": -0.3,
+    "offsetZ": 0.425
+  },
+  "tacz:hk_mp5a5": {
+    "casingVelocity": 0.35,
+    "isRight": true,
+    "rotationAngle": 85.0,
+    "verticalScalingFactor": 0.7,
+    "verticalOffset": -0.25,
+    "sideOffsetDistance": 0.15,
+    "forwardOffsetDistance": 0.45
+  }
+}

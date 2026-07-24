@@ -3489,6 +3489,18 @@
     "maxWaterDepth": 8,
     "implosionChance": 0.85
   },
+  "appliedtacz:ammo_workbench": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "appliedtacz:attachment_workbench": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "appliedtacz:gun_smith_table": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "arcanelanterns:boreal_lantern": {
     "maxWaterDepth": 58,
     "implosionChance": 0.65
@@ -120336,6 +120348,46 @@
   "swem:western_hitching_post_mini": {
     "maxWaterDepth": 43,
     "implosionChance": 0.74333334
+  },
+  "tacz:gun_smith_table": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "tacz:statue": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "tacz:target": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "tacz:workbench_a": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "tacz:workbench_b": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "tacz:workbench_c": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "taczarmor:armor_forge": {
+    "maxWaterDepth": 78,
+    "implosionChance": 0.53333336
+  },
+  "taczarmor:chemical_station": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "taczarmor:jewelers_bench": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "taczarmor:sewing_machine": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
   },
   "tfmg:accumulator": {
     "maxWaterDepth": 120,

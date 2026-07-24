@@ -1,8 +1,8 @@
 [General]
+	#Whether soul stratisfaction is enabled
+	SOUL_STRATIFICATION_EFFECT_ENABLED = false
 	#Whether Rotten Flesh afflicts you with Rotten Stink
 	ROTTEN_CONSUMPTION_ENABLED = true
-	#Whether soul stratisfaction is enabled
-	SOUL_STRATIFICATION_EFFECT_ENABLED = true
 	#Whether spirits disappear in the sun is enabled
 	SPIRIT_DISSAPPEAR_IN_SUN_ENABLED = true
 	#Whether mobs retalliate to other mobs attacking them

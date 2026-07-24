@@ -1,0 +1,42 @@
+[refit_toggle_button]
+	#Show the skin-mode toggle button on TACZ's refit screen.
+	enabled = true
+	#Screen corner the offsets below are measured from.
+	#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
+	anchor = "TOP_RIGHT"
+	#Horizontal offset in pixels from the anchor corner.
+	# Default: 120
+	# Range: 0 ~ 4000
+	offsetX = 120
+	#Vertical offset in pixels from the anchor corner.
+	# Default: 10
+	# Range: 0 ~ 4000
+	offsetY = 10
+	#Button size in pixels.
+	# Default: 18
+	# Range: 12 ~ 32
+	size = 18
+	#Show the hover label under the button.
+	showTooltip = true
+
+[toast]
+	#Show a confirmation toast when a skin is applied.
+	enabled = true
+	#How long the toast stays on screen, in milliseconds.
+	# Default: 2200
+	# Range: 500 ~ 10000
+	durationMs = 2200
+
+[carousel]
+	#Height in pixels of the skin carousel panel.
+	# Default: 96
+	# Range: 60 ~ 160
+	height = 96
+	#Base size in pixels of a carousel skin slot.
+	# Default: 44
+	# Range: 24 ~ 80
+	slotSize = 44
+	#Horizontal spacing in pixels between carousel slots.
+	# Default: 60
+	# Range: 30 ~ 120
+	slotSpacing = 60

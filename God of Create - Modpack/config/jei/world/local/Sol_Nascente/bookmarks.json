@@ -28,5 +28,6 @@
   {"ingredient":{"id":"minecraft:cherry_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:cherry_sapling"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:cocoa_beans"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:oak_sign"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:oak_sign"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"createtransmission:transmission_chain","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
 ]
