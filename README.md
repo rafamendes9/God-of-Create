@@ -219,6 +219,9 @@ Obs: deixo esse seed como padrao para voce ter a melhor experiencia mas voce é 
 ## 📄 Atenção
 1. Devido a limitações do proprio GitHub para arquivos grandes, deixarei uma pasta dedicada para todos os Mods ou itens necessarios para serem baixados pelo usuario, deixarei em uma pasta dedicada para isso
 ---
+## 📄 Extra
+1. Foi adicionado uma pasta chamada "Schematic Builds for your world" nessa pasta contem as construções que eu fiz e disponibilizo para que voce possa desfrutar em seu mundo
+
 
 ## 🐛 Suporte e Troubleshooting
 
