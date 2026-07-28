@@ -3461,6 +3461,58 @@
     "maxWaterDepth": 73,
     "implosionChance": 0.56
   },
+  "any_lanterns:cat_lantern": {
+    "maxWaterDepth": 235,
+    "implosionChance": 0.05
+  },
+  "any_lanterns:cat_lantern_2": {
+    "maxWaterDepth": 58,
+    "implosionChance": 0.65
+  },
+  "any_lanterns:chinese_lantern": {
+    "maxWaterDepth": 235,
+    "implosionChance": 0.05
+  },
+  "any_lanterns:chinese_lantern_2": {
+    "maxWaterDepth": 235,
+    "implosionChance": 0.05
+  },
+  "any_lanterns:chinese_lantern_3": {
+    "maxWaterDepth": 235,
+    "implosionChance": 0.05
+  },
+  "any_lanterns:copper_lantern": {
+    "maxWaterDepth": 235,
+    "implosionChance": 0.05
+  },
+  "any_lanterns:copper_lantern_2": {
+    "maxWaterDepth": 58,
+    "implosionChance": 0.65
+  },
+  "any_lanterns:gothic_lantern": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.56666666
+  },
+  "any_lanterns:gothic_lantern_2": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.56666666
+  },
+  "any_lanterns:grow_lantern": {
+    "maxWaterDepth": 95,
+    "implosionChance": 0.43333334
+  },
+  "any_lanterns:grow_lantern_2": {
+    "maxWaterDepth": 58,
+    "implosionChance": 0.65
+  },
+  "any_lanterns:soul_gothic_lantern": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.56666666
+  },
+  "any_lanterns:soul_gothic_lantern_2": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.56666666
+  },
   "appliedcreate:andesite_pattern_provider": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
@@ -117093,6 +117145,238 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "reddensstonelantern:big_stone_lantern_base": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:big_stone_lantern_block_dark": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:big_stone_lantern_block_light": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:big_stone_lantern_mid": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:big_stone_lantern_top_dark": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:big_stone_lantern_top_light": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:bigger_stone_lantern_block_d": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:bigger_stone_lantern_block_l": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:bigger_stone_lantern_proof": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:broad_stone_lantern": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:broad_stone_lantern_block_dark": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:broad_stone_lantern_block_light": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:broad_stone_lantern_top_dark": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:broad_stone_lantern_top_light": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:medium_stone_lantern": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:medium_stone_lantern_top_dark": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:medium_stone_lantern_top_light": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:mid_stone_lantern_block_dark": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:mid_stone_lantern_block_light": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:mini_stone_lantern_dark": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:mini_stone_lantern_light": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:mininoproof_stone_lantern_dark": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:mininoproof_stone_lantern_light": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:small_stone_lantern_dark": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:small_stone_lantern_light": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:smallfoot_stone_lantern_dark": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:smallfoot_stone_lantern_light": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:smallnoproof_stone_lantern_dark": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:smallnoproof_stone_lantern_light": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:smallproof_stone_lantern_dark": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:smallproof_stone_lantern_light": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_big_bottom": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_big_middle": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_big_short": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_big_top": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_bigger_bottom": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_bigger_middle": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_bigger_short": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_bigger_top": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_mid_bottom": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_mid_middle": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_mid_short": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_mid_top": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_thin_a_bottom": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_thin_a_short": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_thin_a_top": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_thin_b_bottom": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_thin_b_short": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_thin_b_top": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_thin_c_bottom": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_thin_c_middle": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_thin_c_short": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:stone_pillar_thin_c_top": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:thin_stone_lantern": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:thin_stone_lantern_block_dark": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:thin_stone_lantern_block_light": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:thin_stone_lantern_top_dark": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "reddensstonelantern:thin_stone_lantern_top_light": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
   "rubberworks:compressor": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
@@ -117102,6 +117386,10 @@
     "implosionChance": 0.05
   },
   "rubberworks:rubber_block": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "rubberworks:rubber_sheet_block": {
     "maxWaterDepth": 50,
     "implosionChance": 0.7
   },

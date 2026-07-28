@@ -458,13 +458,13 @@
 	#The amount of Schematics a player can upload until previous ones are overwritten.
 	# Default: 10
 	# Range: > 1
-	maxSchematics = 100
+	maxSchematics = 1000
 	#.
 	#[in KiloBytes]
 	#The maximum allowed file size of uploaded Schematics.
 	# Default: 256
 	# Range: > 16
-	maxTotalSchematicSize = 2560
+	maxTotalSchematicSize = 25600
 	#.
 	#[in Bytes]
 	#The maximum packet size uploaded Schematics are split into.
