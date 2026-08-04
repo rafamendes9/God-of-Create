@@ -86193,6 +86193,10 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "ldlib2:renderer_block": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
   "linearbearing:andesite_lamp": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -118973,6 +118977,34 @@
     "maxWaterDepth": 40,
     "implosionChance": 0.76
   },
+  "sable_schematic_api:blueprint_cannon": {
+    "maxWaterDepth": 105,
+    "implosionChance": 0.37
+  },
+  "sable_schematic_api:blueprint_table": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "sable_schematic_api:film_printer": {
+    "maxWaterDepth": 105,
+    "implosionChance": 0.37
+  },
+  "sable_schematic_api:projector": {
+    "maxWaterDepth": 105,
+    "implosionChance": 0.37
+  },
+  "sable_schematic_api:projector_base": {
+    "maxWaterDepth": 105,
+    "implosionChance": 0.37
+  },
+  "sable_schematic_api:projector_screen": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.802
+  },
+  "sable_schematic_api:projector_screen_locator": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.802
+  },
   "sawmill:sawmill": {
     "maxWaterDepth": 25,
     "implosionChance": 0.85
@@ -119364,6 +119396,26 @@
   "simulated:yellow_symmetric_sail": {
     "maxWaterDepth": 33,
     "implosionChance": 0.8
+  },
+  "simulatedcoasters:coaster_anchorpoint": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "simulatedcoasters:coaster_cart": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "simulatedcoasters:coaster_track_material": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.85
+  },
+  "simulatedcoasters:red_balloon": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "simulatedcoasters:rivet": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
   },
   "sliceanddice:fertilizer": {
     "maxWaterDepth": 300,
@@ -120636,6 +120688,158 @@
   "swem:western_hitching_post_mini": {
     "maxWaterDepth": 43,
     "implosionChance": 0.74333334
+  },
+  "synaxis:anchor": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:camera": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_bool_constant": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_bus": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_compose_vec3": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_constant": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_flexible_boolean": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_flip_flop": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_function_dispatch": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_imu": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_input_port": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_logic_gate": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_low_pass": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_luacuit": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_mux2": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_output_port": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_pid_controller": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_plant_proxy": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_real_comparator": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_real_constant": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_shifter": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_split_vec3": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_vector_adapter": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:cimulink_weighted_sum": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:circuit": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:circuit_diagram": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:compact_flap": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:constraint_anchor": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:control_chair": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:dynamic_joint_motor": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:dynamic_revolute_motor": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:hydraulic_linear_actuator": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:jet": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:jet_rudder": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:kinetic_resistor": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:propeller": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:propeller_blade": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "synaxis:tweakerminal": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
   },
   "tacz:gun_smith_table": {
     "maxWaterDepth": 23,
@@ -122641,6 +122845,10 @@
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
+  "waystones:fleeting_memorial": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
   "waystones:gray_portstone": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -122693,6 +122901,10 @@
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
+  "waystones:mud_bricks_waystone": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
   "waystones:orange_portstone": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -122709,11 +122921,23 @@
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
+  "waystones:prismarine_waystone": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
   "waystones:purple_portstone": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
   "waystones:purple_sharestone": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "waystones:purpur_waystone": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "waystones:red_nether_bricks_waystone": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
@@ -122730,6 +122954,10 @@
     "implosionChance": 0.05
   },
   "waystones:warp_plate": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "waystones:warp_portal": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },

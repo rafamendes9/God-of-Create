@@ -1,0 +1,19 @@
+[camera]
+	#Maximum distance, in blocks, at which a camera may capture a Sable body.
+	# Default: 128
+	# Range: 1 ~ 32768
+	maxCaptureRange = 128
+	#Maximum number of Sable bodies a single camera capture may contain.
+	# Default: 128
+	# Range: 1 ~ 4096
+	maxCapturedBodies = 128
+	#Maximum compressed byte size of a camera capture.
+	# Default: 16777216
+	# Range: 1024 ~ 67108864
+	maxBlueprintBytes = 16777216
+
+[manuscript]
+	#Maximum compressed byte size of one blueprint manuscript upload.
+	# Default: 16777216
+	# Range: 1024 ~ 268435456
+	maxUploadBytes = 16777216

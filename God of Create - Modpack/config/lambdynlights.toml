@@ -383,6 +383,14 @@ chunk_rebuild_scheduler = "culling"
 			[light_sources.settings.entities.create_mobile_packages]
 				robo_bee = true
 
+			[light_sources.settings.entities.tacz]
+				target_minecart = true
+				bullet = true
+
+			[light_sources.settings.entities.cbbees]
+				mechanical_bee = true
+				mechanical_bumble_bee = true
+
 			[light_sources.settings.entities.immersive_aircraft]
 				airship = true
 				bamboo_hopper = true
@@ -471,6 +479,9 @@ chunk_rebuild_scheduler = "culling"
 				honey_glue = true
 				contraption_diagram = true
 
+			[light_sources.settings.entities.tacz_bandits]
+				bandit = true
+
 			[light_sources.settings.entities.createdieselgenerators]
 				chemical_sprayer_projectile = true
 
@@ -486,6 +497,9 @@ chunk_rebuild_scheduler = "culling"
 
 			[light_sources.settings.entities.interiors]
 				big_seat = true
+
+			[light_sources.settings.entities.addon_gancho]
+				connector = true
 
 			[light_sources.settings.entities.supplementaries]
 				dispenser_minecart = true
@@ -525,6 +539,13 @@ chunk_rebuild_scheduler = "culling"
 
 			[light_sources.settings.entities.offroad]
 				borehead_contraption_entity = true
+
+			[light_sources.settings.entities.createsprings]
+				spring_alloy_block_projectile = true
+				sus_package = true
+				hat = true
+				bouncy_item = true
+				spring_projectile = true
 
 			[light_sources.settings.entities.createmissiles]
 				guardianball = true
@@ -770,8 +791,17 @@ chunk_rebuild_scheduler = "culling"
 				steve_samurai = true
 				samurai = true
 
+			[light_sources.settings.entities.createnetherindustry]
+				lava_speedboat = true
+
+			[light_sources.settings.entities.kaleidoscope_nether]
+				blaze_heart_projectile = true
+
 			[light_sources.settings.entities.maidbeacon]
 				extra_rendering_entity = true
+
+			[light_sources.settings.entities.synaxis]
+				flap_contraption = true
 
 			[light_sources.settings.entities.blocksyouneed_luna]
 				obsidia_projectile = true

@@ -6,7 +6,7 @@
 
 ## 📋 Sobre
 
-**God of Create** é uma versão altamente customizada do popular modpack **[All of Create](https://www.curseforge.com/minecraft/modpacks/aoc)**, otimizada para jogadores que desejam uma experiência enriquecida com performance aprimorada, Worldgens, mecânicas inovadoras e conteúdo de curadoria exclusiva.
+**God of Create** Foi baseado do popular modpack **[All of Create](https://www.curseforge.com/minecraft/modpacks/aoc)**, Hojé sendo considerado Um Modpack totalmente Sigular de sua vertente original, o foco do Modpack é levar o Minecraft ao limite de seu potencial e capacidade sem abrir mão da Performace, assim como conteudo e funções,**God of Create** é otimizado para jogadores que desejam uma experiência enriquecida com performance aprimorada, Worldgens, mecânicas inovadoras e conteúdo de curadoria exclusiva.
 
 ---
 
@@ -150,7 +150,7 @@ FTB Quests, Create Questing (Data Pack)
 - [Neo Forge 21.1.233] 
 - [Java 8+] 
 
-### 2. Passos de Instalação ( CURSE FORGE )
+### 2. Passos de Instalação ( CURSE FORGE - Padrão da grande parcela dos jogadores)
 
 1. Clone ou baixe este repositório
    ```bash
@@ -177,9 +177,13 @@ FTB Quests, Create Questing (Data Pack)
 
 11. Feche o diretorio e selecione "Jogar"no perfil criado anteriormente no "CurseForge"
 
-OBS: Fiz esse metodo por alguns motivos: O Cursefortge não é nosso amigo, ele sempre vai tentar corromper o seu modpack instalado ou save ao atualizar sem o conssentimento do usuario de forma silenciosa os mods ou o proprio modpack ( sempre faça backup da pasta do seu modpack)
+OBS: Fiz esse metodo por alguns motivos: 
 
- Alguns mods/datapacks/shaders/resoucerpack são achados exclusivamente fora do curseforge por questões que fogem totalmente do meu controle ou curadoria, por esse motivo fiz esse metododo totalmente desligado para que voce como jogador nao precise ter dores de cabeças com atualizacoes ou qualquer outra "novidade" que eles tentem fazer, Boa Jogatina
+ Total compatibilidade com diversos tipos de Lauchers, meu metodo de instalação permite voce usar todo e qualquer Laucher de sua preferencia, seja ele para Windons, Linux, Oficial ou Alternativo
+
+ Problemas de Instalar diretamente do Curseforge: o curse possui serios problemas e limitações, ele sempre vai tentar corromper o seu modpack instalado ou save ao atualizar sem o conssentimento do usuario de forma silenciosa os mods ou o proprio modpack ( sempre faça backup da pasta do seu modpack), ( Fiz o guia de instalação para o Curse unica e exclusivamente por ser onde concentra a maioria dos usuarios  )
+
+ Alguns mods/datapacks/shaders/resoucerpack são achados exclusivamente fora do curseforge por questões que fogem totalmente do meu controle ou curadoria, por esse motivo fiz esse metododo totalmente desligado para que voce como jogador nao precise ter dores de cabeças com atualizacoes ou qualquer outra "novidade" que o Curseforge tente fazer, Boa Jogatina
 
 ### 3. Aplicar Seed Recomendada
 

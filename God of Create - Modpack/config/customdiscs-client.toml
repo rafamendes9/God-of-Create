@@ -1,0 +1,16 @@
+#Per-player client settings for Custom Discs.
+[privacy]
+	#If false, this client will not download or play music from jukeboxes.
+	#Useful for players who do not want to receive audio from the server.
+	enableMusicDownload = true
+	#Maximum size of the local music cache in MB. Oldest files are deleted first.
+	#0 = disabled (no caching, every play downloads).
+	# Default: 500
+	# Range: 0 ~ 10240
+	maxCacheSizeMb = 500
+
+[network]
+	#How long the client waits for a track download from the server before giving up.
+	# Default: 30
+	# Range: 5 ~ 300
+	packetDownloadTimeoutSeconds = 30

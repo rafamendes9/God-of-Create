@@ -115,6 +115,9 @@
     "maid": true,
     "shrine_lamp": true
   },
+  "quark": {
+    "oretoise_eating_cooldown": true
+  },
   "jadecolonies": {
     "colony.citizens": true,
     "colony.visitor_cost": true,

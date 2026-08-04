@@ -56,7 +56,7 @@
   "player2": {
     "id": "player2",
     "api_type": "player2",
-    "enabled": true,
+    "enabled": false,
     "icon": "touhou_little_maid:textures/gui/ai_chat/player2.png",
     "url": "http://127.0.0.1:4315/v1/tts/speak",
     "headers": {
@@ -93,7 +93,7 @@
   "system": {
     "id": "system",
     "api_type": "system",
-    "enabled": true,
+    "enabled": false,
     "icon": "touhou_little_maid:textures/gui/ai_chat/system.png"
   },
   "tma_mimo_tts": {

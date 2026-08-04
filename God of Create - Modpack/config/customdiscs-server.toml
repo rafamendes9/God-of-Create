@@ -1,0 +1,60 @@
+#Server-side settings for Custom Discs. Synced to all clients in the world.
+[network]
+	#Maximum size of a single upload in bytes. Default: 100 MB.
+	# Default: 104857600
+	# Range: > 1048576
+	maxUploadBytes = 104857600
+	#Maximum combined size of the server's upload folder in MB.
+	#A new upload that would push the folder past this limit is rejected.
+	#0 = unlimited.
+	# Default: 5120
+	# Range: 0 ~ 1048576
+	maxTotalStorageMb = 5120
+	#Pause in milliseconds between audio chunks when streaming a track to a client.
+	#Lower = faster downloads but more bandwidth load. Higher = gentler on slow links.
+	#0 = no pacing (saturate the connection).
+	# Default: 10
+	# Range: 0 ~ 500
+	chunkSendDelayMs = 10
+
+[audio]
+	#Distance (in blocks) at which a playing disc fades to silence.
+	#This is the configurable audible range of jukeboxes. Works alongside
+	#Sound Physics Remastered (the disc plays as a normal positional record,
+	#so SPR applies its reverb/occlusion on top). Minimum 16 because the sound
+	#engine cannot fade a linear sound in under 16 blocks.
+	# Default: 64.0
+	# Range: 16.0 ~ 256.0
+	maxAudibleDistance = 64.0
+	#Radius (blocks) within which the server sends playback packets to a player.
+	#Automatically treated as at least maxAudibleDistance so audio is never cut
+	#before it fades out; raise it above that only to add a head-start margin for
+	#fast-moving players.
+	# Default: 80.0
+	# Range: 16.0 ~ 320.0
+	broadcastRadius = 80.0
+
+[privacy]
+	#Minimum vanilla permission level (0-4) required to use /disc upload.
+	#0 = all players, 2 = operators, 4 = server console only.
+	# Default: 0
+	# Range: 0 ~ 4
+	uploadPermLevel = 0
+	#Minimum permission level required to use /disc list.
+	# Default: 2
+	# Range: 0 ~ 4
+	listPermLevel = 2
+	#Minimum permission level required to use /disc delete.
+	# Default: 2
+	# Range: 0 ~ 4
+	deletePermLevel = 2
+	#Cooldown in seconds between successful uploads, per player.
+	#0 = no cooldown.
+	# Default: 30
+	# Range: 0 ~ 3600
+	uploadCooldownSeconds = 30
+	#Maximum number of uploaded tracks a single player may own on the server.
+	#Counted from the upload-attribution sidecar. 0 = unlimited.
+	# Default: 0
+	# Range: 0 ~ 1000
+	perPlayerFileLimit = 0

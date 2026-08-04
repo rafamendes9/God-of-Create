@@ -162,7 +162,7 @@
 		#Maximum amount of blocks in a structure movable by Pistons, Bearings or other means.
 		# Default: 2048
 		# Range: > 1
-		maxBlocksMoved = 2048
+		maxBlocksMoved = 204800
 		#.
 		#Maximum value of a chassis attachment range.
 		# Default: 16
@@ -194,7 +194,7 @@
 		#.
 		#Configure how Spawner blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableSpawners = "NO_PICKUP"
+		movableSpawners = "MOVABLE"
 		#.
 		#Configure how Budding Amethyst can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
@@ -412,7 +412,7 @@
 	#Maximum distance in blocks a Package Port can be placed at from its target.
 	# Default: 5
 	# Range: > 1
-	packagePortRange = 5
+	packagePortRange = 10
 	#.
 	#Maximum possible range in blocks of redstone link connections.
 	# Default: 256
@@ -427,12 +427,12 @@
 	#The total amount of stacks a vault can hold per block in size.
 	# Default: 20
 	# Range: 1 ~ 2048
-	vaultCapacity = 20
+	vaultCapacity = 200
 	#.
 	#The amount of packages a chain conveyor can carry at a time.
 	# Default: 20
 	# Range: > 1
-	chainConveyorCapacity = 20
+	chainConveyorCapacity = 40
 	#.
 	#The amount of ticks a brass tunnel waits between distributions.
 	# Default: 10
@@ -542,17 +542,17 @@
 	#Maximum length of track that can be placed as one batch or turn.
 	# Default: 32
 	# Range: 16 ~ 128
-	maxTrackPlacementLength = 32
+	maxTrackPlacementLength = 128
 	#.
 	#Maximum length of a Train Stations' assembly track.
 	# Default: 128
 	# Range: 5 ~ 512
-	maxAssemblyLength = 128
+	maxAssemblyLength = 246
 	#.
 	#Maximum amount of bogeys assembled as a single Train.
 	# Default: 20
 	# Range: 1 ~ 200
-	maxBogeyCount = 20
+	maxBogeyCount = 50
 	#.
 	#Relative speed of a manually controlled Train compared to a Scheduled one.
 	# Default: 0.75

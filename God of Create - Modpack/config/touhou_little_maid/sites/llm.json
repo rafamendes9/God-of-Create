@@ -16,7 +16,7 @@
   "deepseek": {
     "id": "deepseek",
     "api_type": "openai",
-    "enabled": true,
+    "enabled": false,
     "icon": "touhou_little_maid:textures/gui/ai_chat/deepseek.png",
     "url": "https://api.deepseek.com/chat/completions",
     "secret_key": "",

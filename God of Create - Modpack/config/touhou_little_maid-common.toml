@@ -186,7 +186,7 @@
 	#Whether or not to enable the AI LLM feature
 	LLMEnabled = false
 	#Whether to automatically generate the maid's settings
-	AutoGenSettingEnabled = true
+	AutoGenSettingEnabled = false
 	#LLM AI Proxy Address, such as 127.0.0.1:1080, empty is no proxy, SOCKS proxies are not supported
 	LLMProxyAddress = ""
 	#Compress the maid's LLM chat history before the next player message when the previous chat request reaches this token count, in K tokens (1K = 1024 tokens)
@@ -198,13 +198,13 @@
 	# Range: > 1
 	MaxTokensPerPlayer = 2147483647
 	#Whether or not to enable the TTS feature
-	TTSEnabled = true
+	TTSEnabled = false
 	#The TTS language you intend to use, will be overridden by the maid's settings
 	TTSLanguage = "en_us"
 	#TTS Proxy Address, such as 127.0.0.1:1080, empty is no proxy, SOCKS proxies are not supported
 	TTSProxyAddress = ""
 	#Whether or not to enable the STT feature
-	STTEnabled = true
+	STTEnabled = false
 	#STT Type, currently support player2 app or aliyun
 	#Allowed Values: PLAYER2, ALIYUN, SILICONFLOW, TENCENT
 	STTType = "PLAYER2"
