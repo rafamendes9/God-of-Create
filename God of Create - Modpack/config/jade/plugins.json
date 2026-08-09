@@ -76,6 +76,10 @@
   "create_mob_spawners": {
     "spawner_progress": true
   },
+  "occultism": {
+    "foliot": true,
+    "sacrificial": true
+  },
   "balm": {
     "jade": true
   },
@@ -90,6 +94,9 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
   },
   "create_mobile_packages": {
     "bee_port": true
@@ -138,5 +145,8 @@
   "appliedcreate": {
     "grid_node_state": true,
     "power_storage": true
+  },
+  "neovitae": {
+    "block_info": true
   }
 }

@@ -174,9 +174,6 @@
       "Pro/deepseek-ai/DeepSeek-V3.2"
     ]
   },
-  "tma_mimo_chat": {
-    "api_type": "tma_mimo_chat"
-  },
   "zhipu": {
     "id": "zhipu",
     "api_type": "openai",

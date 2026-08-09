@@ -1,0 +1,306 @@
+["General Settings"]
+	#Allowed Values: VOID, NORMAL, CHERRY
+	dimensionType = "VOID"
+	#If true, all structures generate normally in the personal dimension. If false, only structures in structureWhitelist will generate.
+	enableStructures = false
+	#When enableStructures is false, only structures with IDs in this list will generate. The mod's own island (touhoulittlemaidpersonaldimension:my_island) is always implicitly allowed.
+	structureWhitelist = ["touhoulittlemaidpersonaldimension:my_island"]
+	#When enableStructures is true, structures with IDs in this list will be prevented from generating. Has no effect when enableStructures is false.
+	structureBlacklist = []
+	#Rare chance per chunk for a maid to spawn naturally in OVERWORLD or CHERRY dimensions (1 in x chunks). Set to 0 to disable.
+	# Default: 100
+	# Range: 0 ~ 1000
+	maidSpawnChance = 100
+	teleportToGround = true
+	allowSetSpawn = false
+	enableBlockBreaking = true
+	#If ON, players are allowed to place blocks in the dimension.
+	enableBlockBuilding = true
+
+["YSM Maid Model Settings"]
+	#If true, spawned maids will use YSM (Yes Steve Model) models if available
+	useYsmModels = false
+	#List of YSM model IDs to randomly choose from (e.g., ["default", "misc/1_alex", "misc/2_steve"]). Use /ysm model set @s to find your model's location and ID!
+	ysmModelIds = ["default"]
+
+["Entity Spawning Protection"]
+	immediateRemoval = true
+	removeBlockedEntities = false
+	#If true, all entities are allowed except those in the blockedEntities list or restricted categories.
+	allowAllEntities = false
+	#Completely prevent hostile mobs from existing
+	disableHostileEntities = false
+	entityWhitelistMode = true
+	allowedEntities = ["touhou_little_maid:broom", "touhou_little_maid:chair", "touhoulittlemaidpersonaldimension:cat_familiar"]
+	blockedEntities = []
+
+["Advanced Protection"]
+	damageSourceBlacklist = []
+	# Default: -64.0
+	# Range: -128.0 ~ 320.0
+	fallProtectionY = -64.0
+
+["Teleportation Restrictions"]
+	dimensionWhitelist = ["minecraft:overworld", "minecraft:overworld", "minecraft:the_end"]
+
+["Maid Protection"]
+	#If OFF, tamed maid protection is completely disabled and the option won't appear in the GUI.
+	tamedMaidProtectionEnabled = true
+	#If ON, tamed maids will expel entities that are about to kill their owner or other tamed maids. Maids need to be near the owner (configurable range).
+	tamedMaidProtection = true
+	#Range in blocks that tamed maids will protect their owner from lethal threats.
+	# Default: 20
+	# Range: 1 ~ 100
+	tamedMaidProtectionRange = 20
+	#Cooldown in seconds for tamed maid protection to trigger again.
+	# Default: 60
+	# Range: 0 ~ 1000000
+	tamedMaidProtectionCooldown = 60
+	#Cost in power points for tamed maid protection to trigger (0 to disable).
+	# Default: 0.0
+	# Range: 0.0 ~ 1000000.0
+	tamedMaidProtectionPowerPointsCost = 0.0
+	#Cost in experience levels for tamed maid protection to trigger (0 to disable).
+	# Default: 0
+	# Range: 0 ~ 1000000
+	tamedMaidProtectionXpCost = 0
+	#If ON, all maids (including non-tamed) will expel entities that are about to kill any player or maid.
+	allMaidProtection = false
+	#If ON, non-tamed (wild) maids will expel entities (including players) that are about to kill them.
+	wildMaidProtection = true
+	#If ON, some entities will attack what is attacking maid and player.
+	maidAuthority = false
+	#If ON, tamed maids following their owner will teleport with them through any dimension, regardless of distance.
+	maidTeleportWithOwnerDimension = false
+	#If ON, maids in the personal dimension will discard entities they attack or are hostile towards.
+	maidAttackDiscard = false
+
+["Entity Teleportation with Items"]
+	#If ON, players can teleport entities by shift-right-clicking them with Okina's door or maid teleporter.
+	allowEntityTeleport = true
+	#If true, all entities are allowed to be teleported with maid teleporter (unless blacklisted or excluded as a boss).
+	maidTeleporterAllowAllEntities = true
+	#If true, only entities in maid teleporter whitelist are allowed; if false, only entities in blacklist are blocked.
+	maidTeleporterEntityWhitelistMode = true
+	#List of entity IDs allowed to be teleported with maid teleporter (e.g., 'touhou_little_maid:entity_maid', 'minecraft:cow').
+	maidTeleporterAllowedEntities = []
+	#List of entity IDs blocked from being teleported with maid teleporter (higher priority than whitelist).
+	maidTeleporterBlockedEntities = []
+	#If true, entities tagged as bosses (e.g., #c:bosses, #neoforge:bosses) cannot be teleported with maid teleporter.
+	maidTeleporterExcludeBosses = true
+
+["General Survival Options"]
+	#If ON, players in the personal dimension won't get hungry.
+	disableHunger = false
+	#If ON, maids in the personal dimension can't die.
+	disableMaidDeath = false
+	#If ON, players in the personal dimension can't die (they'll stay at 1 health instead).
+	disablePlayerDeath = false
+	#If ON, players and maids in the personal dimension will naturally regenerate health over time.
+	naturalHealing = false
+	#If ON, harmful potion effects will be completely blocked from affecting players and maids in the dimension.
+	blockHarmfulEffects = false
+	#If ON, maids in the personal dimension will emit light.
+	maidEmitLight = false
+	#If ON, Entities in the personaldimension are neutral (except maids)
+	entityCannotTarget = false
+
+["Teleportation Costs"]
+	#If true, teleporting (GUI or Item) costs power points and XP
+	teleportHasCost = true
+	#Cost in power points (float) to use personal dimension teleportation (0.0 to disable)
+	# Default: 0.16
+	# Range: 0.0 ~ 1000000.0
+	teleportCostPowerPoints = 0.16
+	#Cost in experience levels to use personal dimension teleportation (0 to disable)
+	# Default: 5
+	# Range: 0 ~ 1000000
+	teleportCostXp = 5
+	#Cooldown in seconds to join the personal dimension (0 to disable)
+	# Default: 300
+	# Range: 0 ~ 1000000
+	teleportJoinCooldown = 300
+	#Cooldown in seconds to leave the personal dimension (0 to disable)
+	# Default: 0
+	# Range: 0 ~ 1000000
+	teleportLeaveCooldown = 0
+
+["Private Dimension Settings"]
+	#If true, each player's personal dimension is private, and teleporter items are bound to their owner
+	privateDimension = true
+
+["Maid Entity Allowance & GUI Config"]
+	#If true, players can configure cheat options via the GUI like disable hunger, disable death, etc.
+	allowCheatConfigs = true
+	#If true, players can whitelist entities via GUI without needing cake or maid costs
+	allowFreeWhitelist = false
+	#If true, players can set "allow all entities" via GUI without needing cake or maid costs
+	allowAllowAllEntities = false
+	#Cooldown in minutes per maid for whitelisting/allow all entities (5-10 minutes)
+	# Default: 7
+	# Range: 5 ~ 10
+	maidEntityWhitelistCooldownMinutes = 7
+	#Cost in power points (float) to whitelist/blacklist entities via maid (0.0 to disable)
+	# Default: 0.5
+	# Range: 0.0 ~ 1000000.0
+	whitelistBlacklistCostPowerPoints = 0.5
+	#Cost in experience levels to whitelist/blacklist entities via maid (0 to disable)
+	# Default: 20
+	# Range: 0 ~ 1000000
+	whitelistBlacklistCostXp = 20
+	#Cost in power points (float) to set allow all entities via maid (0.0 to disable)
+	# Default: 5.0
+	# Range: 0.0 ~ 1000000.0
+	allowAllCostPowerPoints = 5.0
+	#Cost in experience levels to set allow all entities via maid (0 to disable)
+	# Default: 100
+	# Range: 0 ~ 1000000
+	allowAllCostXp = 100
+	#Cost in power points (float) to disable hostile entities via maid (0.0 to disable)
+	# Default: 5.0
+	# Range: 0.0 ~ 1000000.0
+	disableHostileCostPowerPoints = 5.0
+	#Cost in experience levels to disable hostile entities via maid (0 to disable)
+	# Default: 100
+	# Range: 0 ~ 1000000
+	disableHostileCostXp = 100
+	#Cost in power points (float) to change dimension survival/time rules in GUI
+	# Default: 5.0
+	# Range: 0.0 ~ 1000000.0
+	dimensionRulesCostPowerPoints = 5.0
+	#Cost in experience levels to change dimension survival/time rules in GUI
+	# Default: 100
+	# Range: 0 ~ 1000000
+	dimensionRulesCostXp = 100
+
+["GUI Layout Options"]
+	#If true, the buttons will be directly inside the maid's GUI (4th tab). If false, clicking the 4th tab's art will open the full-screen mod GUI.
+	useMaidGuiControls = false
+
+	["Bauble Configuration"."Bauble Crafting"]
+		#If true, the Domain Expansion Bauble can be crafted at the altar in survival. Still obtainable via commands.
+		domainExpansionBaubleCraftable = true
+		#If true, the Cherry Domain Bauble can be crafted at the altar in survival. Still obtainable via commands.
+		cherryDomainBaubleCraftable = true
+		#If true, the Cat Familiar Bauble can be crafted at the altar in survival. Still obtainable via commands.
+		catFamiliarBaubleCraftable = true
+		#If true, the Tethered Teleport Bauble can be crafted at the altar in survival. Still obtainable via commands.
+		tetheredTeleportBaubleCraftable = true
+
+	["Bauble Configuration"."Domain Expansion Bauble"]
+		#If true, maids with the Domain Expansion bauble and favorability level 3 can activate domain expansions.
+		domainExpansionEnabled = true
+		#Cooldown in seconds before a maid can activate a domain expansion again.
+		# Default: 300
+		# Range: 0 ~ 1000000
+		domainExpansionCooldownSeconds = 300
+		#How long (in seconds) the domain expansion lasts before collapsing.
+		# Default: 60
+		# Range: -1 ~ 3600
+		domainExpansionDurationSeconds = 60
+		#If true, Domain Expansion consumes XP levels from its owner over time.
+		domainExpansionXpCostEnabled = true
+		#How many experience levels to consume per interval.
+		# Default: 1
+		# Range: 0 ~ 100
+		domainExpansionXpCost = 1
+		#How often (in seconds) the Domain Expansion consumes XP.
+		# Default: 10
+		# Range: 1 ~ 3600
+		domainExpansionXpCostIntervalSeconds = 10
+		#If true, domain expansion enforce dimension-like rules: maid authority, natural healing etc.
+		domainExpansionUseDimensionRules = true
+		#If true, domain expansions apply combat effects: allies get buffs, enemies get Weakness and Slowness.
+		domainExpansionUseEntityProtection = true
+		#If true, domain expansions enforce entity filtering: blocked entities are expelled or removed.
+		domainExpansionUseEntityFiltering = true
+		#If true, Cherry Domain enforces dimension-like rules: maid authority, natural healing etc.
+		cherryDomainUseDimensionRules = true
+		#If true, Cherry Domain applies combat effects: allies get buffs, enemies get Weakness and Slowness.
+		cherryDomainUseEntityProtection = false
+		#If true, Cherry Domain enforces entity filtering: blocked entities are expelled or removed.
+		cherryDomainUseEntityFiltering = false
+		#If true, the Cherry Domain Bauble also creates an aura around the owner.
+		cherryDomainAffectsOwner = false
+		#Horizontal radius for Cherry Domain block placement (half width). 2 gives a 5x5 area. NOTE tat high value can cause lag
+		# Default: 10
+		# Range: 0 ~ 100
+		cherryDomainHorizontalRadius = 10
+		#Vertical half-range for Cherry Domain (half of total height). 10 gives a 20 block tall area. NOTE tat high value can cause lag
+		# Default: 15
+		# Range: 0 ~ 256
+		cherryDomainVerticalHalf = 15
+		#Percent chance (0-100) that Cherry Domain dimension rules are skipped on any given check. Default 20 means 20% chance rules won't apply.
+		# Default: 30
+		# Range: 0 ~ 100
+		cherryDomainRulesBypassChance = 30
+		#If true, Cherry Domain consumes XP levels from its owner over time.
+		cherryDomainXpCostEnabled = true
+		#How many experience levels to consume per interval.
+		# Default: 1
+		# Range: 0 ~ 100
+		cherryDomainXpCost = 1
+		#How often (in seconds) the Cherry Domain consumes XP. Default is 120 (2 minutes).
+		# Default: 120
+		# Range: 1 ~ 3600
+		cherryDomainXpCostIntervalSeconds = 120
+		#Minimum distance between active domains to prevent overlapping.
+		# Default: 100.0
+		# Range: 10.0 ~ 10000.0
+		domainExpansionMinDistance = 100.0
+		#If false, blocks cannot be broken inside a domain expansion.
+		domainExpansionEnableBlockBreaking = false
+		#If false, blocks cannot be broken inside a cherry domain.
+		cherryDomainEnableBlockBreaking = true
+		#Which structure to use for Domain Expansion ("domain_expansion" or "my_island").
+		domainExpansionStructure = "domain_expansion"
+		#Strength amplifier for allies inside domain expansion (0=I, 1=II, 2=III...).
+		# Default: 1
+		# Range: 0 ~ 255
+		domainExpansionAllyStrength = 1
+		#Regeneration amplifier for allies inside domain expansion (0=I, 1=II...).
+		# Default: 1
+		# Range: 0 ~ 255
+		domainExpansionAllyRegen = 1
+		#Resistance amplifier for allies inside domain expansion (0=I, 1=II, 2=III...).
+		# Default: 1
+		# Range: 0 ~ 255
+		domainExpansionAllyResistance = 1
+		#Weakness amplifier for enemies inside domain expansion (0=I, 1=II...).
+		# Default: 0
+		# Range: 0 ~ 255
+		domainExpansionEnemyWeakness = 0
+		#Slowness amplifier for enemies inside domain expansion (0=I ... 9=X...).
+		# Default: 0
+		# Range: 0 ~ 255
+		domainExpansionEnemySlowness = 0
+
+	["Bauble Configuration"."Cat Familiar Bauble"]
+		#If true, cat familiar beneficial effects have a cooldown between applications.
+		catFamiliarEffectCooldown = false
+		#If true, cat familiar can attack (self-defense, attack maid targets, and owner-related targets if enabled).
+		catFamiliarCanAttack = true
+		#Cooldown in seconds before a dead cat familiar can be revived (respawned) by the maid.
+		# Default: 600
+		# Range: 0 ~ 1000000
+		catFamiliarRevivalCooldown = 600
+		#If true, the cat familiar will detect hostile mobs within 128 blocks, apply Glowing for 30 seconds, and optionally whisper coordinates to the owner.
+		catFamiliarDetectHostiles = false
+		#If true, the cat familiar will also send a chat whisper with coordinates when detecting a hostile mob. Requires catFamiliarDetectHostiles to be true.
+		catFamiliarDetectHostilesChat = false
+		#If true, the cat familiar will teleport to its attacking target when more than 3 blocks away.
+		catFamiliarTeleportsToTarget = true
+		#If true, the cat familiar will spawn witch-like particles when teleporting and spawning.
+		catFamiliarParticles = true
+		#If true, the cat familiar will try to attack targets even if they are beyond its follow range, and will not teleport back to the maid until it stops attacking.
+		catFamiliarIgnoreFollowRangeForAttack = false
+		#If true, the cat familiar will mirror the maid's total attack damage.
+		catFamiliarMirrorAttack = false
+		#If true, the cat familiar will mirror the maid's total health.
+		catFamiliarMirrorHealth = true
+		#If true, the cat familiar will mirror the maid's total defence (armour + toughness).
+		catFamiliarMirrorDefence = false
+		#If true, the cat familiar will attack what the maid's owner attacks or is attacked by.
+		catFamiliarAttacksPlayerTargets = false
+		#If true, when the cat attacks a target it also triggers the maid's full bauble attack pipeline (e.g. true damage, on-hit effects). Note: maid weapon durability will be consumed.
+		catFamiliarBaubleProxy = false

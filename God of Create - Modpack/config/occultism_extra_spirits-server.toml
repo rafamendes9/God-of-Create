@@ -1,0 +1,66 @@
+#Spirit Job Settings
+[spirit_job]
+	#The multiplier to each crushing recipe's crushing_time for Tier 5 (Celestial) Crusher Spirits.
+	# Default: 0.001
+	# Range: 0.0 ~ 1.7976931348623157E308
+	tier5CrusherTimeMultiplier = 0.001
+	#The multiplier to each crushing recipe's output count for Tier 5 (Celestial) Crusher Spirits.
+	# Default: 3.5
+	# Range: 0.0 ~ 1.7976931348623157E308
+	tier5CrusherOutputMultiplier = 3.5
+	#Max number of recipes that Tier 5 (Celestial) Crusher Spirits make per operation.
+	# Default: 1
+	# Range: 1 ~ 64
+	tier5CrusherOperationCount = 1
+	#The multiplier to each crystallize recipe's crystallize_time for Tier 5 (Celestial) Crystallizer Spirits.
+	# Default: 5.0E-4
+	# Range: 0.0 ~ 1.7976931348623157E308
+	tier5CrystallizerTimeMultiplier = 5.0E-4
+	#The multiplier to each crystallize recipe's output count for Tier 5 (Celestial) Crystallizer Spirits.
+	# Default: 3.5
+	# Range: 0.0 ~ 1.7976931348623157E308
+	tier5CrystallizerOutputMultiplier = 3.5
+	#Max number of recipes that Tier 5 (Celestial) Crystallizer Spirits make per operation.
+	# Default: 1
+	# Range: 1 ~ 64
+	tier5CrystallizerOperationCount = 1
+	#The multiplier to each smelting recipe's cooking_time for Tier 5 (Celestial) Smelter Spirits.
+	# Default: 5.0E-4
+	# Range: 0.0 ~ 1.7976931348623157E308
+	tier5SmelterTimeMultiplier = 5.0E-4
+	#Max number of recipes that Tier 5 (Celestial) Smelter Spirits make per operation.
+	# Default: 8
+	# Range: 1 ~ 64
+	tier5SmelterOperationCount = 8
+	#The multiplier to each crushing recipe's crushing_time for Tier 6 (Galactical) Crusher Spirits.
+	# Default: 1.0E-5
+	# Range: 0.0 ~ 1.7976931348623157E308
+	tier6CrusherTimeMultiplier = 1.0E-5
+	#The multiplier to each crushing recipe's output count for Tier 6 (Galactical) Crusher Spirits.
+	# Default: 4.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	tier6CrusherOutputMultiplier = 4.0
+	#Max number of recipes that Tier 6 (Galactical) Crusher Spirits make per operation.
+	# Default: 64
+	# Range: 1 ~ 64
+	tier6CrusherOperationCount = 64
+	#The multiplier to each crystallize recipe's crystallize_time for Tier 6 (Galactical) Crystallizer Spirits.
+	# Default: 1.0E-5
+	# Range: 0.0 ~ 1.7976931348623157E308
+	tier6CrystallizerTimeMultiplier = 1.0E-5
+	#The multiplier to each crystallize recipe's output count for Tier 6 (Galactical) Crystallizer Spirits.
+	# Default: 4.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	tier6CrystallizerOutputMultiplier = 4.0
+	#Max number of recipes that Tier 6 (Galactical) Crystallizer Spirits make per operation.
+	# Default: 64
+	# Range: 1 ~ 64
+	tier6CrystallizerOperationCount = 64
+	#The multiplier to each smelting recipe's cooking_time for Tier 6 (Galactical) Smelter Spirits.
+	# Default: 1.0E-5
+	# Range: 0.0 ~ 1.7976931348623157E308
+	tier6SmelterTimeMultiplier = 1.0E-5
+	#Max number of recipes that Tier 6 (Galactical) Smelter Spirits make per operation.
+	# Default: 64
+	# Range: 1 ~ 64
+	tier6SmelterOperationCount = 64

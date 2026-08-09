@@ -68,6 +68,9 @@
 			extinguished_lantern = true
 			glowstone_lantern = true
 
+		[types.lantern.mctradepost]
+			lamp = true
+
 		[types.wood_type.quark]
 			azalea = true
 			ancient = true
@@ -81,6 +84,20 @@
 			argyre = true
 			coiler = true
 			calorian = true
+
+		[types.wood_type.domum_ornamentum]
+			cactus = true
+			cactus_extra = true
+
+		[types.wood_type.born_in_chaos_v1]
+			scorched = true
+
+		[types.wood_type.cataclysm]
+			chorus = true
+
+		[types.wood_type.alexscaves]
+			pewen = true
+			thornwood = true
 
 		[types.leaves_type.creategarnished]
 			pine_nut = true
@@ -169,6 +186,9 @@
 			wilter = true
 			argyre = true
 			coiler = true
+
+		[types.leaves_type.alexscaves]
+			ancient = true
 
 #Disables specific entries
 [entries]
@@ -326,11 +346,6 @@
 			damaged_log = true
 			golden_barred_trapdoor = true
 			nailed_log = true
-
-		[entries.wood_type.tradeworks]
-			side_shelf = true
-			metal_shelf = true
-			shelf = true
 
 		[entries.wood_type.quark]
 			vertical_planks = true

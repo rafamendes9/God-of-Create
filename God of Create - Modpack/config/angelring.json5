@@ -1,0 +1,14 @@
+{
+  // Defines a type of behaviour for the Angel Ring. CLASSIC means that the ring will not consume anything. DURABILITY means that the ring will consume durability. XP means that the ring will consume XP. MANA means that the ring will consume mana. RF means that the ring will consume RF energy and Angel Ring will be turned to Energetic one. [Accepts: CLASSIC, DURABILITY, XP, MANA, RF]
+  "AngelRingMode": "CLASSIC",
+  // Defines how much XP will be drained from player when flying by wearing Angel Ring. Must be an Integer value, otherwise the game will crash. [Min: -2147483648, Max: 2147483647]
+  "XPConsumptionRate": 3,
+  // Defines how much ticks is required to pass between each XP drain event of Angel Ring. Must be an Integer value, otherwise the game will crash. [Min: -2147483648, Max: 2147483647]
+  "XPTickingRate": 20,
+  // Defines how much durability will be drained from player when flying by wearing Angel Ring. Must be an Integer value, otherwise the game will crash. [Min: -2147483648, Max: 2147483647]
+  "DurabilityConsumptionRate": 1,
+  // Defines how much ticks is required to pass between each durability drain event of Angel Ring. Must be an Integer value, otherwise the game will crash. [Min: -2147483648, Max: 2147483647]
+  "DurabilityTickingRate": 20,
+  // Defines how much durability the Angel Ring will have. Must be an Integer value, otherwise the game will crash. [Min: -2147483648, Max: 2147483647]
+  "DurabilityAmount": 2048
+}

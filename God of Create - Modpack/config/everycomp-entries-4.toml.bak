@@ -89,6 +89,20 @@
 			cactus = true
 			cactus_extra = true
 
+		[types.wood_type.born_in_chaos_v1]
+			scorched = true
+
+		[types.wood_type.cataclysm]
+			chorus = true
+
+		[types.wood_type.alexscaves]
+			pewen = true
+			thornwood = true
+
+		[types.wood_type.deeperdarker]
+			bloom = true
+			echo = true
+
 		[types.leaves_type.creategarnished]
 			pine_nut = true
 			hazelnut = true
@@ -176,6 +190,12 @@
 			wilter = true
 			argyre = true
 			coiler = true
+
+		[types.leaves_type.alexscaves]
+			ancient = true
+
+		[types.leaves_type.deeperdarker]
+			echo = true
 
 #Disables specific entries
 [entries]
@@ -333,11 +353,6 @@
 			damaged_log = true
 			golden_barred_trapdoor = true
 			nailed_log = true
-
-		[entries.wood_type.tradeworks]
-			side_shelf = true
-			metal_shelf = true
-			shelf = true
 
 		[entries.wood_type.quark]
 			vertical_planks = true

@@ -86,6 +86,29 @@
 		[types.lantern.aether_beyond_parity]
 			ambrosium_lantern = true
 
+		[types.lantern.ars_additions]
+			magelight_lantern = true
+			golden_magelight_lantern = true
+			sourcestone_magelight_lantern = true
+			polished_sourcestone_magelight_lantern = true
+			archwood_magelight_lantern = true
+			soul_magelight_lantern = true
+			golden_lantern = true
+			sourcestone_lantern = true
+			polished_sourcestone_lantern = true
+			archwood_lantern = true
+
+		[types.lantern.neovitae]
+			blood_lantern = true
+			demon_lantern = true
+
+		[types.lantern.occultism]
+			spirit_lantern = true
+
+		[types.lantern.forbidden_arcanus]
+			deorum_lantern = true
+			deorum_soul_lantern = true
+
 		[types.wood_type.quark]
 			azalea = true
 			ancient = true
@@ -120,6 +143,17 @@
 
 		[types.wood_type.aether]
 			skyroot = true
+
+		[types.wood_type.ars_nouveau]
+			archwood = true
+
+		[types.wood_type.ars_monde_lib]
+			amethyst = true
+
+		[types.wood_type.forbidden_arcanus]
+			fungyss = true
+			aurum = true
+			edelwood = true
 
 		[types.leaves_type.creategarnished]
 			pine_nut = true
@@ -222,6 +256,25 @@
 			crystal_fruit = true
 			holiday = true
 			decorated_holiday = true
+
+		[types.leaves_type.ars_nouveau]
+			blue_archwood = true
+			red_archwood = true
+			purple_archwood = true
+			green_archwood = true
+
+		[types.leaves_type.ars_monde_lib]
+			amethyst = true
+
+		[types.leaves_type.ars_elemental]
+			yellow_archwood = true
+
+		[types.leaves_type.occultism]
+			otherworld = true
+
+		[types.leaves_type.forbidden_arcanus]
+			aurum = true
+			nuggety_aurum = true
 
 #Disables specific entries
 [entries]

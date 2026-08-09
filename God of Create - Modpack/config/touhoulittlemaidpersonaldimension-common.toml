@@ -1,4 +1,5 @@
 ["General Settings"]
+	#DEPRECATED: Use customDimensionTemplates instead. This is kept for backward compatibility only.
 	#Allowed Values: VOID, NORMAL, CHERRY
 	dimensionType = "VOID"
 	#If true, all structures generate normally in the personal dimension. If false, only structures in structureWhitelist will generate.
@@ -196,7 +197,7 @@
 		domainExpansionCooldownSeconds = 300
 		#How long (in seconds) the domain expansion lasts before collapsing.
 		# Default: 60
-		# Range: -1 ~ 3600
+		# Range: -1 ~ 36000000
 		domainExpansionDurationSeconds = 60
 		#If true, Domain Expansion consumes XP levels from its owner over time.
 		domainExpansionXpCostEnabled = true
@@ -252,7 +253,7 @@
 		domainExpansionEnableBlockBreaking = false
 		#If false, blocks cannot be broken inside a cherry domain.
 		cherryDomainEnableBlockBreaking = true
-		#Which structure to use for Domain Expansion ("domain_expansion" or "my_island").
+		#Structure NBT template to use for Domain Expansion. Use short name for mod structures ('domain_expansion', 'my_island') or full namespace for custom ('minecraft:my_structure', 'mypack:arena'). Structure must exist as .nbt file in data/<namespace>/structures/<path>.nbt. NOT for world-gen structures - use structure blocks to export those first.
 		domainExpansionStructure = "domain_expansion"
 		#Strength amplifier for allies inside domain expansion (0=I, 1=II, 2=III...).
 		# Default: 1
@@ -274,6 +275,16 @@
 		# Default: 0
 		# Range: 0 ~ 255
 		domainExpansionEnemySlowness = 0
+		#If true, Cherry Domain generates pink petals on grass blocks.
+		cherryDomainGeneratePinkPetals = true
+		#If true, Cherry Domain has a tornado border swirl of cherry leaves.
+		cherryDomainEnableTornado = true
+		#If true, Cherry Domain converts nearby blocks to cherry variants, spawns cherry particles on blocks, and converts sheep/boats to cherry/pink variants. Disabling this does NOT disable the tornado swirl.
+		cherryDomainEnableCherryfication = true
+		#Density multiplier for the cherry tornado swirl particles. 1.0 = default, 0.5 = half as many, 2.0 = twice as many. Accepts decimal values.
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		cherryDomainTornadoDensity = 1.0
 
 	["Bauble Configuration"."Cat Familiar Bauble"]
 		#If true, cat familiar beneficial effects have a cooldown between applications.
@@ -304,3 +315,31 @@
 		catFamiliarAttacksPlayerTargets = false
 		#If true, when the cat attacks a target it also triggers the maid's full bauble attack pipeline (e.g. true damage, on-hit effects). Note: maid weapon durability will be consumed.
 		catFamiliarBaubleProxy = false
+		#If true, the cat familiar will mirror the maid's total attack speed (including weapon modifiers). Keeps balance — a maid with a slow axe will make the cat attack slower too.
+		catFamiliarMirrorAttackSpeed = true
+		#Extra melee attack reach in blocks added to the cat familiar's base reach. Default 3.0 adds 3 extra blocks of range.
+		# Default: 3.0
+		# Range: 0.0 ~ 10.0
+		catFamiliarAttackRangeBonus = 3.0
+
+["Custom Dimension Templates"]
+	#List of custom dimension templates players can choose from.
+	#Format: "id|display_name|template_dimension_key"
+	#Example: "void|MAID ISLAND|touhoulittlemaidpersonaldimension:personal_dimension"
+	#The template_dimension_key references a dimension definition in data/*/dimension/ folder.
+	#These dimension files define the world generation settings (biomes, structures, etc).
+	#To add a custom dimension:
+	#  1. Create a dimension JSON file (see existing examples in mod resources)
+	#  2. Configure the generator to use vanilla or custom settings
+	#  3. Add an entry here: "custom_id|DISPLAY NAME|yourmod:yourdimension"
+	#  4. Players can then select it via GUI
+	#NOTE: New dimension types added here require a full game restart to take effect.
+	#      You can change dimension type in the Maid GUI (4th tab, requires favorability 3),
+	#      or set the default for all new players using defaultDimensionTypeId below.
+	customDimensionTemplates = ["void|MAID ISLAND|touhoulittlemaidpersonaldimension:personal_dimension", "normal|OVERWORLD|touhoulittlemaidpersonaldimension:personal_dimension_normal", "cherry|CHERRY GROVE|touhoulittlemaidpersonaldimension:personal_dimension_cherry", "nether|NETHER|touhoulittlemaidpersonaldimension:personal_dimension_nether", "end|THE END|touhoulittlemaidpersonaldimension:personal_dimension_end"]
+	#The default dimension type ID assigned to new players (and shared dimension when privateDimension=false).
+	#Must match one of the IDs defined in customDimensionTemplates (the first part before '|').
+	#Example: "void", "normal", "cherry", "nether", "end"
+	#Players can still change their own type via the Maid GUI (4th tab, favorability level 3 required).
+	#NOTE: Changing this does not affect players who already have a dimension assigned.
+	defaultDimensionTypeId = "void"

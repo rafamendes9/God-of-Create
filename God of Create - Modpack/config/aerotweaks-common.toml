@@ -1,4 +1,24 @@
-# How much of the forward rolling friction stays active when NOT braking. (0.0 = completely frictionless, 1.0 = normal vanilla behavior)
+# How much of the forward rolling friction stays active when NOT braking. (0.0 = frictionless, 1.0 = normal behavior)
 # Default: 0.01
 # Range: 0.0 ~ 1.0
 rollingFrictionMultiplier = 1.0
+# Rolling friction multiplier for bare Wheel Mounts (offroad:wheel_mount)
+# Default: 1.0
+# Range: 0.0 ~ 1.0
+wheelMountMultiplier = 1.0
+# Rolling friction multiplier for Small Tires (offroad:small_tire)
+# Default: 0.01
+# Range: 0.0 ~ 1.0
+smallTireMultiplier = 0.01
+# Rolling friction multiplier for Standard Tires (offroad:tire)
+# Default: 0.01
+# Range: 0.0 ~ 1.0
+tireMultiplier = 0.01
+# Rolling friction multiplier for Large Tires (offroad:large_tire)
+# Default: 0.01
+# Range: 0.0 ~ 1.0
+largeTireMultiplier = 0.01
+# Rolling friction multiplier for Monstrous Tires (offroad:monstrous_tire)
+# Default: 0.01
+# Range: 0.0 ~ 1.0
+monstrousTireMultiplier = 0.01

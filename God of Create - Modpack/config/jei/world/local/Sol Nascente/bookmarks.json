@@ -9,5 +9,12 @@
   {"ingredient":{"id":"minecraft:gunpowder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:iron_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"tacz:ammo_box","components":{"minecraft:custom_data":{"Level":0,"AmmoId":"tacz:empty","AmmoCount":0}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"tacz_c:explosive_charge_40mm"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"tacz_c:explosive_charge_40mm"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:birch_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:cobblestone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:mangrove_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:spruce_wood"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stripped_spruce_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"create:crafting/kinetics/item_vault","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"minecraft:barrel","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
 ]

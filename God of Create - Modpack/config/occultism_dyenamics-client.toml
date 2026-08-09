@@ -1,0 +1,110 @@
+#Visual Settings
+[visual]
+	#The integer code of the color of the honey chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 16362820
+	# Range: 0 ~ 16777215
+	honeyChalkGlyphColor = 16362820
+	#The integer code of the color of the mint chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 7983270
+	# Range: 0 ~ 16777215
+	mintChalkGlyphColor = 7983270
+	#The integer code of the color of the lavender chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 12748771
+	# Range: 0 ~ 16777215
+	lavenderChalkGlyphColor = 12748771
+	#The integer code of the color of the navy chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 1713512
+	# Range: 0 ~ 16777215
+	navyChalkGlyphColor = 1713512
+	#The integer code of the color of the bubblegum chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 13908113
+	# Range: 0 ~ 16777215
+	bubblegumChalkGlyphColor = 13908113
+	#The integer code of the  color of the amber chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 13660697
+	# Range: 0 ~ 16777215
+	amberChalkGlyphColor = 13660697
+	#The integer code of the color of the conifer chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 11065172
+	# Range: 0 ~ 16777215
+	coniferChalkGlyphColor = 11065172
+	#The integer code of the color of the icy blue chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 10283004
+	# Range: 0 ~ 16777215
+	icyBlueChalkGlyphColor = 10283004
+	#The integer code of the color of the ultramarine chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 5000700
+	# Range: 0 ~ 16777215
+	ultramarineChalkGlyphColor = 5000700
+	#The integer code of the color of the maroon chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 10033171
+	# Range: 0 ~ 16777215
+	maroonChalkGlyphColor = 10033171
+	#The integer code of the color of the wine chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 7413338
+	# Range: 0 ~ 16777215
+	wineChalkGlyphColor = 7413338
+	#The integer code of the color of the rose chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 16528501
+	# Range: 0 ~ 16777215
+	roseChalkGlyphColor = 16528501
+	#The integer code of the color of the fluorescent chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 15596737
+	# Range: 0 ~ 16777215
+	fluorescentChalkGlyphColor = 15596737
+	#The integer code of the color of the springGreen chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 12713111
+	# Range: 0 ~ 16777215
+	springGreenChalkGlyphColor = 12713111
+	#The integer code of the color of the peach chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 12424818
+	# Range: 0 ~ 16777215
+	peachChalkGlyphColor = 12424818
+	#The integer code of the color of the cherenkov chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 898266
+	# Range: 0 ~ 16777215
+	cherenkovChalkGlyphColor = 898266
+	#The integer code of the color of the aquamarine chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 5489311
+	# Range: 0 ~ 16777215
+	aquamarineChalkGlyphColor = 5489311
+	#The integer code of the color of the persimmon chalk glyph in world.
+	#This is intended to allow people with color blindness to change the color of the glyph.
+	#For most types of color blindness it should not be necessary to change this.
+	# Default: 14506268
+	# Range: 0 ~ 16777215
+	persimmonChalkGlyphColor = 14506268
