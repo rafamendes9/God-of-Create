@@ -20,104 +20,251 @@
 
 ---
 
-## 🎮 Características Principais
+# 🎮 Características Principais
 
-### 🌟 Mods Destaque - Os Essenciais
+## 🌟 Mods Destaque – O Coração do Modpack
 
-#### ⚙️ **Create & Addons** (O Coração do Modpack)
-- **Create** - Sistema mecânico revolucionário para automação industrial
-- **Create: Dreams n' Desires** - Expansão massiva com novos componentes
-- **Create: Slice & Dice** - Processamento e fatiamento de itens
-- **Create: New Age** - Tecnologia energética avançada
-- **Create: Central Kitchen** - Culinária automatizada
-- **Create Crafts & Additions** - Integração eletrônica com Create
-- **Create: Diesel Generators** - Geração de energia diesel
-- **Create: Blaze Burner Fuels** - Combustíveis alternativos
+### ⚙️ Create + Create Aeronautics (o verdadeiro centro de tudo)
 
-#### 🚀 **Conteúdo Aeronautico**
-- **Create Aeronautics** - Parte mais importante do Modpack
-- **Addons + QoL Aeronautics** - Foi adicinado varios mods e customizações dedicadas para **Create Aeronautics**
+**Create** é a base industrial e mecânica. **Create Aeronautics** é a peça mais importante: aviões, dirigíveis, propulsão, estabilidade, radares, cabos, portais aéreos e toda uma linha de addons e patches dedicados que transformam o Create em uma experiência aeronáutica completa.
 
-#### 🎨 **Mods Visuais & Interface**
-- **Iris Shaders & Complementary Shaders** - Gráficos de alta qualidade
-- **Sodium** - Otimização de renderização essencial
-- **ImmediatelyFast** - Aceleração de performance
-- **Jade 🔍** - Informações flutuantes de blocos
-- **JEI (Just Enough Items)** - Gerenciamento de receitas
-- **FancyMenu** - Menu customizado elegante
-- **Not Enough Animations** - Animações suaves
+Você constrói, voa, automatiza e conquista o céu.
 
-#### 🏗️ **Estrutura & Construção**
-- **Create: Ornithopter Glider** - Aviões e estruturas voadoras
-- **Create: Framed** - Blocos customizáveis
-- **Create: Copyca** - Blocos customizáveis
-- **Handcrafted** - Móveis e decoração artesanal
-- **Supplementaries** - Itens decorativos adicionais
-- **Minecolones + Style Packs** - Blocos estilosos
-- **Trading Post** - Comércio expandido para **Minecolonies**
-
-#### ⛏️ **Recursos & Exploração**
-- **Integrated Dungeons and Structures (IDAS)** - Dungeons melhoradas
-- **Integrated Stronghold** - Strongholds customizados
-- **Integrated Villages** - Aldeias expandidas
-- **Lario + WWOO** - Geração de mundo avançada
-- **Paxi** - Estruturas customizadas
-
-#### 🧪 **Conteúdo Científico & Industrial**
-- **Create: Enchantment Industry** - Encantamentos automatizados
-- **Create: Metalwork** - Trabalho com metais
-- **Create: Pattern Schematics** - Esquemas avançados
-- **Create: TFMG** - Esquemas avançados Industriais
-- **Quark** - Aprimoramento do Minecraft vanilla
-
-#### 🎯 **Utilitários & QoL**
-- **FTB Quests** - Sistema de quests integrado
-- **Open Parties and Claims** - Proteção de territórios
-- **Xaero's Minimap & World Map** - Mapas detalhados
-- **Controlling** - Remapeamento avançado de controles
-
-#### 🌍 **Aventura & Exploração**
-- **Touhou Little Maid** - Sistema de Empregadas e companheiras de jogatina, muito Uteis motivadoras para a jogatina
-- **Maid Dimension** - Dimensão Particular das Maids, mundo personalizado para aumentar sua imersão com a sua colega de aventura
-- **Born in Chaos** - Monstros e variaçõs de mobs para enriquecer o mundo
-- **Deeper and Darker** - Monstros e variaçõs de mobs para enriquecer o mundo, alem de novas dimensões
-- **Doggy Talents Next** - Aprimorar e criar toda uma linha de evolução para os Lobos, de forma que viram seus companheiros de aventura inseparaveis, com varias mecanicas para o aumento da imersão
-- **Alex Mobs** - Novos Mobs e criaturas para dar mais vida aos Biomas
-- **Mowzie' Mobs** - Explore um Mundo VIVO onde passaros voao ao seu redor, criaturas vivam nas cavernas e muito mais, torna o jogo vivo e foge do mundo estatico 
-- **Ender's Cataclysm** - Mude totalmente aquele sentimento de paz e tranquilidade, esse mod de Mobs torna sua aventura em um verdadeiro desafio
-- **Sea Life** - Aumente ainda mais a vida nos Oceanos e crie toda uma utilidade para bases navais ou costeiras
-
-#### E Muito mais
 ---
 
-### 🎮 Categorias de Mods
+### 🪄 Magia de alto nível
 
-#### 🚀 **Performance & Otimização**
-Sodium, Lithium, ImmediatelyFast, FerriteCore, ModernFix, Alternate Current, Clumps, Neruina, AllTheLeaks, Chunk Sending, Smooth Chunk Save, Server Performance,.....
+- **Ars Nouveau** + dezenas de addons:
+  - Elemancy
+  - Elemental
+  - Technica
+  - Additions
+  - Creo
+  - Controle
+  - etc.
+- **Occultism**
+  - Rituais
+  - Espíritos
+  - Demônios
+  - Progressão mágica profunda
 
-#### 🌍 **WorldGen & Exploração**
-Larion, WWOO, Alex Caves, Integrated Dungeons and Structures, Integrated Stronghold, Integrated Villages, TerraBlender, Paxi, Bad Wither No Cookie, Incendium ( Nether ), Nullscape ( The End ), .......
+Tudo integrado para quem gosta de magia com impacto real no mundo.
 
-#### 🎨 **Gráficos & Interface**
-Complementary Shaders, Iris Shaders, Sodium, ImmediatelyFast, Jade, JEI, FancyMenu, Not Enough Animations, Skin Layers 3D, Entity Model Features, Continuity, Drippy Loading Screen, Xaero's Minimap, Xaero's World Map, Chat Heads, Item Highlighter, Despawn Tweaks,......
+---
 
-#### ⚙️ **Create Addons Principais** 
-Create, Create: Dreams n' Desires, Create: Slice & Dice, Create: New Age, Create: Central Kitchen, Create Crafts & Additions, Create: Diesel Generators, Create: Blaze Burner Fuels, Create: Ornithopter Glider, Create: Framed, Create: Mechanical Botany, Create: Pattern Schematics, Create: Enchantment Industry, Create: Metalwork, Create: Tradeworks, Create: Winery, Create: Wrapped, Create: Confectionery, Create: Mob Spawners, Create: Stock Market, Create: Aquatic Ambitions, Create: Sound of Steam, Create: Deep Dark, Create: Copper Splashing, Create: Prismatic Shine, Create: Power Grid, Create: Mobile Packages, Create: More Package Couriers, Create: Escalated, Create: Factory, Create: Fantasizing Again, Create: Transmission!, Create: Totem Factory, Create: Cafe, Create: Train Parts, Create: Hypertubes, Create: Bells & Whistles, Create: Design n' Decor, Create: Rubberworks, Create: Dragons Plus, Create: Integrated Farming, Create: Gears n' Kinetics, Create: Optical, Create: Chocolate Fountain, Create: Stuff 'N Additions, Create: Diesel Generators,.......
+### 👩‍🚀 Touhou Little Maid + Maid Dimension + TACZ
 
-#### 🏘️ **Decoração & Construção**
-Supplementaries, Handcrafted, Minecolones, Quark, Create: Framed, Create: Copycats+, Blueprint, Gallery, Amendments, Structure Essentials, Lithostitched, Prickle,....
+Sistema completo de maids companheiras, com dimensão própria (**Maid Dimension**) para imersão total.
 
-#### 📚 **Informações & Receitas**
-JEI, Just Enough Breeding, Just Enough Resources, Just Enough Professions, Patchouli, Jade,.....
+Integração direta com **TACZ** (armas e combate tático), permitindo que suas maids participem de forma útil e imersiva nas suas aventuras.
 
-#### 🔧 **Comércio & Negócios**
-Trading Post, Create: Tradeworks, Create: Stock Market, Create: Trading Floor,....
+---
 
-#### 👥 **Chunk loaders**
-Open Parties and Claims, Create: Power Loader
+### 🏛️ MineColonies + Create
 
-#### 📖 **Progressão & Quests**
-FTB Quests, Create Questing (Data Pack)
+Colônias vivas que evoluem junto com a indústria Create.
+
+Data packs de civilizações e nações diferentes permitem construir várias culturas distintas, cada uma com sua identidade.
+
+O progresso da colônia se conecta diretamente com a automação e a logística do Create.
+
+---
+
+### 🌌 Exploração Dimensional, Espacial e Mágica
+
+- **Deep Dark** expandido (Deeper and Darker)
+- **Dimensão das Maids**
+- **Dimensões e conteúdos do Ars Nouveau**
+- **Exploração espacial** (Northstar e complementos)
+- **Aether** + vários addons
+- **Alex’s Caves**
+- **Cataclysm**
+- **Integrated Structures**
+- **Incendium**
+- **Nullscape**
+- e muito mais
+
+O mundo não é estático: há biomas vivos, dungeons densas, dimensões mágicas e rotas de exploração aérea e espacial.
+
+---
+
+# 🎮 Categorias de Mods
+
+## 🚀 Performance & Otimização
+
+- Sodium
+- Lithium
+- ImmediatelyFast
+- FerriteCore
+- ModernFix
+- Alternate Current
+- Clumps
+- Neruina
+- AllTheLeaks
+- Chunk Sending
+- Smooth Chunk
+- Entity Culling
+- More Culling
+- Cull Leaves
+- etc.
+
+---
+
+## 🌍 WorldGen & Exploração
+
+- Larion
+- Alex’s Caves
+- Deeper and Darker
+- Integrated Dungeons and Structures (IDAS)
+- Integrated Stronghold
+- Integrated Villages
+- TerraBlender
+- Paxi
+- Incendium
+- Nullscape
+- Aether + addons
+- Northstar
+- Cataclysm
+- Born in Chaos
+- Mowzie’s Mobs
+- Alex’s Mobs
+- Sea Life
+- etc.
+
+---
+
+## 🎨 Gráficos & Interface
+
+- Iris + Complementary
+- Sodium
+- ImmediatelyFast
+- Jade
+- JEI + complementos
+- FancyMenu
+- Not Enough Animations
+- Entity Model/Texture/Sound Features
+- Continuity
+- Drippy Loading Screen
+- Xaero’s Minimap & World Map
+- Colourful/Light overlays
+- etc.
+
+---
+
+## ⚙️ Create & Aeronautics (núcleo + addons principais)
+
+**Create 6.x + Create Aeronautics**
+
+Incluindo todos os seus:
+
+- Patches
+- Compat
+- QoL
+- Propulsores
+- Radar
+- Cabos
+- Portais
+- etc.
+
+### Addons e expansões
+
+- New Age
+- Central Kitchen
+- Enchantment Industry
+- Diesel Generators
+- Stuff Additions
+- Framed
+- Copycats
+- Mechanical Botany
+- Pattern Schematics
+- TFMG
+- Optical
+- Power Loader
+- Mobile Packages
+- Hypertubes
+- Ornithopter Glider
+- Dezenas de outros addons Create que expandem:
+  - Fábrica
+  - Energia
+  - Logística
+  - Comida
+  - Trens
+  - Construção
+
+---
+
+## 🪄 Magia
+
+- Ars Nouveau + toda a família de addons
+- Occultism + complementos
+- Forbidden Arcanus
+- Theurgy
+- etc.
+
+---
+
+## 🏘️ Decoração, Construção & Civilizações
+
+- MineColonies + Style Packs
+- Vários complementos de civilização
+- Supplementaries
+- Handcrafted
+- Create Framed/Copycats
+- Blueprint
+- Gallery
+- Amendments
+- Domum Ornamentum
+- Structure Essentials
+- Lithostitched
+- etc.
+
+---
+
+## 📚 Informações & Receitas
+
+- JEI
+- Just Enough Resources
+- Just Enough Professions
+- Just Enough Breeding
+- Jade
+- Patchouli
+- Guideme
+- etc.
+
+---
+
+## 🔧 Comércio, Logística & Negócios
+
+- Trading Post
+- Create Trading Floor
+- Stock Bridge
+- Mobile Packages
+- Package Couriers
+- Open Parties and Claims
+- etc.
+
+---
+
+## 👥 Chunk Load & Progressão
+
+- Open Parties and Claims
+- Create Power Loader
+- FTB Quests
+- Data packs de progressão Create + MineColonies
+
+---
+
+## 🌍 Aventura, Companheiros & Combate
+
+- Touhou Little Maid + Maid Dimension
+- Doggy Talents Next
+- TACZ + addons e skins
+- Cataclysm
+- Born in Chaos
+- Mowzie’s Mobs
+- Alex’s Mobs
+- Protection Pixel
+- etc.
 
 ---
 
