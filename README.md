@@ -1,4 +1,4 @@
-# 🏭 God of Create - Modpack Customizado
+# 🏭 God of Create - Deep Space Magic Aeronautics
 
 **Neo Forge 1.21.1** | Versão customizada do modpack **All Of Create**
 
