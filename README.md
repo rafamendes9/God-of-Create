@@ -6,7 +6,7 @@
 
 ## 📋 Sobre
 
-**God of Create** Foi baseado do popular modpack **[All of Create](https://www.curseforge.com/minecraft/modpacks/aoc)**, Hojé sendo considerado Um Modpack totalmente Sigular de sua vertente original, o foco do Modpack é levar o Minecraft ao limite de seu potencial e capacidade sem abrir mão da Performace, assim como conteudo e funções,**God of Create** é otimizado para jogadores que desejam uma experiência enriquecida com performance aprimorada, Worldgens, mecânicas inovadoras e conteúdo de curadoria exclusiva.
+**God of Create** Foi baseado do popular modpack **[All of Create](https://www.curseforge.com/minecraft/modpacks/aoc)**, Hoje sendo considerado Um Modpack totalmente Singular de sua vertente original, o foco do Modpack é levar o Minecraft ao limite de seu potencial e capacidade sem abrir mão da Performace, assim como conteúdo e funções,**God of Create** é otimizado para jogadores que desejam uma experiência enriquecida com performance aprimorada, Worldgens, mecânicas inovadoras e conteúdo de curadoria exclusiva.
 
 ---
 
@@ -322,15 +322,17 @@ Incluindo todos os seus:
 
 10. Coloque todos os arquivos contidos de "God of Create" dentro dessa pasta aperta anteriormente ( exceto a pasta .git e .gitattributes)
 
-11. Feche o diretorio e selecione "Jogar"no perfil criado anteriormente no "CurseForge"
+11. Feche o diretório e selecione "Jogar"no perfil criado anteriormente no "CurseForge"
+
+OBS: Recomendo deixar o Mod Distant Horizon desabilitado antes de criar o seu mundo, apena o habilite após já estiver com alguns minutos de game play, isso ocorre devido o  Mod Distant Horizon ter um Pre-gerador de renderizar de terrenos nativo e pode prejudicar a performace inicial de inicialização do mundo na primeira vez
 
 OBS: Fiz esse metodo por alguns motivos: 
 
- Total compatibilidade com diversos tipos de Lauchers, meu metodo de instalação permite voce usar todo e qualquer Laucher de sua preferencia, seja ele para Windons, Linux, Oficial ou Alternativo
+ Total compatibilidade com diversos tipos de Lauchers, meu metodo de instalação permite voce usar todo e qualquer Laucher de sua preferência, seja ele para Windows, Linux, Oficial ou Alternativo
 
- Problemas de Instalar diretamente do Curseforge: o curse possui serios problemas e limitações, ele sempre vai tentar corromper o seu modpack instalado ou save ao atualizar sem o conssentimento do usuario de forma silenciosa os mods ou o proprio modpack ( sempre faça backup da pasta do seu modpack), ( Fiz o guia de instalação para o Curse unica e exclusivamente por ser onde concentra a maioria dos usuarios  )
+ Problemas de Instalar diretamente do Curseforge: o curse possui sérios problemas e limitações, ele sempre vai tentar corromper o seu modpack instalado ou save ao atualizar sem o consentimento do usuário de forma silenciosa os mods ou o próprio modpack ( sempre faça backup da pasta do seu modpack), ( Fiz o guia de instalação para o Curse única e exclusivamente por ser onde concentra a maioria dos usuários  )
 
- Alguns mods/datapacks/shaders/resoucerpack são achados exclusivamente fora do curseforge por questões que fogem totalmente do meu controle ou curadoria, por esse motivo fiz esse metododo totalmente desligado para que voce como jogador nao precise ter dores de cabeças com atualizacoes ou qualquer outra "novidade" que o Curseforge tente fazer, Boa Jogatina
+ Alguns mods/datapacks/shaders/resoucerpack são achados exclusivamente fora do curseforge por questões que fogem totalmente do meu controle ou curadoria, por esse motivo fiz esse método totalmente desligado para que voce como jogador não precise ter dores de cabeças com atualizações ou qualquer outra "novidade" que o Curseforge tente fazer, Boa Jogatina
 
 ### 3. Aplicar Seed Recomendada
 
@@ -348,7 +350,7 @@ Obs: deixo esse seed como padrao para voce ter a melhor experiencia mas voce é 
                                 /Chunky radius 2000             
                                  /Chunky Start
 
--OBS: essa distancia é o suficiente para o inicio da sua jogatina mas voce pode aumentar ela ou repetir esse metodo em um futuro caso queira ter melhor performace e aproveitamento visual do distant horizon
+-OBS: essa distancia é o suficiente para o inicio da sua jogatina mas voce pode aumentar ela ou repetir esse método em um futuro caso queira ter melhor performace e aproveitamento visual do distant horizon
 
 ---
 
@@ -358,14 +360,14 @@ Obs: deixo esse seed como padrao para voce ter a melhor experiencia mas voce é 
 ### Modificar Configurações
 
 1. Edite os arquivos em `config/`
-1.5 É Possivel mais nao recomendado alterar diretamente as configuraçoes de mods dentro da pasta persistente `config/`, faça apenas se souber o que estiver fazendo
+1.5 É Possível mais não recomendado alterar diretamente as configurações de mods dentro da pasta persistente `config/`, faça apenas se souber o que estiver fazendo
 
 ### Adicionar Novos Mods
 
 1. Baixe o arquivo `.jar` do mod compatível com Neo Forge 1.21.1
 2. Coloque em `God of Create/mods/`
 3. Reinicie o cliente
-3.5 Mods adicionados sem um profudo entidemento sobre mods ou minecraft podem crashar o modpack, tornar conteudos repetitivos ou superfulos, sempre é recomendado ter um backup antes de fazer qualquer modificação no Modpack
+3.5 Mods adicionados sem um profundo entendimento sobre mods ou minecraft podem crashar o modpack, tornar conteúdos repetitivos ou super fulos, sempre é recomendado ter um backup antes de fazer qualquer modificação no Modpack
 
 ## 📄 Atenção
 1. Devido a limitações do proprio GitHub para arquivos grandes, deixarei uma pasta dedicada para todos os Mods ou itens necessarios para serem baixados pelo usuario, deixarei em uma pasta dedicada para isso
@@ -392,13 +394,12 @@ Obs: deixo esse seed como padrao para voce ter a melhor experiencia mas voce é 
       entity_model_features
       entity_texture_features
 
- OBS: O Bloco Compact Coal, assim como suas variações não possui textura ( estou investigando a fundo mas acredito que seja a falta intecional da textura para o bloco) esse problema é inofensivo e não afeta a gameplay ou estruturalmente o modpack     
 
-OBS: Em raros caso se necessario
+OBS: Em raros caso se necessário
 - Todos os arquivos com nome "sodium" dentro de \God of Create\config"
 - create-client
 
-- Caso ainda mais raro, troque a versao dos mods **rechiseled** e **chipped** para posteriores ou anteriores a sua
+- Caso ainda mais raro, troque a versão dos mods **rechiseled** e **chipped** para posteriores ou anteriores a sua
 
 **Crashes na inicialização?**
 - Consulte `crash_assistant_localization_overrides/README.md`
@@ -410,7 +411,7 @@ OBS: Em raros caso se necessario
 - Ajuste o limite do Distant Horizon para CPU load e LOD quality para 2 em ambos
 - Desative ou auto render do Distant Horizon
 - Feche aplicações de fundo
-- Confirme se esta usando 100% de uso de CPU ou GPU, isso pode lhe ajudar a compreender se o problema é de entidade e calculos "CPU" ou grafico e vizualização "GPU"
+- Confirme se esta usando 100% de uso de CPU ou GPU, isso pode lhe ajudar a compreender se o problema é de entidade e cálculos "CPU" ou gráfico e visualização "GPU"
 
 ### Recursos Úteis
 
