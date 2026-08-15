@@ -118,11 +118,6 @@
     "millstone": true,
     "enamel_basin": true
   },
-  "toms_storage": {
-    "inventory_hopper": true,
-    "inventory_config": true,
-    "inventory_connector": true
-  },
   "touhou_little_maid": {
     "maid": true,
     "shrine_lamp": true

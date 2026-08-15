@@ -16,6 +16,10 @@
 	#Default route playback mode.
 	#Allowed Values: PING_PONG, ONE_WAY
 	mode = "PING_PONG"
+	#Maximum playback speed multiplier.
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	maxSpeedMultiplier = 1.0
 	#Maximum distance from the nearest route endpoint allowed when beginning playback.
 	# Default: 24.0
 	# Range: 0.0 ~ 512.0
@@ -36,12 +40,6 @@
 	# Default: 200
 	# Range: 20 ~ 36000
 	stuckTimeoutTicks = 200
-	#Maximum automated playback speed in blocks per second.
-	#Default is 60. Higher values can cause overshoot, unstable docking, unloaded-travel issues, reload/recovery faults, or other automation failures on very fast vehicles.
-	#If higher values break something, please report it at https://github.com/sprocketaudio/Create-Aeronautics-Automated-Logistics/issues
-	# Default: 60.0
-	# Range: 1.0 ~ 1000.0
-	maxPlaybackSpeedBlocksPerSecond = 60.0
 
 [docking]
 	#Search radius in blocks for finding exactly one ground-side Docking Connector near an Airship Station.
@@ -71,14 +69,14 @@
 	stationInteractionChunkRadius = 1
 
 [limits]
-	#Maximum number of simultaneously active automated vehicles in each owner or team limit bucket.
+	#Maximum number of simultaneously active automated vehicles per player.
 	# Default: 8
 	# Range: 0 ~ 1024
 	maxActiveVehiclesPerPlayer = 8
-	#How active automated ship limits are pooled: PER_OWNER or PER_TEAM.
-	#PER_TEAM falls back to PER_OWNER when FTB Teams is not installed or the owner has no team.
-	#Allowed Values: PER_OWNER, PER_TEAM
-	activeVehicleLimitMode = "PER_TEAM"
+	#Restrict Ship Transponder and Airship Station control actions to the owner and server operators.
+	restrictTransponderControlToOwner = true
+	#Require players to crouch while mining Airship Stations and Ship Transponders, because breaking them removes related routes.
+	requireCrouchToBreakRouteBlocks = true
 
 [debug]
 	#Master switch for automated logistics debug logging.
@@ -99,37 +97,3 @@
 	#Enable station/transponder menu, sync, and state-refresh debug logs.
 	#Only used when debugLogging is true.
 	uiSync = true
-
-[permissions]
-	#Enable ownership-based permission checks for Ship Transponders, Airship Stations, and related logistics controls.
-	#When true, owner, team, ally, and operator rules are enforced.
-	#When false, these blocks behave as unrestricted public controls.
-	enableOwnershipPermissions = true
-	#Allow FTB Teams members to use stations owned by another member of their team without granting station admin control.
-	#Use includes landing, queueing, docking, viewing their allowed routes, and starting or stopping their own allowed vehicles.
-	#Set this to true and allowTeamStationControl to false if you want team members to use stations without editing dock or cargo links.
-	allowTeamStationUse = true
-	#Allow FTB Teams allies to use stations without granting station admin control.
-	#Use includes landing, queueing, docking, viewing their allowed routes, and starting or stopping their own allowed vehicles.
-	#Set this to true and allowAlliedStationControl to false if you want allies to use stations without editing dock or cargo links.
-	allowAlliedStationUse = false
-	#Allow FTB Teams members to fully control stations owned by another member of their team.
-	#Control includes station admin actions such as changing dock links and cargo links.
-	allowTeamStationControl = true
-	#Allow FTB Teams allies to fully control stations.
-	#Control includes station admin actions such as changing dock links and cargo links.
-	allowAlliedStationControl = false
-	#Allow FTB Teams members to control transponders owned by another member of their team.
-	allowTeamTransponderControl = true
-	#Allow FTB Teams allies to control transponders.
-	allowAlliedTransponderControl = false
-	#Who can see the passive top-surface preview on nearby Logistics Terminals.
-	#Options: OWNER_ONLY, OWNER_AND_TEAM, OWNER_TEAM_AND_ALLIES, PUBLIC.
-	#Allowed Values: OWNER_ONLY, OWNER_AND_TEAM, OWNER_TEAM_AND_ALLIES, PUBLIC
-	logisticsTerminalPreviewVisibility = "OWNER_AND_TEAM"
-	#Who can open Logistics Terminals for the read-only network view.
-	#Options: OWNER_ONLY, OWNER_AND_TEAM, OWNER_TEAM_AND_ALLIES, PUBLIC.
-	#Allowed Values: OWNER_ONLY, OWNER_AND_TEAM, OWNER_TEAM_AND_ALLIES, PUBLIC
-	logisticsTerminalAccess = "OWNER_AND_TEAM"
-	#Require players to crouch while mining Airship Stations and Ship Transponders, because breaking them removes related routes.
-	requireCrouchToBreakRouteBlocks = true

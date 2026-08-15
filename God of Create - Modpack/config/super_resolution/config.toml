@@ -1,32 +1,57 @@
+#Primary color for the interface theme
 theme_color = "#78DC77"
-enable_vulkan_presentation = false
+#List of post-processing chains to skip injection
 inject_post_chain_blacklist = []
+#Screen capture mode
 capture_mode = "A"
 interop_sync_mode = "LowLatency"
-upscale_ratio = 1.7
-upscale_algo = "fsr1"
+#Upscale ratio factor
+upscale_ratio = 1.25
+#Algorithm used for upscaling
+upscale_algo = "fsr2"
+#Color scheme variant for the interface theme
 theme_scheme_variant = "FIDELITY"
+#Contrast level for the interface theme (-1.0 to 1.0)
 theme_contrast_level = 0.0
-compat_shader_compiler = false
-theme = "Light"
+#Disable Super Resolution when using vanilla rendering.
+disable_upscale_on_vanilla = false
+#This option enables the use of a compatibility shader compiler for compiling shaders when set to true.
+compat_shader_compiler = true
+#Interface theme
+theme = "Dark"
+#Sharpness adjustment factor
 sharpness = 0.55
-enable_unstable_incompatible_shader_support = false
+#Force disable shader pack compatibility mode.
+force_disable_shader_compat = false
+#Enable super-resolution upscaling
 enable_upscale = true
+#Pause game when GUI is open
 pause_game_on_gui = false
+#The precision of the internal texture format affects video memory consumption: higher precision results in greater consumption, while lower precision leads to smaller consumption. Note: Excessively low precision may cause noticeable color banding in the image.
 internal_texture_format = "AUTO"
 
 [debug]
+	#Skip Vulkan initialization (auto-set based on OS)
 	skip_init_vulkan = true
+	#Enable RenderDoc integration (auto-disabled on incompatible OS)
 	enable_render_doc = false
+	#Enable debug mode
 	enable_debug = false
-	enable_present_indicator = false
+	#Enable ImGui debug interface (auto-disabled on incompatible OS)
 	enable_imgui = false
+	#Dump shaders for debugging purposes
 	debug_dump_shader = false
+	#Enable more detailed performance profiling for advanced analysis.
 	enable_detailed_profiling = false
 
 [optiscaler]
+	#Absolute path to the OptiScaler DLL file.
 	dll_path = ""
+	#Load the selected OptiScaler DLL during early game startup.
 	enabled = false
+
+#Algorithm special configuration
+[special]
 
 	[special.fsr]
 		version = "V2"
@@ -35,7 +60,7 @@ internal_texture_format = "AUTO"
 		render_preset = "K"
 
 	[special.sgsr2]
-		variant = "CS_2"
+		variant = "CS_3"
 
 	[special.fsr1]
 		fp16 = true
@@ -45,20 +70,11 @@ internal_texture_format = "AUTO"
 		fp16 = true
 
 [experiment]
+	#Enable experimental features
 	enable_experimental_features = false
+	#Generate motion vectors for advanced effects
 	generate_motion_vectors = false
 
 [dataset]
 	dataset_path = "msrDataset"
 	enable_dataset_generator = false
-
-[frame_generation]
-	mode = "OFF"
-	provider = "superresolution:auto"
-	backend = "superresolution:auto"
-
-[low_latency]
-	mode = "superresolution:none"
-
-	[low_latency.nv_reflex]
-		mode = "OFF"

@@ -1465,174 +1465,6 @@
     "maxWaterDepth": 36,
     "implosionChance": 0.78
   },
-  "aeroengineering:adjustable_copycat_sail": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "aeroengineering:adjustable_copycat_sail_bottom": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "aeroengineering:adjustable_copycat_sail_top": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "aeroengineering:adjustable_copycat_symmetric_sail": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "aeroengineering:adjustable_copycat_symmetric_sail_bottom": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "aeroengineering:adjustable_copycat_symmetric_sail_top": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "aeroengineering:airborne_radar": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:airflow_engine_afterburner": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:airflow_nozzle": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:aviation_kerosene": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "aeroengineering:copycat_casing_base": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:copycat_engine_casing": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:copycat_engine_casing_slab": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:copycat_engine_casing_stairs": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:copycat_engine_nozzle": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:copycat_engine_nozzle_slab": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:copycat_engine_nozzle_stairs": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:copycat_nozzle_base": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:engine_afterburner": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:engine_casing": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:engine_combustor": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:engine_compressor": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:engine_encased_fluid_pipe": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:engine_encased_shaft": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
-  },
-  "aeroengineering:engine_exhaust_cone": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:engine_exhaust_nozzle": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:engine_fan": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "aeroengineering:engine_gearbox": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
-  },
-  "aeroengineering:engine_propeller": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "aeroengineering:engine_turbine": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:hud_display": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeroengineering:large_engine_fan": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "aeroengineering:missile_assembly_station": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:missile_attitude_controller": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:missile_guidance_fuse": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:missile_pylon": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:missile_thruster": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:missile_warhead": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "aeroengineering:pilot_helmet_skull": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "aeroengineering:pilot_helmet_wall_skull": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "aeroengineering:propeller_pitch_controller": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
-  },
-  "aeroengineering:vector_bearing": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
   "aeronautics:adjustable_burner": {
     "maxWaterDepth": 50,
     "implosionChance": 0.7
@@ -51269,41 +51101,13 @@
     "maxWaterDepth": 24,
     "implosionChance": 0.85
   },
-  "create_aeronautics_automated_logistics:advanced_transponder": {
-    "maxWaterDepth": 60,
-    "implosionChance": 0.64
-  },
   "create_aeronautics_automated_logistics:airship_station": {
     "maxWaterDepth": 105,
     "implosionChance": 0.37
   },
-  "create_aeronautics_automated_logistics:logistics_terminal": {
-    "maxWaterDepth": 90,
-    "implosionChance": 0.46
-  },
   "create_aeronautics_automated_logistics:ship_transponder": {
     "maxWaterDepth": 60,
     "implosionChance": 0.64
-  },
-  "create_aeronautics_automated_logistics:train_station": {
-    "maxWaterDepth": 105,
-    "implosionChance": 0.37
-  },
-  "create_aeronautics_placeable_wheels:large_tire": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "create_aeronautics_placeable_wheels:monstrous_tire": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "create_aeronautics_placeable_wheels:small_tire": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "create_aeronautics_placeable_wheels:tire": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
   },
   "create_aeronautics_throwable_rope_connector:mounted_rope_launcher": {
     "maxWaterDepth": 73,
@@ -103085,10 +102889,6 @@
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
-  "powergrid:brass_encased_crt": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
   "powergrid:carbon_pile": {
     "maxWaterDepth": 98,
     "implosionChance": 0.41333333
@@ -103096,26 +102896,6 @@
   "powergrid:carbon_pile_coil": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
-  },
-  "powergrid:ceiling_tile": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "powergrid:ceiling_tile_connector": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "powergrid:ceiling_tile_junction": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "powergrid:ceiling_tile_lamp": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "powergrid:ceiling_tile_solar": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
   },
   "powergrid:circuit_board": {
     "maxWaterDepth": 55,
@@ -103134,18 +102914,6 @@
     "implosionChance": 0.05
   },
   "powergrid:contactor": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "powergrid:copper_plating": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "powergrid:copper_plating_slab": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "powergrid:copper_plating_stairs": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
@@ -103185,25 +102953,9 @@
     "maxWaterDepth": 161,
     "implosionChance": 0.05
   },
-  "powergrid:electric_pump": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
   "powergrid:electromagnet": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
-  },
-  "powergrid:energy_meter": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "powergrid:factory_light": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "powergrid:fe_inverter": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
   },
   "powergrid:fuse_holder": {
     "maxWaterDepth": 20,
@@ -103222,10 +102974,6 @@
     "implosionChance": 0.28
   },
   "powergrid:generator_induction_rotor": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "powergrid:generator_large_induction_rotor": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
@@ -103265,17 +103013,9 @@
     "maxWaterDepth": 20,
     "implosionChance": 0.85
   },
-  "powergrid:modular_display": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
   "powergrid:mv_switch": {
     "maxWaterDepth": 20,
     "implosionChance": 0.85
-  },
-  "powergrid:nether_transformer": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
   },
   "powergrid:plotter": {
     "maxWaterDepth": 20,
@@ -103301,10 +103041,6 @@
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
-  "powergrid:redstone_converter": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
   "powergrid:rheostat": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
@@ -103316,14 +103052,6 @@
   "powergrid:socket": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
-  },
-  "powergrid:solar_panel": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "powergrid:solar_panel_bearing": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
   },
   "powergrid:spark_gap": {
     "maxWaterDepth": 20,
@@ -132866,66 +132594,6 @@
     "implosionChance": 0.85
   },
   "theurgy:sulfuric_flux_emitter": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "toms_storage:basic_inventory_hopper": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "toms_storage:crafting_terminal": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "toms_storage:filing_cabinet": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "toms_storage:inventory_cable": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "toms_storage:inventory_cable_connector": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "toms_storage:inventory_cable_connector_framed": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "toms_storage:inventory_cable_framed": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "toms_storage:inventory_connector": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "toms_storage:inventory_interface": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "toms_storage:inventory_proxy": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "toms_storage:level_emitter": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "toms_storage:open_crate": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "toms_storage:painted_trim": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "toms_storage:storage_terminal": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "toms_storage:trim": {
     "maxWaterDepth": 30,
     "implosionChance": 0.82
   },

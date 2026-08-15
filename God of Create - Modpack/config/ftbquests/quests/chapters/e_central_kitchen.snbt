@@ -10,7 +10,6 @@
 	images: [
 		{
 			height: 1.0d
-			id: "50BBE61E03F892ED"
 			image: "createfood:block/berry_cheesecake_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -19,7 +18,6 @@
 		}
 		{
 			height: 1.0d
-			id: "3E464D32CBD04FC9"
 			image: "minecraft:item/fishing_rod"
 			rotation: 0.0d
 			width: 1.0d
@@ -28,7 +26,6 @@
 		}
 		{
 			height: 1.0d
-			id: "7C2F854B175F37AC"
 			image: "ftblibrary:textures/faces/minecraft/chicken.png"
 			rotation: 0.0d
 			width: 1.0d

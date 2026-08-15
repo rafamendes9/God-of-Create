@@ -71,18 +71,6 @@
 		[types.lantern.mctradepost]
 			lamp = true
 
-		[types.lantern.arcanelanterns]
-			life_lantern = true
-			feral_lantern = true
-			love_lantern = true
-			wailing_lantern = true
-			boreal_lantern = true
-			brilliant_lantern = true
-			warding_lantern = true
-			containing_lantern = true
-			withering_lantern = true
-			cloud_lantern = true
-
 		[types.wood_type.quark]
 			azalea = true
 			ancient = true

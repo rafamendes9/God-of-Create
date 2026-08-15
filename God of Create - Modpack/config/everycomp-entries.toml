@@ -447,6 +447,10 @@
 		[entries.wood_type.farmersdelight]
 			cabinet = true
 
+		[entries.wood_type.boatload]
+			large_boat = true
+			furnace_boat = true
+
 		[entries.wood_type.create]
 			window_pane = true
 			window = true

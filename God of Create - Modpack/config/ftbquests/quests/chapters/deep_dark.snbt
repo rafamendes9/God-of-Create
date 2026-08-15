@@ -10,7 +10,6 @@
 	images: [
 		{
 			height: 1.0d
-			id: "0BDEB488A77A5A3D"
 			image: "minecraft:item/netherite_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
@@ -19,7 +18,6 @@
 		}
 		{
 			height: 1.0d
-			id: "2BBC5A2E2BBE1060"
 			image: "minecraft:item/echo_shard"
 			rotation: 0.0d
 			width: 1.0d
@@ -28,7 +26,6 @@
 		}
 		{
 			height: 1.0d
-			id: "549861CDA4B0F5E9"
 			image: "create_deep_dark:item/echo_cake"
 			rotation: 0.0d
 			width: 1.0d
