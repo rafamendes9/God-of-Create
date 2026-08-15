@@ -1,12 +1,12 @@
 #.
 #Maximum distance (in blocks) the Navigation Tracker can detect its target.
 # Default: 20
-# Range: 1 ~ 500
+# Range: 1 ~ 50000
 "Tracker Range" = 20
 #.
 #Maximum Thrust a Thruster can achieve
 # Default: 500
-# Range: 1 ~ 10000
+# Range: 500 ~ 10000
 "Maximum Thrust" = 500
 #.
 #Maximum amount of FE a cable can store
@@ -18,3 +18,8 @@
 # Default: 500
 # Range: 1 ~ 10000000
 "Transfer Rate" = 500
+#.
+#Distance to Target needed to output a redstone Signal
+# Default: 100
+# Range: 100 ~ 50000
+"Tracker Detection Range" = 100

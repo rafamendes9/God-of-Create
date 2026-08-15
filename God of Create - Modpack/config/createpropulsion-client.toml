@@ -9,3 +9,8 @@
 [Debug]
 	#Render thruster debug overlays (plume ray, obstruction hits, damage zones).
 	Thruster = false
+
+["Thruster Plumes"]
+	#How every thruster plume is rendered. Particle uses normal particle effects; Shader uses the procedural plume shader.
+	#Allowed Values: PARTICLE, SHADER
+	renderMode = "PARTICLE"

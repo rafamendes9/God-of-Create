@@ -6,7 +6,7 @@ modpackMode = false
   # Fullscreen and borderless window behavior
   # Window mode applied at boot and by the fullscreen option
   # Accepted values are: [WINDOWED, BORDERLESS, FULLSCREEN]
-  mode = "WINDOWED"
+  mode = "BORDERLESS"
 
   # Adds 1px to the borderless window height, avoiding driver-level exclusive fullscreen optimizations
   disableBorderlessOptimizations = false
@@ -27,7 +27,7 @@ modpackMode = false
   verticalAlign = "TOP"
 
   # Accepted values are: [OFF, ALL, GPU_ONLY, RAM_ONLY]
-  systemDetails = "OFF"
+  systemDetails = "RAM_ONLY"
 
   # Value must be greater than 0
   margin = 12
@@ -125,7 +125,7 @@ modpackMode = false
 [fastBlocks]
   # Renders chests and beds as simple static block models
   chests = false
-  beds = false
+  beds = true
 
 [particles]
   # Particle toggles

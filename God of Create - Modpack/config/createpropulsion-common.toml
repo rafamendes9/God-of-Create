@@ -154,9 +154,13 @@
 
 ["Tilt Adapter"]
 	#Maximum absolute output angle in degrees, reached at full redstone differential.
-	# Default: 90.0
+	# Default: 45.0
 	# Range: 0.0 ~ 180.0
 	"Maximum angle range" = 90.0
+	#Maximum configurable angle per side for the Advanced Tilt Adapter.
+	# Default: 90
+	# Range: 1 ~ 180
+	"Advanced maximum angle" = 90
 
 [Burners]
 	#If true - both solid and liquid burners can provide heat to heated mixers allowing for pre-nether brass.
@@ -479,3 +483,22 @@
 	green = "00C800"
 	red = "FF0000"
 	black = "2A2A2A"
+
+[solidFuelThruster]
+	#Solid fuel thruster base thrust at redstone 15 and full obstruction efficiency.
+	#Defaults lower than liquid thrusters for a compact solid-fuel engine.
+	# Default: 200.0
+	# Range: 1.0 ~ 1.0E7
+	solidFuelThrusterBaseThrust = 200.0
+	#Nozzle offset from block center for solid fuel thruster force application.
+	# Default: 0.75
+	# Range: 0.0 ~ 1.5
+	solidFuelThrusterNozzleOffset = 0.75
+	#Scales exhaust particle count for solid fuel thrusters (0 disables extra scaling below base emit logic).
+	# Default: 0.35
+	# Range: 0.0 ~ 32.0
+	solidFuelThrusterParticleCountMultiplier = 0.35
+	#Scales exhaust particle velocity for solid fuel thrusters.
+	# Default: 0.4
+	# Range: 0.0 ~ 32.0
+	solidFuelThrusterParticleVelocityMultiplier = 0.4

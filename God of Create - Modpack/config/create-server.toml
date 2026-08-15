@@ -162,7 +162,7 @@
 		#Maximum amount of blocks in a structure movable by Pistons, Bearings or other means.
 		# Default: 2048
 		# Range: > 1
-		maxBlocksMoved = 204800
+		maxBlocksMoved = 409200
 		#.
 		#Maximum value of a chassis attachment range.
 		# Default: 16
@@ -198,15 +198,15 @@
 		#.
 		#Configure how Budding Amethyst can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		amethystMovement = "NO_PICKUP"
+		amethystMovement = "MOVABLE"
 		#.
 		#Configure how Obsidian blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableObsidian = "UNMOVABLE"
+		movableObsidian = "MOVABLE"
 		#.
 		#Configure how Reinforced Deepslate blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableReinforcedDeepslate = "UNMOVABLE"
+		movableReinforcedDeepslate = "MOVABLE"
 		#.
 		#Whether items mined or harvested by contraptions should be placed in their mounted storage.
 		moveItemsToStorage = true

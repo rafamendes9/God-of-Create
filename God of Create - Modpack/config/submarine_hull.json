@@ -429,23 +429,1031 @@
     "maxWaterDepth": 36,
     "implosionChance": 0.78
   },
-  "aerocali:heavy_mechanical_anvil": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
   "aerocali:industrial_generator": {
     "maxWaterDepth": 36,
     "implosionChance": 0.78
   },
-  "aerocali:light_mechanical_anvil": {
+  "aerocali:mechanical_anvil_0": {
     "maxWaterDepth": 36,
     "implosionChance": 0.78
   },
-  "aerocali:mechanical_anvil": {
+  "aerocali:mechanical_anvil_1": {
     "maxWaterDepth": 36,
     "implosionChance": 0.78
   },
-  "aerocali:super_heavy_mechanical_anvil": {
+  "aerocali:mechanical_anvil_10": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_100": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_101": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_102": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_103": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_104": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_105": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_106": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_107": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_108": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_109": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_11": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_110": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_111": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_112": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_113": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_114": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_115": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_116": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_117": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_118": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_119": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_12": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_120": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_121": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_122": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_123": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_124": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_125": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_126": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_127": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_128": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_129": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_13": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_130": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_131": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_132": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_133": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_134": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_135": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_136": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_137": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_138": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_139": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_14": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_140": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_141": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_142": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_143": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_144": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_145": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_146": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_147": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_148": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_149": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_15": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_150": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_151": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_152": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_153": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_154": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_155": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_156": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_157": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_158": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_159": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_16": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_160": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_161": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_162": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_163": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_164": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_165": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_166": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_167": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_168": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_169": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_17": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_170": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_171": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_172": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_173": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_174": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_175": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_176": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_177": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_178": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_179": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_18": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_180": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_181": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_182": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_183": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_184": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_185": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_186": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_187": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_188": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_189": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_19": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_190": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_191": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_192": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_193": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_194": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_195": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_196": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_197": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_198": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_199": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_2": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_20": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_200": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_201": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_202": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_203": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_204": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_205": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_206": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_207": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_208": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_209": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_21": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_210": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_211": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_212": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_213": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_214": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_215": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_216": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_217": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_218": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_219": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_22": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_220": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_221": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_222": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_223": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_224": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_225": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_226": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_227": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_228": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_229": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_23": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_230": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_231": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_232": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_233": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_234": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_235": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_236": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_237": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_238": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_239": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_24": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_240": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_241": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_242": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_243": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_244": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_245": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_246": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_247": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_248": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_249": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_25": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_250": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_251": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_252": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_253": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_254": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_255": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_26": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_27": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_28": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_29": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_3": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_30": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_31": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_32": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_33": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_34": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_35": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_36": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_37": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_38": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_39": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_4": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_40": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_41": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_42": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_43": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_44": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_45": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_46": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_47": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_48": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_49": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_5": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_50": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_51": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_52": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_53": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_54": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_55": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_56": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_57": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_58": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_59": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_6": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_60": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_61": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_62": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_63": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_64": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_65": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_66": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_67": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_68": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_69": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_7": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_70": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_71": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_72": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_73": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_74": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_75": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_76": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_77": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_78": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_79": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_8": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_80": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_81": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_82": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_83": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_84": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_85": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_86": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_87": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_88": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_89": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_9": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_90": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_91": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_92": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_93": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_94": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_95": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_96": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_97": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_98": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "aerocali:mechanical_anvil_99": {
     "maxWaterDepth": 36,
     "implosionChance": 0.78
   },
@@ -456,6 +1464,174 @@
   "aerocali:tracker": {
     "maxWaterDepth": 36,
     "implosionChance": 0.78
+  },
+  "aeroengineering:adjustable_copycat_sail": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "aeroengineering:adjustable_copycat_sail_bottom": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "aeroengineering:adjustable_copycat_sail_top": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "aeroengineering:adjustable_copycat_symmetric_sail": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "aeroengineering:adjustable_copycat_symmetric_sail_bottom": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "aeroengineering:adjustable_copycat_symmetric_sail_top": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "aeroengineering:airborne_radar": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:airflow_engine_afterburner": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:airflow_nozzle": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:aviation_kerosene": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "aeroengineering:copycat_casing_base": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:copycat_engine_casing": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:copycat_engine_casing_slab": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:copycat_engine_casing_stairs": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:copycat_engine_nozzle": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:copycat_engine_nozzle_slab": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:copycat_engine_nozzle_stairs": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:copycat_nozzle_base": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_afterburner": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_casing": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_combustor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_compressor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_encased_fluid_pipe": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_encased_shaft": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "aeroengineering:engine_exhaust_cone": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_exhaust_nozzle": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:engine_fan": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "aeroengineering:engine_gearbox": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "aeroengineering:engine_propeller": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "aeroengineering:engine_turbine": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:hud_display": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "aeroengineering:large_engine_fan": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "aeroengineering:missile_assembly_station": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:missile_attitude_controller": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:missile_guidance_fuse": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:missile_pylon": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:missile_thruster": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:missile_warhead": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroengineering:pilot_helmet_skull": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "aeroengineering:pilot_helmet_wall_skull": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "aeroengineering:propeller_pitch_controller": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "aeroengineering:vector_bearing": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
   },
   "aeronautics:adjustable_burner": {
     "maxWaterDepth": 50,
@@ -4960,6 +6136,10 @@
   "bellsandwhistles:station_platform": {
     "maxWaterDepth": 61,
     "implosionChance": 0.6333333
+  },
+  "bigtires:wheel_dye_station": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
   },
   "bits_n_bobs:andesite_tile_slab": {
     "maxWaterDepth": 55,
@@ -50089,13 +51269,41 @@
     "maxWaterDepth": 24,
     "implosionChance": 0.85
   },
+  "create_aeronautics_automated_logistics:advanced_transponder": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.64
+  },
   "create_aeronautics_automated_logistics:airship_station": {
     "maxWaterDepth": 105,
     "implosionChance": 0.37
   },
+  "create_aeronautics_automated_logistics:logistics_terminal": {
+    "maxWaterDepth": 90,
+    "implosionChance": 0.46
+  },
   "create_aeronautics_automated_logistics:ship_transponder": {
     "maxWaterDepth": 60,
     "implosionChance": 0.64
+  },
+  "create_aeronautics_automated_logistics:train_station": {
+    "maxWaterDepth": 105,
+    "implosionChance": 0.37
+  },
+  "create_aeronautics_placeable_wheels:large_tire": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "create_aeronautics_placeable_wheels:monstrous_tire": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "create_aeronautics_placeable_wheels:small_tire": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "create_aeronautics_placeable_wheels:tire": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
   },
   "create_aeronautics_throwable_rope_connector:mounted_rope_launcher": {
     "maxWaterDepth": 73,
@@ -52556,6 +53764,10 @@
   "create_train_parts:glass_sliding_window": {
     "maxWaterDepth": 30,
     "implosionChance": 0.82
+  },
+  "create_train_parts:pole": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
   },
   "create_train_parts:train_slide_andesite": {
     "maxWaterDepth": 30,
@@ -67109,6 +68321,10 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createpropulsion:advanced_tilt_adapter": {
+    "maxWaterDepth": 70,
+    "implosionChance": 0.58
+  },
   "createpropulsion:cable": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
@@ -67181,6 +68397,10 @@
     "maxWaterDepth": 39,
     "implosionChance": 0.76666665
   },
+  "createpropulsion:platinum_fluid_vessel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
   "createpropulsion:platinum_ore": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
@@ -67200,6 +68420,10 @@
   "createpropulsion:solid_burner": {
     "maxWaterDepth": 39,
     "implosionChance": 0.76666665
+  },
+  "createpropulsion:solid_fuel_thruster": {
+    "maxWaterDepth": 151,
+    "implosionChance": 0.1
   },
   "createpropulsion:stirling_engine": {
     "maxWaterDepth": 39,
@@ -67573,6 +68797,14 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createthrusters:copycat_double_button": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "createthrusters:double_button": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
   "createthrusters:entity_launcher_anchor": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
@@ -67580,6 +68812,10 @@
   "createthrusters:fuel_oxidizer": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
+  },
+  "createthrusters:gyro_redstone_bridge": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
   },
   "createthrusters:gyroscope_link": {
     "maxWaterDepth": 36,
@@ -67652,6 +68888,10 @@
   "createthrusters:vector_bearing_link": {
     "maxWaterDepth": 64,
     "implosionChance": 0.615
+  },
+  "createthrusters:virtual_orientation_source": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
   },
   "createtimemanipulator:time_manipulator": {
     "maxWaterDepth": 72,
@@ -101845,6 +103085,10 @@
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
+  "powergrid:brass_encased_crt": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
   "powergrid:carbon_pile": {
     "maxWaterDepth": 98,
     "implosionChance": 0.41333333
@@ -101852,6 +103096,26 @@
   "powergrid:carbon_pile_coil": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
+  },
+  "powergrid:ceiling_tile": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "powergrid:ceiling_tile_connector": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "powergrid:ceiling_tile_junction": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "powergrid:ceiling_tile_lamp": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "powergrid:ceiling_tile_solar": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
   },
   "powergrid:circuit_board": {
     "maxWaterDepth": 55,
@@ -101870,6 +103134,18 @@
     "implosionChance": 0.05
   },
   "powergrid:contactor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "powergrid:copper_plating": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "powergrid:copper_plating_slab": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "powergrid:copper_plating_stairs": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
@@ -101909,9 +103185,25 @@
     "maxWaterDepth": 161,
     "implosionChance": 0.05
   },
+  "powergrid:electric_pump": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
   "powergrid:electromagnet": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
+  },
+  "powergrid:energy_meter": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "powergrid:factory_light": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "powergrid:fe_inverter": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
   },
   "powergrid:fuse_holder": {
     "maxWaterDepth": 20,
@@ -101930,6 +103222,10 @@
     "implosionChance": 0.28
   },
   "powergrid:generator_induction_rotor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "powergrid:generator_large_induction_rotor": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
@@ -101969,9 +103265,17 @@
     "maxWaterDepth": 20,
     "implosionChance": 0.85
   },
+  "powergrid:modular_display": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
   "powergrid:mv_switch": {
     "maxWaterDepth": 20,
     "implosionChance": 0.85
+  },
+  "powergrid:nether_transformer": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
   },
   "powergrid:plotter": {
     "maxWaterDepth": 20,
@@ -101997,6 +103301,10 @@
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
+  "powergrid:redstone_converter": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "powergrid:rheostat": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
@@ -102008,6 +103316,14 @@
   "powergrid:socket": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
+  },
+  "powergrid:solar_panel": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "powergrid:solar_panel_bearing": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
   },
   "powergrid:spark_gap": {
     "maxWaterDepth": 20,
@@ -128253,6 +129569,10 @@
     "maxWaterDepth": 25,
     "implosionChance": 0.85
   },
+  "streamsreflowing:stream": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
   "structurize:blockfluidsubstitution": {
     "maxWaterDepth": 10,
     "implosionChance": 0.85
@@ -131546,6 +132866,66 @@
     "implosionChance": 0.85
   },
   "theurgy:sulfuric_flux_emitter": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "toms_storage:basic_inventory_hopper": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "toms_storage:crafting_terminal": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "toms_storage:filing_cabinet": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "toms_storage:inventory_cable": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "toms_storage:inventory_cable_connector": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "toms_storage:inventory_cable_connector_framed": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "toms_storage:inventory_cable_framed": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "toms_storage:inventory_connector": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "toms_storage:inventory_interface": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "toms_storage:inventory_proxy": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "toms_storage:level_emitter": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "toms_storage:open_crate": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "toms_storage:painted_trim": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "toms_storage:storage_terminal": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "toms_storage:trim": {
     "maxWaterDepth": 30,
     "implosionChance": 0.82
   },

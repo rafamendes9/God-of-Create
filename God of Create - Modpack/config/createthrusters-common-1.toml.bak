@@ -51,6 +51,10 @@
 			advanced_contraption_controller = true
 			#Enable registration for thruster bearing. Changes require a full game restart.
 			thruster_bearing = true
+			#Enable registration for aileron bearing. Changes require a full game restart.
+			aileron_bearing = true
+			#Enable registration for scissor piston. Changes require a full game restart.
+			scissor_piston = true
 
 		[common.features.items]
 			#Enable registration for configuration clipboard. Changes require a full game restart.
@@ -143,6 +147,20 @@
 			alternator = true
 			#Enable registration for physics gantry belt wheel. Changes require a full game restart.
 			physics_gantry_belt_wheel = true
+			#Enable registration for aileron bearing. Changes require a full game restart.
+			aileron_bearing = true
+			#Enable registration for music disc twisted alive. Changes require a full game restart.
+			music_disc_twisted_alive = true
+			#Enable registration for scissor piston. Changes require a full game restart.
+			scissor_piston = true
+			#Enable registration for music disc kinetic currency. Changes require a full game restart.
+			music_disc_kinetic_currency = true
+			#Enable registration for scissor arms. Changes require a full game restart.
+			scissor_arms = true
+			#Enable registration for music disc unplug the earth. Changes require a full game restart.
+			music_disc_unplug_the_earth = true
+			#Enable registration for small thruster. Changes require a full game restart.
+			small_thruster = true
 
 		[common.features.entities]
 			#Enable registration for entity launcher. Changes require a full game restart.
@@ -190,8 +208,12 @@
 		# Default: 16.0
 		# Range: 1.0 ~ 64.0
 		propulsionUpgradeMaxMultiplier = 16.0
+		#Thrust multiplier applied to oxidized thruster fuels
+		# Default: 1.5
+		# Range: 0.0 ~ 100.0
+		oxidizedFuelThrustMultiplier = 1.5
 
-	#Thruster Bearing pivot controls
+	#Servo Bearing pivot controls
 	[common.thruster_bearing]
 		#Maximum pivot angle in degrees when bearing receives full redstone differential
 		# Default: 90.0
@@ -205,49 +227,6 @@
 		# Default: 2
 		# Range: 0 ~ 40
 		bearingDebounceTicks = 2
-
-	#Thruster gimbal and stabilizer controls
-	[common.gimbal]
-		#Maximum tilt angle in degrees for thruster gimbals
-		# Default: 30.0
-		# Range: 0.0 ~ 89.0
-		gimbalMaxTiltAngleDeg = 30.0
-		#Minimum vector length before gimbal applies steering
-		# Default: 0.001
-		# Range: 0.0 ~ 1.0
-		gimbalDeadzone = 0.001
-		#Gimbal interpolation factor per tick (0 = no movement, 1 = snap)
-		# Default: 0.2
-		# Range: 0.0 ~ 1.0
-		gimbalSmoothing = 0.2
-		#Gimbal target debounce ticks before motion updates
-		# Default: 2
-		# Range: 0 ~ 40
-		gimbalDebounceTicks = 2
-		#Base smoothing factor used by stabilizer mode before physics scaling
-		# Default: 0.12
-		# Range: 0.0 ~ 1.0
-		gimbalStabilizerSmoothing = 0.12
-		#Maximum stabilizer direction step per tick (vector units)
-		# Default: 0.08
-		# Range: 0.001 ~ 1.0
-		gimbalStabilizerMaxStepPerTick = 0.08
-		#Stabilizer proportional gain applied to tilt error
-		# Default: 1.15
-		# Range: 0.0 ~ 8.0
-		gimbalStabilizerProportionalGain = 1.15
-		#Stabilizer damping gain applied to tilt error rate
-		# Default: 0.85
-		# Range: 0.0 ~ 8.0
-		gimbalStabilizerDampingGain = 0.85
-		#Blend factor for cooperative stabilizer contract with sibling gimbals on the same sublevel
-		# Default: 0.65
-		# Range: 0.0 ~ 1.0
-		gimbalStabilizerContractBlend = 0.65
-		#Maximum additive throttle feather offset applied per thruster by stabilizer mode
-		# Default: 0.3
-		# Range: 0.0 ~ 1.0
-		gimbalStabilizerMaxFeatherOffset = 0.3
 
 	#Gyroscope and gearbox controls
 	[common.gearbox]
@@ -337,3 +316,10 @@
 		# Default: 0.045
 		# Range: 0.0 ~ 2.0
 		entityLauncherGrappleSwingAcceleration = 0.045
+
+	#Scissor Piston extension limits
+	[common.scissor_piston]
+		#Maximum extension range, in blocks, after adding Scissor Arms
+		# Default: 32
+		# Range: 1 ~ 32
+		maxRange = 32

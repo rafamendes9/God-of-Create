@@ -1,171 +1,6 @@
 #Gameplay values shared between client and server
 [common]
 
-	#Registry-time feature toggles. Changes require a full game restart.
-	[common.features]
-
-		[common.features.blocks]
-			#Enable registration for industrial motor. Changes require a full game restart.
-			industrial_motor = true
-			#Enable registration for powered zipline. Changes require a full game restart.
-			powered_zipline = true
-			#Enable registration for bidirectional gearbox. Changes require a full game restart.
-			bidirectional_gearbox = true
-			#Enable registration for analogue contraption controller. Changes require a full game restart.
-			analogue_contraption_controller = true
-			#Enable registration for advanced navigation table. Changes require a full game restart.
-			advanced_navigation_table = true
-			#Enable registration for analogue joystick. Changes require a full game restart.
-			analogue_joystick = true
-			#Enable registration for gyro redstone bridge. Changes require a full game restart.
-			gyro_redstone_bridge = false
-			#Enable registration for entity launcher. Changes require a full game restart.
-			entity_launcher = true
-			#Enable registration for shipping manifest. Changes require a full game restart.
-			shipping_manifest = true
-			#Enable registration for rope knot. Changes require a full game restart.
-			rope_knot = true
-			#Enable registration for gyroscope link. Changes require a full game restart.
-			gyroscope_link = true
-			#Enable registration for thruster. Changes require a full game restart.
-			thruster = true
-			#Enable registration for alternator. Changes require a full game restart.
-			alternator = true
-			#Enable registration for physics gantry shaft. Changes require a full game restart.
-			physics_gantry_shaft = true
-			#Enable registration for physics gantry carriage. Changes require a full game restart.
-			physics_gantry_carriage = true
-			#Enable registration for fuel oxidizer. Changes require a full game restart.
-			fuel_oxidizer = true
-			#Enable registration for virtual orientation source. Changes require a full game restart.
-			virtual_orientation_source = false
-			#Enable registration for claw. Changes require a full game restart.
-			claw = true
-			#Enable registration for andesite cable. Changes require a full game restart.
-			andesite_cable = true
-			#Enable registration for physics gantry belt wheel. Changes require a full game restart.
-			physics_gantry_belt_wheel = true
-			#Enable registration for variable transmission. Changes require a full game restart.
-			variable_transmission = true
-			#Enable registration for advanced contraption controller. Changes require a full game restart.
-			advanced_contraption_controller = true
-			#Enable registration for thruster bearing. Changes require a full game restart.
-			thruster_bearing = true
-			#Enable registration for aileron bearing. Changes require a full game restart.
-			aileron_bearing = true
-			#Enable registration for scissor piston. Changes require a full game restart.
-			scissor_piston = true
-
-		[common.features.items]
-			#Enable registration for configuration clipboard. Changes require a full game restart.
-			configuration_clipboard = true
-			#Enable registration for advanced contraption controller. Changes require a full game restart.
-			advanced_contraption_controller = true
-			#Enable registration for physics staff. Changes require a full game restart.
-			physics_staff = true
-			#Enable registration for propulsion upgrade t4. Changes require a full game restart.
-			propulsion_upgrade_t4 = true
-			#Enable registration for propulsion upgrade t3. Changes require a full game restart.
-			propulsion_upgrade_t3 = true
-			#Enable registration for propulsion upgrade t2. Changes require a full game restart.
-			propulsion_upgrade_t2 = true
-			#Enable registration for propulsion upgrade t1. Changes require a full game restart.
-			propulsion_upgrade_t1 = true
-			#Enable registration for claw. Changes require a full game restart.
-			claw = true
-			#Enable registration for processing upgrade haunting t4. Changes require a full game restart.
-			processing_upgrade_haunting_t4 = true
-			#Enable registration for thruster lense. Changes require a full game restart.
-			thruster_lense = true
-			#Enable registration for processing upgrade haunting t3. Changes require a full game restart.
-			processing_upgrade_haunting_t3 = true
-			#Enable registration for rope knot. Changes require a full game restart.
-			rope_knot = true
-			#Enable registration for processing upgrade haunting t2. Changes require a full game restart.
-			processing_upgrade_haunting_t2 = true
-			#Enable registration for processing upgrade haunting t1. Changes require a full game restart.
-			processing_upgrade_haunting_t1 = true
-			#Enable registration for advanced navigation table. Changes require a full game restart.
-			advanced_navigation_table = true
-			#Enable registration for thruster bearing. Changes require a full game restart.
-			thruster_bearing = true
-			#Enable registration for shipping manifest. Changes require a full game restart.
-			shipping_manifest = true
-			#Enable registration for gyro redstone bridge. Changes require a full game restart.
-			gyro_redstone_bridge = false
-			#Enable registration for physics gantry shaft. Changes require a full game restart.
-			physics_gantry_shaft = true
-			#Enable registration for physics gantry carriage. Changes require a full game restart.
-			physics_gantry_carriage = true
-			#Enable registration for industrial motor. Changes require a full game restart.
-			industrial_motor = true
-			#Enable registration for virtual orientation source. Changes require a full game restart.
-			virtual_orientation_source = false
-			#Enable registration for contraption network linker. Changes require a full game restart.
-			contraption_network_linker = true
-			#Enable registration for processing upgrade smoking t4. Changes require a full game restart.
-			processing_upgrade_smoking_t4 = true
-			#Enable registration for gyroscope link. Changes require a full game restart.
-			gyroscope_link = true
-			#Enable registration for analogue contraption controller. Changes require a full game restart.
-			analogue_contraption_controller = true
-			#Enable registration for processing upgrade smoking t3. Changes require a full game restart.
-			processing_upgrade_smoking_t3 = true
-			#Enable registration for andesite cable. Changes require a full game restart.
-			andesite_cable = true
-			#Enable registration for processing upgrade smoking t2. Changes require a full game restart.
-			processing_upgrade_smoking_t2 = true
-			#Enable registration for processing upgrade smoking t1. Changes require a full game restart.
-			processing_upgrade_smoking_t1 = true
-			#Enable registration for vertical variable transmission. Changes require a full game restart.
-			vertical_variable_transmission = true
-			#Enable registration for variable transmission. Changes require a full game restart.
-			variable_transmission = true
-			#Enable registration for bidirectional gearbox. Changes require a full game restart.
-			bidirectional_gearbox = true
-			#Enable registration for thruster. Changes require a full game restart.
-			thruster = true
-			#Enable registration for analogue joystick. Changes require a full game restart.
-			analogue_joystick = true
-			#Enable registration for entity launcher. Changes require a full game restart.
-			entity_launcher = true
-			#Enable registration for powered zipline. Changes require a full game restart.
-			powered_zipline = true
-			#Enable registration for vertical bidirectional gearbox. Changes require a full game restart.
-			vertical_bidirectional_gearbox = true
-			#Enable registration for processing upgrade smelting t4. Changes require a full game restart.
-			processing_upgrade_smelting_t4 = true
-			#Enable registration for processing upgrade smelting t3. Changes require a full game restart.
-			processing_upgrade_smelting_t3 = true
-			#Enable registration for processing upgrade smelting t2. Changes require a full game restart.
-			processing_upgrade_smelting_t2 = true
-			#Enable registration for processing upgrade smelting t1. Changes require a full game restart.
-			processing_upgrade_smelting_t1 = true
-			#Enable registration for physics goggles. Changes require a full game restart.
-			physics_goggles = true
-			#Enable registration for alternator. Changes require a full game restart.
-			alternator = true
-			#Enable registration for physics gantry belt wheel. Changes require a full game restart.
-			physics_gantry_belt_wheel = true
-			#Enable registration for aileron bearing. Changes require a full game restart.
-			aileron_bearing = true
-			#Enable registration for music disc twisted alive. Changes require a full game restart.
-			music_disc_twisted_alive = true
-			#Enable registration for scissor piston. Changes require a full game restart.
-			scissor_piston = true
-			#Enable registration for music disc kinetic currency. Changes require a full game restart.
-			music_disc_kinetic_currency = true
-			#Enable registration for scissor arms. Changes require a full game restart.
-			scissor_arms = true
-			#Enable registration for music disc unplug the earth. Changes require a full game restart.
-			music_disc_unplug_the_earth = true
-			#Enable registration for small thruster. Changes require a full game restart.
-			small_thruster = true
-
-		[common.features.entities]
-			#Enable registration for entity launcher. Changes require a full game restart.
-			entity_launcher = true
-
 	#Thruster propulsion, fuel, beam mode, and upgrade scaling
 	[common.thruster]
 		#Base thrust at 100% throttle for normal (non-beam, non-soul) thrusters. Default 640 gives ~2.94 kpN at full throttle in standard atmosphere.
@@ -212,6 +47,10 @@
 		# Default: 1.5
 		# Range: 0.0 ~ 100.0
 		oxidizedFuelThrustMultiplier = 1.5
+		#Allow active thruster exhaust to damage living entities
+		enableThrusterEntityDamage = true
+		#Allow haunting-upgraded thrusters to convert supported mobs instead of dropping loot on death
+		enableThrusterMobHaunting = true
 
 	#Servo Bearing pivot controls
 	[common.thruster_bearing]
@@ -323,3 +162,10 @@
 		# Default: 32
 		# Range: 1 ~ 32
 		maxRange = 32
+
+	#Optional loot and entity drops
+	[common.loot]
+		#Allow Special Thanks Player Mannequins to appear in vanilla chest loot
+		enableSpecialThanksMannequinLoot = true
+		#Allow mobs and players to drop heads through the addon's head-drop system
+		enableMobHeadDrops = true

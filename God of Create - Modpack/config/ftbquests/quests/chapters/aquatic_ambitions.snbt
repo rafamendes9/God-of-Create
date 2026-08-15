@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "3543A97CD2781B30"
 			image: "minecraft:item/trident"
 			rotation: 0.0d
 			width: 1.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1D625604C8832677"
 			image: "minecraft:textures/mob_effect/conduit_power.png"
 			rotation: 0.0d
 			width: 1.0d

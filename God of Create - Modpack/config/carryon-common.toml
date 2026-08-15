@@ -3,7 +3,7 @@
 	#Maximum distance from where Blocks and Entities can be picked up
 	# Default: 2.5
 	# Range: 0.0 ~ 1.7976931348623157E308
-	maxDistance = 0.5
+	maxDistance = 1.0
 	#Max width of entities that can be picked up in survival mode
 	# Default: 1.5
 	# Range: 0.0 ~ 10.0

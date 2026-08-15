@@ -7,6 +7,7 @@
 		id: "minecraft:totem_of_undying"
 	}
 	id: "58DA1F2BB418E1A3"
+	images: [ ]
 	order_index: 5
 	quest_links: [ ]
 	quests: [

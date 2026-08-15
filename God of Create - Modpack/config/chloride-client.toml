@@ -27,7 +27,7 @@ modpackMode = false
   verticalAlign = "TOP"
 
   # Accepted values are: [OFF, ALL, GPU_ONLY, RAM_ONLY]
-  systemDetails = "OFF"
+  systemDetails = "RAM_ONLY"
 
   # Value must be greater than 0
   margin = 12

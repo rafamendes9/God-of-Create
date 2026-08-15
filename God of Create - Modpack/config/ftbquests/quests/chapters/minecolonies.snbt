@@ -7,6 +7,7 @@
 	images: [
 		{
 			height: 3.867403314917127d
+			id: "318EA9DF54E79963"
 			image: "questinstaller:textures/quests/minecolonies_logo_medium.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -15,6 +16,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4C38FF34420EDEAE"
 			image: "questinstaller:textures/quests/hc_feed_the_machine.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -23,6 +25,7 @@
 		}
 		{
 			height: 0.4657039711191336d
+			id: "244F14C00BEBA621"
 			image: "questinstaller:textures/quests/hc_logistics.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -31,6 +34,7 @@
 		}
 		{
 			height: 0.6323529411764706d
+			id: "3C9C67F07E25ADBB"
 			image: "questinstaller:textures/quests/hc_utility.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -39,6 +43,7 @@
 		}
 		{
 			height: 1.5d
+			id: "5ED7889C3F4331AA"
 			image: "questinstaller:textures/quests/hc_university_research.png"
 			rotation: 0.0d
 			width: 4.5d
@@ -47,6 +52,7 @@
 		}
 		{
 			height: 1.5d
+			id: "3CBAB7B2B5B8A1EA"
 			image: "questinstaller:textures/quests/hc_the_builder.png"
 			rotation: 0.0d
 			width: 3.1601941747572813d
@@ -55,6 +61,7 @@
 		}
 		{
 			height: 0.5d
+			id: "59638D8816EAE5F7"
 			image: "questinstaller:textures/quests/hc_defense.png"
 			rotation: 0.0d
 			width: 2.880952380952381d

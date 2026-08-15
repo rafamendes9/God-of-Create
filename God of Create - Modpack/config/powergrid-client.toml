@@ -46,3 +46,61 @@ hummingSoundMultiplier = 1.0
 # Default: 1.0
 # Range: 0.0 ~ 3.4028234663852886E38
 generatorSoundMultiplier = 1.0
+
+#.
+#Circuit editor stuff
+["Circuit Design Table"]
+	#.
+	#.
+	#Higher contrast between traces in the circuit editor
+	HighContrastTraces = false
+	#.
+	#Amount of red in traces
+	# Default: 255
+	# Range: 0 ~ 255
+	traceRedTop = 255
+	#.
+	#Amount of green in traces
+	# Default: 255
+	# Range: 0 ~ 255
+	traceGreenTop = 255
+	#.
+	#Amount of blue in traces
+	# Default: 255
+	# Range: 0 ~ 255
+	traceBlueTop = 255
+	#.
+	#Amount of alpha in traces
+	# Default: 255
+	# Range: 0 ~ 255
+	traceAlphaTop = 255
+	#.
+	#Amount of alpha in traces
+	# Default: 128
+	# Range: 0 ~ 255
+	traceAlphaTopBehind = 128
+	#.
+	#Amount of red in traces
+	# Default: 255
+	# Range: 0 ~ 255
+	traceRedBottom = 255
+	#.
+	#Amount of green in traces
+	# Default: 255
+	# Range: 0 ~ 255
+	traceGreenBottom = 255
+	#.
+	#Amount of blue in traces
+	# Default: 255
+	# Range: 0 ~ 255
+	traceBlueBottom = 255
+	#.
+	#Amount of alpha in traces on the back
+	# Default: 255
+	# Range: 0 ~ 255
+	traceAlphaBottom = 255
+	#.
+	#Amount of alpha in traces on the back
+	# Default: 128
+	# Range: 0 ~ 255
+	traceAlphaBottomBehind = 128
