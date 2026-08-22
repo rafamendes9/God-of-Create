@@ -1,0 +1,3 @@
+["Creative tab"]
+	#How the lamps should be arranged in the mod creative tab. CHECK = by color  CROSS = by material. Needs world reload.
+	"Lamps Arrangement" = false

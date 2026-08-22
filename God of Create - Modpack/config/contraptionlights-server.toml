@@ -1,0 +1,8 @@
+#Place real light blocks as a Create contraption moves, so every player sees the light.
+enableContraptionLightBlock = false
+#Place real light blocks as a Sable sub-level moves, so every player sees the light.
+enableSubLevelLightBlock = false
+#Only place a light block for sources at least this bright.
+# Default: 1
+# Range: 0 ~ 15
+minLightBlockEmission = 1

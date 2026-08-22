@@ -1,0 +1,16 @@
+[create]
+	#Retain Create factory-gauge geometry with Flywheel.
+	factoryGauges = true
+	#Retain the Rotation Speed Controller bracket with Flywheel.
+	speedControllers = true
+
+[vanillaBackports]
+	#Render vanilla beds as baked block models, backported from 26.2.
+	#Requires a resource reload or restart after changing.
+	beds = true
+	#Bake vanilla sign wood geometry while retaining the vanilla text renderer.
+	#Requires a resource reload or restart after changing.
+	signs = true
+	#Bake decorated pots into chunks and temporarily restore the vanilla renderer while wobbling.
+	#Requires a resource reload or restart after changing.
+	decoratedPots = true

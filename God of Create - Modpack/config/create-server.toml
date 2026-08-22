@@ -432,7 +432,7 @@
 	#The amount of packages a chain conveyor can carry at a time.
 	# Default: 20
 	# Range: > 1
-	chainConveyorCapacity = 40
+	chainConveyorCapacity = 80
 	#.
 	#The amount of ticks a brass tunnel waits between distributions.
 	# Default: 10

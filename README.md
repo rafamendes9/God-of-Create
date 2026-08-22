@@ -1,12 +1,12 @@
 # 🏭 God of Create - Deep Space Magic Aeronautics
 
-**Neo Forge 1.21.1** | Crie seu mundo eterno
+
 ![God of Create](./God%20of%20Create%20-%20Modpack/Intro-modpack.jpg)
 ---
 
 ## 📋 Sobre
 
-**God of Create** Foi baseado do popular modpack **[All of Create](https://www.curseforge.com/minecraft/modpacks/aoc)**, Hoje sendo considerado Um Modpack totalmente Singular de sua vertente original, o foco do Modpack é levar o Minecraft ao limite de seu potencial e capacidade sem abrir mão da Performace, assim como conteúdo e funções,**God of Create** é otimizado para jogadores que desejam uma experiência enriquecida com performance aprimorada, Worldgens, mecânicas inovadoras e conteúdo de curadoria exclusiva.
+**God of Create** Explore todo o potencial do Minecraft 1.21.1! Aqui, paisagens deslumbrantes, tecnologia, automação, física e criatividade são levadas ao limite da programação, tudo sem perder a performance. Seu mundo se tornará eterno: explore magias, dimensões e planetas enquanto gerencia civilizações e reinos. Seus súditos viverão em um universo vibrante, com estações dinâmicas, fauna extensa e monstros desafiadores espalhados por todos os mundos. Enfrente essas ameaças ao lado da sua Maid, do seu lobo e do seu cavalo – companheiros que evoluem com você!
 
 ---
 
@@ -15,8 +15,8 @@
 | Aspecto | Descrição |
 |--------|-----------|
 | **Versão Minecraft** | 1.21.1 |
-| **Loader** | Neo Forge |
-| **Mod Base** | Create |
+| **Loader** | Neo Forge - 21.1.235 |
+| **Mod Base** | Create + Aeronautics|
 
 ---
 
@@ -41,12 +41,20 @@ Você constrói, voa, automatiza e conquista o céu.
   - Additions
   - Creo
   - Controle
-  - etc.
+  
 - **Occultism**
-  - Rituais
+  - Conjurações 
   - Espíritos
-  - Demônios
+  
   - Progressão mágica profunda
+
+- **Neo Vitae**
+  - Rituais
+  - Sacrifícios 
+  - Entidades
+  - Demônios
+  
+
 
 Tudo integrado para quem gosta de magia com impacto real no mundo.
 
@@ -80,9 +88,9 @@ O progresso da colônia se conecta diretamente com a automação e a logística 
 - **Alex’s Caves**
 - **Cataclysm**
 - **Integrated Structures**
-- **Incendium**
-- **Nullscape**
-- e muito mais
+- **Incendium** ( Nether Reformulado)
+- **Nullscape** ( The End Reformulado)
+
 
 O mundo não é estático: há biomas vivos, dungeons densas, dimensões mágicas e rotas de exploração aérea e espacial.
 
@@ -106,13 +114,17 @@ O mundo não é estático: há biomas vivos, dungeons densas, dimensões mágica
 - Entity Culling
 - More Culling
 - Cull Leaves
-- etc.
+- ScalableLux
+
+- more....
 
 ---
 
 ## 🌍 WorldGen & Exploração
 
 - Larion
+- WWOO
+- Streams Reflowing
 - Alex’s Caves
 - Deeper and Darker
 - Integrated Dungeons and Structures (IDAS)
@@ -129,7 +141,7 @@ O mundo não é estático: há biomas vivos, dungeons densas, dimensões mágica
 - Mowzie’s Mobs
 - Alex’s Mobs
 - Sea Life
-- etc.
+- more.....
 
 ---
 
@@ -164,7 +176,7 @@ Incluindo todos os seus:
 - Radar
 - Cabos
 - Portais
-- etc.
+- More....
 
 ### Addons e expansões
 
@@ -199,14 +211,15 @@ Incluindo todos os seus:
 - Occultism + complementos
 - Forbidden Arcanus
 - Theurgy
-- etc.
+- Neo vitae
+- More...
 
 ---
 
 ## 🏘️ Decoração, Construção & Civilizações
 
 - MineColonies + Style Packs
-- Vários complementos de civilização
+- Addons MineColonies
 - Supplementaries
 - Handcrafted
 - Create Framed/Copycats
@@ -216,7 +229,7 @@ Incluindo todos os seus:
 - Domum Ornamentum
 - Structure Essentials
 - Lithostitched
-- etc.
+- More...
 
 ---
 
@@ -227,9 +240,7 @@ Incluindo todos os seus:
 - Just Enough Professions
 - Just Enough Breeding
 - Jade
-- Patchouli
-- Guideme
-- etc.
+- More...
 
 ---
 
@@ -240,8 +251,7 @@ Incluindo todos os seus:
 - Stock Bridge
 - Mobile Packages
 - Package Couriers
-- Open Parties and Claims
-- etc.
+- More...
 
 ---
 
@@ -282,7 +292,7 @@ Incluindo todos os seus:
 
 - **RAM**: 9 - 16 GB alocada
 - **Processador**: Intel i7/Ryzen 5 ou superior
-- **Armazenamento**: SSD Mínimo 10 GB de espaço livre para até 1 mes de gameplay ( isso pode variar de acordo com seu nivel de exploracao )
+- **Armazenamento**: SSD Mínimo 10 GB de espaço livre para até 2 meses de gameplay ( isso pode variar de acordo com seu nivel de exploração  )
 - **Java**: 17+ (compatível com Neo Forge)
 
 > ⚠️ Devido ao mod Distant Horizon entre outros, configurações com menos de 12 GB RAM podem apresentar lag ou crash
@@ -291,10 +301,35 @@ Incluindo todos os seus:
 
 ## 🚀 Instalação
 
+### 0.5 Considerações 
+Esse método  existe  por alguns motivos: 
+
+ - Total compatibilidade de instalação, meu método  de instalação permite voce usar todo e qualquer Launcher  de sua preferência, seja ele para Windows, Linux, Minecraft Oficial ou Alternativo
+
+---
+
+- Essa Instalação permite que o usuario tenha todo e total controle sobre seus mods e modpack instalados sem limitaçoes ou possiveis censura de plataformas como a reformulação das regras de conteudo do Modrinth  implementados no decorrer da criação desse README
+
+---
+
+- Motivos de nao possuir uma Instalação nativa no Curseforge e/ou Modrinth : Alguns mods/datapacks/shaders/resourcepack  são achados exclusivamente fora do curseforge ou Modrinth  ( vice-versa ) por questões que fogem totalmente do meu controle ou curadoria, por esse motivo fiz esse método totalmente separado para que voce como jogador não precise ter dores de cabeça com instalação  ou qualquer outra "novidade" que as plataformas tiverem no futuro
+
+---
+
+- Voce é livre para usar o Launcher de sua preferencia e esse guia serve para praticamente todos os Launcher com pequenos ajustes se necessario ( Fiz o guia de instalação para o Curseforge única e exclusivamente por ser onde concentra a maioria dos usuários  )
+
+---
+- **( sempre faça backup da pasta do seu modpack)**
+
+---
+
+
+
+
 ### 1. Pré-requisitos 
 
 - [Minecraft 1.21.1](https://launcher.mojang.com/) 
-- [Neo Forge 21.1.233] 
+- [Neo Forge 21.1.235] 
 - [Java 8+] 
 
 ### 2. Passos de Instalação ( CURSE FORGE - Padrão da grande parcela dos jogadores)
@@ -314,25 +349,19 @@ Incluindo todos os seus:
 
 6. Selecione a opção "Carregador de modificações" - "NeoForge"
 
-7. Selecione a opção "Versão do Carregador de modificações" - "21.1.234"
+7. Selecione a opção "Versão do Carregador de modificações" - "21.1.235"
 
 8. Selecione a opção "Criar"
 
 9. Toque com botão direito no perfil criado e selecione "Abrir Pasta"
 
-10. Coloque todos os arquivos contidos de "God of Create" dentro dessa pasta aperta anteriormente ( exceto a pasta .git e .gitattributes)
+10. Coloque todos os arquivos contidos de "God of Create - Modpack" dentro dessa pasta aberta anteriormente ( Desconsidere a pasta "Extra Assets" e arquivos .git, .gitattributes, .gitignore)
 
-11. Feche o diretório e selecione "Jogar"no perfil criado anteriormente no "CurseForge"
+11. A pasta "Extra Assets" possui conteudos assim como seus respectivos links para serem baixados de plataformas como CurseForge, Modrinth , Etc..., por motivos de limitaçoes de limites de tamanho maximo do Github
 
-OBS: Recomendo deixar o Mod Distant Horizon desabilitado antes de criar o seu mundo, apena o habilite após já estiver com alguns minutos de game play, isso ocorre devido o  Mod Distant Horizon ter um Pre-gerador de renderizar de terrenos nativo e pode prejudicar a performace inicial de inicialização do mundo na primeira vez
+12. Feche o diretório e selecione "Jogar"no perfil criado anteriormente no "CurseForge"
 
-OBS: Fiz esse metodo por alguns motivos: 
-
- Total compatibilidade com diversos tipos de Lauchers, meu metodo de instalação permite voce usar todo e qualquer Laucher de sua preferência, seja ele para Windows, Linux, Oficial ou Alternativo
-
- Problemas de Instalar diretamente do Curseforge: o curse possui sérios problemas e limitações, ele sempre vai tentar corromper o seu modpack instalado ou save ao atualizar sem o consentimento do usuário de forma silenciosa os mods ou o próprio modpack ( sempre faça backup da pasta do seu modpack), ( Fiz o guia de instalação para o Curse única e exclusivamente por ser onde concentra a maioria dos usuários  )
-
- Alguns mods/datapacks/shaders/resoucerpack são achados exclusivamente fora do curseforge por questões que fogem totalmente do meu controle ou curadoria, por esse motivo fiz esse método totalmente desligado para que voce como jogador não precise ter dores de cabeças com atualizações ou qualquer outra "novidade" que o Curseforge tente fazer, Boa Jogatina
+---
 
 ### 3. Aplicar Seed Recomendada
 
@@ -342,15 +371,28 @@ Ao criar novo mundo:
 Obs: deixo esse seed como padrao para voce ter a melhor experiencia mas voce é livre para selecionar aquela que voce desejar
 ---
 
+OBS: Recomendo deixar o Mod Distant Horizon desabilitado antes de criar o seu mundo, apenas  o habilite após já estiver com alguns minutos de game play, isso ocorre devido o  Mod Distant Horizon ter um Pre-gerador de renderizar de terrenos nativo e pode prejudicar a Performance  inicial de inicialização do mundo na primeira vez
+
+- Para desabilitar, vá em Options
+- No  Canto superior esquerdo vai se encontrar o icone do Distant Horizon (ao lado do ajuste de FOV )
+- Ao clicar no icone, troque todas as opções de "True" para "False"
+
+- Após 10 mim - 15 min de Partida, volte nesse opçoes e habilite "Enable Rendering - True" | "LOD Chunk Render Distance Radius - 198" | "Quality Preset - 3" | CPU Load - 2 | Deixe todas as outras opções em "FALSE"
+
+- A opção "Enable Distant Generation"deve ser colocada em "True" apenas quando for gerar terrenos LOD distantes para que o Distant Horizon possa enxergar 
+
+
+---
+
 ### 4. Inicio recomendado para  conseguir extrair a melhor experiencia de jogatina
-- Desabilitar o pre chunk generator do **Distant Horizon** ( as duas ultimas opções de false/true )
+- Desabilite o pre chunk generator do **Distant Horizon** ( Enable Distant Generation e Enable Server Generation )
 - Iniciar o Mod **Chunky**
   - Use os seguintes comandos:
                                 /Chunky center
-                                /Chunky radius 2000             
+                                /Chunky radius 1000             
                                  /Chunky Start
 
--OBS: essa distancia é o suficiente para o inicio da sua jogatina mas voce pode aumentar ela ou repetir esse método em um futuro caso queira ter melhor performace e aproveitamento visual do distant horizon
+-OBS: essa distancia é o suficiente para o inicio da sua jogatina mas voce pode aumentar ela ou repetir esse método em um futuro caso queira ter melhor Performance  e aproveitamento visual do distant horizon
 
 ---
 
@@ -360,20 +402,19 @@ Obs: deixo esse seed como padrao para voce ter a melhor experiencia mas voce é 
 ### Modificar Configurações
 
 1. Edite os arquivos em `config/`
-1.5 É Possível mais não recomendado alterar diretamente as configurações de mods dentro da pasta persistente `config/`, faça apenas se souber o que estiver fazendo
+ - É Possível mais não recomendado alterar diretamente as configurações de mods dentro da pasta persistente `config/`, faça apenas se souber o que estiver fazendo
 
 ### Adicionar Novos Mods
 
 1. Baixe o arquivo `.jar` do mod compatível com Neo Forge 1.21.1
 2. Coloque em `God of Create/mods/`
 3. Reinicie o cliente
-3.5 Mods adicionados sem um profundo entendimento sobre mods ou minecraft podem crashar o modpack, tornar conteúdos repetitivos ou super fulos, sempre é recomendado ter um backup antes de fazer qualquer modificação no Modpack
+- Mods adicionados sem um profundo entendimento sobre mods ou minecraft podem crashar o modpack, tornar conteúdos repetitivos ou redundantes , sempre é recomendado **ter um backup** antes de fazer qualquer modificação no Modpack
 
 ## 📄 Atenção
-1. Devido a limitações do proprio GitHub para arquivos grandes, deixarei uma pasta dedicada para todos os Mods ou itens necessarios para serem baixados pelo usuario, deixarei em uma pasta dedicada para isso
+1. Devido a limitações do proprio GitHub para arquivos grandes, deixarei uma pasta dedicada para todos os Mods ou itens necessarios para serem baixados pelo usuario chamada  "Extra Assets"
 ---
-## 📄 Extra
-1. Foi adicionado uma pasta chamada "Schematic Builds for your world" nessa pasta contem as construções que eu fiz e disponibilizo para que voce possa desfrutar em seu mundo
+
 
 
 ## 🐛 Suporte e Troubleshooting
@@ -382,10 +423,14 @@ Obs: deixo esse seed como padrao para voce ter a melhor experiencia mas voce é 
 
 **Jogo não inicia?**
 - Verifique se tem 12+ GB de RAM alocada
-- Confirme a versão do Java (17+)
+- Confirme a versão do Java 8 / 17/ 21/ 25 instaladas e atualizadas
 
 **Falta de textura de itens ou Mods ?**
 -Dependendo do seu armazenamento SSD pode ocorrer um atraso do carregamento correto de algumas textura no JEI, principalmente do mod **rechiseled** e **chipped**, isso é totalmente normal por esses mods adicionarem diversas texturas ao jogo, caso o erro persista ou nao se auto corrija automaticamente com alguns minutos de gameplay
+
+- Ao realizar o procedimento abaixo  tenha em mente que voce vai perder qualquer modificação realizada por  você, retornando o mod para as configurações padrões
+
+**OBS: Em raros caso se necessário**
    - Vá até a pasta do diretorio: " \God of Create\config"
    - Apague os seguintes arquivos 
       supplementaries-client
@@ -395,14 +440,16 @@ Obs: deixo esse seed como padrao para voce ter a melhor experiencia mas voce é 
       entity_texture_features
 
 
-OBS: Em raros caso se necessário
+
 - Todos os arquivos com nome "sodium" dentro de \God of Create\config"
 - create-client
 
-- Caso ainda mais raro, troque a versão dos mods **rechiseled** e **chipped** para posteriores ou anteriores a sua
+- Caso ainda mais raro, troque a versão dos mods **rechiseled** e **chipped** para posteriores ou anteriores à sua
+
+- Caso conhecido, o mod **rechiseled** uma variação do bloco **COAL** que **não possui textura**, isso é um erro conhecido do mod e sem correções  efetivas ate o dado momento
 
 **Crashes na inicialização?**
-- Consulte `crash_assistant_localization_overrides/README.md`
+- Consulte `crash_assistant_localization_overrides/README.md`  ( normalmente um PopUp vai lhe informar o tipo de erro ocorrido)
 - Verifique compatibilidade de versões caso voce modifique algum mod
 - Aumente RAM alocada
 
@@ -413,13 +460,23 @@ OBS: Em raros caso se necessário
 - Feche aplicações de fundo
 - Confirme se esta usando 100% de uso de CPU ou GPU, isso pode lhe ajudar a compreender se o problema é de entidade e cálculos "CPU" ou gráfico e visualização "GPU"
 
+**Base de teste e jogatina**
+- Todos os testes assim como jogatinas foram feitas com I7 - 10700K | Rx 6700 XT - 12 GB | 32 GB - 2666 MHz DDR4 | SSD NVME | Shaders: Solas Shader
+- Media de 70 FPS+ ( com limitador) em exploraçao do mundo normal
+- Media de 50 FPS em areas densamente povoadas de NPCs, Fabricas Create, Automação, SubLevels ( aeronautics), 328 ForceChunks carregados
+- 500 Hrs de jogatina | 15072 MBs de Memória  Alocado | Pasta do mod: 8.5 GB ( Modpack + Save + Minimapa) 
+
 ### Recursos Úteis
 
 - 📖 [Documentação Create](https://create.fandom.com/)
 - 🔗 [Neo Forge](https://neoforged.net/)
-- 💬 [Discord All Of Create](https://discord.gg/create) ( Esse Discord não possui nenhuma vinculação com o modpack God of Create )
+
 
 ---
+
+
+### **God of Create**
+ Foi baseado do popular modpack **[All of Create](https://www.curseforge.com/minecraft/modpacks/aoc)**, Hoje sendo considerado Um Modpack totalmente Singular de sua vertente original, o foco do Modpack é levar o Minecraft ao limite de seu potencial e capacidade sem abrir mão da Performace, assim como conteúdo e funções,**God of Create** é otimizado para jogadores que desejam uma experiência enriquecida com performance aprimorada, Worldgens, mecânicas inovadoras e conteúdo de curadoria exclusiva.
 
 ## 📄 Licença
 
@@ -443,7 +500,7 @@ Encontrou um bug ou tem sugestões? Sinta-se livre para:
 
 ---
 
-**Última atualização**: Julho 2026  
+**Última atualização**: Agosto 2026  
 **Status**: ✅ Ativo e em desenvolvimento
 
 ---

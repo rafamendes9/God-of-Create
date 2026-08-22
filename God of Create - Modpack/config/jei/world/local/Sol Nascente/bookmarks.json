@@ -3,12 +3,12 @@
   {"ingredient":{"id":"tacz:ammo","components":{"minecraft:max_stack_size":60,"minecraft:custom_data":{"AmmoId":"tacz:556x45"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"doggytalents:rice_grains"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"tacz:ammo","components":{"minecraft:max_stack_size":60,"minecraft:custom_data":{"AmmoId":"tacz:9mm"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"tacz:ammo_box","components":{"minecraft:custom_data":{"Level":0,"AmmoId":"tacz:9mm","AmmoCount":180}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"tacz:ammo_box","components":{"minecraft:custom_data":{"AmmoId":"tacz:556x45","Level":0,"AmmoCount":59}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tacz:ammo_box","components":{"minecraft:custom_data":{"AmmoId":"tacz:9mm","Level":0,"AmmoCount":180}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tacz:ammo_box","components":{"minecraft:custom_data":{"Level":0,"AmmoId":"tacz:556x45","AmmoCount":59}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:blaze_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:gunpowder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:iron_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"tacz:ammo_box","components":{"minecraft:custom_data":{"Level":0,"AmmoId":"tacz:empty","AmmoCount":0}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tacz:ammo_box","components":{"minecraft:custom_data":{"AmmoId":"tacz:empty","Level":0,"AmmoCount":0}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"tacz_c:explosive_charge_40mm"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:birch_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:cobblestone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -18,5 +18,11 @@
   {"recipe":"create:crafting/kinetics/item_vault","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
   {"recipe":"minecraft:barrel","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
   {"ingredient":{"id":"minecraft:cherry_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"rubberworks:rubber"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"rubberworks:rubber"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:item_vault"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_vibrant_vaults:light_gray_package_frogport"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:chain_conveyor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:stock_ticker","components":{"minecraft:block_entity_data":{"Freq":[-470899515,-205437973,-1294546503,-275874518],"id":"create:stock_ticker"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_vibrant_vaults:light_gray_packager"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:portable_storage_interface"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

@@ -68713,6 +68713,134 @@
     "maxWaterDepth": 13,
     "implosionChance": 0.85
   },
+  "ddcl:blue_andesite_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:blue_brass_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:blue_copper_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:blue_gold_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:blue_industrial_iron_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:blue_iron_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:blue_netherite_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:blue_zinc_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:green_andesite_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:green_brass_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:green_copper_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:green_gold_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:green_industrial_iron_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:green_iron_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:green_netherite_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:green_zinc_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:red_andesite_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:red_brass_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:red_copper_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:red_gold_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:red_industrial_iron_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:red_iron_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:red_netherite_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:red_zinc_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:yellow_andesite_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:yellow_brass_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:yellow_copper_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:yellow_gold_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:yellow_industrial_iron_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:yellow_iron_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:yellow_netherite_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "ddcl:yellow_zinc_dimmable_lamp": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
   "deeperdarker:ancient_vase": {
     "maxWaterDepth": 55,
     "implosionChance": 0.6666667
@@ -132680,6 +132808,10 @@
   "touhou_little_maid:wchess": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
+  },
+  "touys:projector": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
   },
   "tracks:track_mount": {
     "maxWaterDepth": 55,
