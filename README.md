@@ -363,7 +363,7 @@ Esse método  existe  por alguns motivos:
 
 ---
 
-## 🚀 Atualização
+## 3 Atualização
 
 - Para atualizar o seu ModPack para uma versão mais nova e otimizada siga esse simples cenário
 
