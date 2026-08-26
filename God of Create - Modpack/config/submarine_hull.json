@@ -1701,6 +1701,10 @@
     "maxWaterDepth": 190,
     "implosionChance": 0.05
   },
+  "aeronautics_utility_objects:brass_hydraulic_hinge_head": {
+    "maxWaterDepth": 131,
+    "implosionChance": 0.22
+  },
   "aeronautics_utility_objects:brass_universal_joint": {
     "maxWaterDepth": 131,
     "implosionChance": 0.22
@@ -51101,13 +51105,25 @@
     "maxWaterDepth": 24,
     "implosionChance": 0.85
   },
+  "create_aeronautics_automated_logistics:advanced_transponder": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.64
+  },
   "create_aeronautics_automated_logistics:airship_station": {
     "maxWaterDepth": 105,
     "implosionChance": 0.37
   },
+  "create_aeronautics_automated_logistics:logistics_terminal": {
+    "maxWaterDepth": 90,
+    "implosionChance": 0.46
+  },
   "create_aeronautics_automated_logistics:ship_transponder": {
     "maxWaterDepth": 60,
     "implosionChance": 0.64
+  },
+  "create_aeronautics_automated_logistics:train_station": {
+    "maxWaterDepth": 105,
+    "implosionChance": 0.37
   },
   "create_aeronautics_throwable_rope_connector:mounted_rope_launcher": {
     "maxWaterDepth": 73,
@@ -99433,6 +99449,10 @@
     "maxWaterDepth": 112,
     "implosionChance": 0.33333334
   },
+  "morepropulsion:engine_nozzle": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
   "morepropulsion:kerosene": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -99445,9 +99465,25 @@
     "maxWaterDepth": 84,
     "implosionChance": 0.5
   },
+  "morepropulsion:large_engine_nozzle": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
   "morepropulsion:large_turbine": {
     "maxWaterDepth": 72,
     "implosionChance": 0.56666666
+  },
+  "morepropulsion:large_turbojet_combustion_chamber": {
+    "maxWaterDepth": 95,
+    "implosionChance": 0.43333334
+  },
+  "morepropulsion:large_turbojet_compressor": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
+  "morepropulsion:large_turbojet_engine_nozzle": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
   },
   "morepropulsion:monstrous_combustion_chamber": {
     "maxWaterDepth": 95,
@@ -99457,9 +99493,25 @@
     "maxWaterDepth": 84,
     "implosionChance": 0.5
   },
+  "morepropulsion:monstrous_engine_nozzle": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
   "morepropulsion:monstrous_turbine": {
     "maxWaterDepth": 72,
     "implosionChance": 0.56666666
+  },
+  "morepropulsion:monstrous_turbojet_combustion_chamber": {
+    "maxWaterDepth": 95,
+    "implosionChance": 0.43333334
+  },
+  "morepropulsion:monstrous_turbojet_compressor": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
+  "morepropulsion:monstrous_turbojet_engine_nozzle": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
   },
   "morepropulsion:small_combustion_chamber": {
     "maxWaterDepth": 95,
@@ -99469,13 +99521,41 @@
     "maxWaterDepth": 84,
     "implosionChance": 0.5
   },
+  "morepropulsion:small_engine_nozzle": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
   "morepropulsion:small_turbine": {
     "maxWaterDepth": 72,
     "implosionChance": 0.56666666
   },
+  "morepropulsion:small_turbojet_combustion_chamber": {
+    "maxWaterDepth": 95,
+    "implosionChance": 0.43333334
+  },
+  "morepropulsion:small_turbojet_compressor": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
+  "morepropulsion:small_turbojet_engine_nozzle": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
   "morepropulsion:turbine": {
     "maxWaterDepth": 72,
     "implosionChance": 0.56666666
+  },
+  "morepropulsion:turbojet_combustion_chamber": {
+    "maxWaterDepth": 95,
+    "implosionChance": 0.43333334
+  },
+  "morepropulsion:turbojet_compressor": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
+  "morepropulsion:turbojet_engine_nozzle": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
   },
   "mowziesmobs:clawed_log": {
     "maxWaterDepth": 23,

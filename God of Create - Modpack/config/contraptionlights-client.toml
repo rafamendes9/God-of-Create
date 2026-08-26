@@ -29,11 +29,11 @@
 #Light cast onto a moving structure by nearby world sources.
 [lightOntoStructures]
 	#Light Create contraptions from nearby moving light, such as held torches and glowing mobs.
-	enableWorldToContraptionLambLight = false
+	enableWorldToContraptionLambLight = true
 	#Light Sable sub-levels from nearby world light, both moving sources and static blocks like torches and lava.
 	enableWorldToSubLevelLambLight = false
 	#Light blocks and entities drawn by Flywheel, such as Create kinetics, from nearby moving light.
-	enableWorldToFlywheelLight = false
+	enableWorldToFlywheelLight = true
 	#Light contraptions and sub-levels from nearby world light.
 	enableWorldToStructureVeilLight = false
 

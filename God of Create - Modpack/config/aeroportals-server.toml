@@ -1,5 +1,5 @@
 [detection]
-	#Log every detection scan and teleport attempt at INFO level.
+	#Write detailed teleport diagnostics to the debug log. Turn on when reporting issues.
 	verbose_logging = true
 	#How often (in server ticks) to scan loaded SubLevels for portal contact.
 	# Default: 5
@@ -23,3 +23,21 @@
 	generate_matching_portal = true
 	#If true, when a player travels on foot and a new destination portal is created, enlarge it to match the size of the portal they entered.
 	match_player_portal_size = true
+	#If true, airships arrive from a teleport with all momentum removed. If false, they keep their velocity, subject to Sable's velocity retention setting.
+	clear_velocity_on_arrival = false
+	#DESTRUCTIVE: if true, blocks that would overlap the arriving airship are destroyed (without drops) to make room, instead of cancelling the teleport. Portal blocks, portal frames, and unbreakable blocks are never destroyed.
+	clear_destination_blocks = false
+	#If true, a lit nether portal built aboard an airship acts as a jump drive: shortly after the portal is lit the whole ship jumps to the other dimension, portal and all. The onboard portal must be extinguished and re-lit before it can jump again.
+	onboard_portal_jumps = false
+	#Ticks between an onboard portal being lit and the ship jumping. Gives riders time to abort by breaking the portal.
+	# Default: 100
+	# Range: 0 ~ 24000
+	onboard_jump_delay_ticks = 100
+
+[travel_methods]
+	#Ways of travelling that AeroPortals will ignore. Anything listed here is left alone: the portal, drink, or cake still works for players on foot, it just no longer carries airships.
+	#Built-in ids: nether, end, aether, ars_nouveau, draconic, deeper_darker, create_teleporters, ender_gateway, pina_colada, telepastries, ae2_spatial, dimension_stack, kubejs
+	#Ids added by other mods or by KubeJS scripts can be listed too. Run /aeroportals methods in game to see every id and whether it is on.
+	#Example: ["nether", "end"] stops airships travelling through vanilla portals while leaving every modded portal working.
+	#Listing 'nether' also switches off onboard portal jump drives.
+	disabled = []

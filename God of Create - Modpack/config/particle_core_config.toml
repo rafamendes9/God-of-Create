@@ -5,8 +5,8 @@ byTypeReductions = {  }
 maxParticlesPerSheet = 16384
 particleRenderDistanceMultiplier = 0.6647058823529411
 asynchronousTicking = true
-reduceAllChance = 0.0
-reduceDecreasedChance = 0.0
+reduceAllChance = 0.5
+reduceDecreasedChance = 0.5
 turnOffPotionParticlesV2 = [
     "NONE"
 ]

@@ -1,0 +1,25 @@
+[detection]
+	#Log every detection scan and teleport attempt at INFO level.
+	verbose_logging = true
+	#How often (in server ticks) to scan loaded SubLevels for portal contact.
+	# Default: 5
+	# Range: 1 ~ 200
+	scan_interval_ticks = 5
+	#Skip scanning any SubLevel whose world-space AABB exceeds this volume (cubic blocks).
+	# Default: 200000.0
+	# Range: 1.0 ~ 1.7976931348623157E308
+	max_sublevel_aabb_volume = 200000.0
+
+[teleport]
+	#Ticks after a teleport during which the same SubLevel will not be teleported again (anti-bounce).
+	# Default: 200
+	# Range: 0 ~ 24000
+	portal_cooldown_ticks = 200
+	#Horizontal block radius around the scaled destination point to search for an existing nether portal to link to.
+	# Default: 128
+	# Range: 0 ~ 1024
+	dest_portal_search_radius = 128
+	#If true, generate a portal frame at the destination (matching source dimensions) when no existing portal is found or the existing one is too small.
+	generate_matching_portal = true
+	#If true, when a player travels on foot and a new destination portal is created, enlarge it to match the size of the portal they entered.
+	match_player_portal_size = true
