@@ -357,13 +357,35 @@ Esse método  existe  por alguns motivos:
 
 10. Coloque todos os arquivos contidos de "God of Create - Modpack" dentro dessa pasta aberta anteriormente ( Desconsidere a pasta "Extra Assets" e arquivos .git, .gitattributes, .gitignore)
 
-11. A pasta "Extra Assets" possui conteudos assim como seus respectivos links para serem baixados de plataformas como CurseForge, Modrinth , Etc..., por motivos de limitaçoes de limites de tamanho maximo do Github
+11. A pasta "Extra Assets" possui conteúdos assim como seus respectivos links para serem baixados de plataformas como CurseForge, Modrinth , Etc..., por motivos de limitaçoes de limites de tamanho maximo do Github
 
 12. Feche o diretório e selecione "Jogar"no perfil criado anteriormente no "CurseForge"
 
 ---
 
-### 3. Aplicar Seed Recomendada
+## 🚀 Atualização
+
+- Para atualizar o seu ModPack para uma versão mais nova e otimizada siga esse simples cenário
+
+1. Dentro da pasta do seu modpack
+
+2. Selecione a pasta "SAVE"
+
+3. Copie essa pasta para outro local fora da pasta do seu modpack
+
+4. Apague completamente o restante da pasta do seu modpack e siga novamente o guia de Instalação
+
+5. Cole novamente a pasta "SAVE" para dentro da pasta do seu modpack
+
+- Observação importante: Sempre guarde um backup de segurança de todo o seu Modpack antes de realizar qualquer alteraçao
+
+- Observação importante: O propósito de cada Atualização desse repositório é ser uma versão retro compatível com o seu save, caso seja lançado qualquer Atualização que quebre esse propósito, será amplamente divulgado e constado em uma Branch ou repositório a parte
+
+
+
+---
+
+### 4. Aplicar Seed Recomendada
 
 Ao criar novo mundo:
 - **Seed**: `3866829312109018270`
@@ -384,7 +406,7 @@ OBS: Recomendo deixar o Mod Distant Horizon desabilitado antes de criar o seu mu
 
 ---
 
-### 4. Inicio recomendado para  conseguir extrair a melhor experiencia de jogatina
+### 5. Inicio recomendado para  conseguir extrair a melhor experiencia de jogatina
 - Desabilite o pre chunk generator do **Distant Horizon** ( Enable Distant Generation e Enable Server Generation )
 - Iniciar o Mod **Chunky**
   - Use os seguintes comandos:
