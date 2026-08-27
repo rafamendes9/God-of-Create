@@ -83,6 +83,9 @@
 			withering_lantern = true
 			cloud_lantern = true
 
+		[types.lantern.aether_beyond_parity]
+			ambrosium_lantern = true
+
 		[types.wood_type.quark]
 			azalea = true
 			ancient = true
@@ -114,6 +117,9 @@
 		[types.wood_type.deeperdarker]
 			bloom = true
 			echo = true
+
+		[types.wood_type.aether]
+			skyroot = true
 
 		[types.leaves_type.creategarnished]
 			pine_nut = true
@@ -208,6 +214,14 @@
 
 		[types.leaves_type.deeperdarker]
 			echo = true
+
+		[types.leaves_type.aether]
+			skyroot = true
+			golden_oak = true
+			crystal = true
+			crystal_fruit = true
+			holiday = true
+			decorated_holiday = true
 
 #Disables specific entries
 [entries]

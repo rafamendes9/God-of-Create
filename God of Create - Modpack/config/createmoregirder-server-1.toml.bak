@@ -1,0 +1,6 @@
+[strut]
+	#Maximum number of strut connections a single anchor block can hold.
+	#Default 1 enforces 'one anchor = one strut'. Increase to restore legacy multi-connection behavior.
+	# Default: 1
+	# Range: 1 ~ 16
+	maxConnectionsPerAnchor = 1

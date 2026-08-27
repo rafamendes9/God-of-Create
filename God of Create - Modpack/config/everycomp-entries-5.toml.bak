@@ -99,6 +99,10 @@
 			pewen = true
 			thornwood = true
 
+		[types.wood_type.deeperdarker]
+			bloom = true
+			echo = true
+
 		[types.leaves_type.creategarnished]
 			pine_nut = true
 			hazelnut = true
@@ -189,6 +193,9 @@
 
 		[types.leaves_type.alexscaves]
 			ancient = true
+
+		[types.leaves_type.deeperdarker]
+			echo = true
 
 #Disables specific entries
 [entries]

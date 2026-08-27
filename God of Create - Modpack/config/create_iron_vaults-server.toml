@@ -1,0 +1,127 @@
+#Overall storage multiplier for each tier.
+#
+#This is the simple knob: 2.0 doubles a tier's storage, 0.5 halves it.
+#It scales the slot count below, so the effect is exact and stacks with
+#any manual changes you make there.
+#
+#Prefer this over editing 'capacity' directly unless you want a specific
+#slot count.
+[multiplier]
+	# Default: 1.0
+	# Range: 0.05 ~ 64.0
+	copper = 1.0
+	# Default: 1.0
+	# Range: 0.05 ~ 64.0
+	iron = 1.0
+	# Default: 1.0
+	# Range: 0.05 ~ 64.0
+	gold = 1.0
+	# Default: 1.0
+	# Range: 0.05 ~ 64.0
+	diamond = 1.0
+	# Default: 1.0
+	# Range: 0.05 ~ 64.0
+	emerald = 1.0
+	# Default: 1.0
+	# Range: 0.05 ~ 64.0
+	obsidian = 1.0
+	# Default: 1.0
+	# Range: 0.05 ~ 64.0
+	netherite = 1.0
+
+#Slots per vault block, before 'multiplier' is applied.
+#Create's Basic Item Vault is 20 by default (its own 'vaultCapacity'
+#setting), and a multiblock combines every block in it.
+#
+#PERFORMANCE: this is the expensive axis. Every inventory scan in the
+#game is O(slots) — Jade's item readout, comparators, Create extraction,
+#storage terminals — and a 3x3x9 vault multiplies it by 81, so Netherite
+#at 160 comes to 12,960 slots per scan. If that costs you tick time, cut
+#this and raise 'stackLimit' below to compensate: stack depth costs
+#nothing to iterate, so you keep the storage and lose the scan cost.
+#
+#Changing these resizes vaults that already exist: on load a vault adopts
+#the count configured now, keeping its contents. A vault holding more than
+#the new size can fit only shrinks as far as its contents allow, so items
+#are never dropped to make one fit.
+[capacity]
+	# Default: 30
+	# Range: 1 ~ 2048
+	copper = 30
+	# Default: 45
+	# Range: 1 ~ 2048
+	iron = 45
+	# Default: 60
+	# Range: 1 ~ 2048
+	gold = 60
+	# Default: 80
+	# Range: 1 ~ 2048
+	diamond = 80
+	# Default: 100
+	# Range: 1 ~ 2048
+	emerald = 100
+	# Default: 125
+	# Range: 1 ~ 2048
+	obsidian = 125
+	# Default: 160
+	# Range: 1 ~ 2048
+	netherite = 160
+
+#Items a single slot holds, for normally-64-stacking items.
+#Scaled proportionally for items that stack lower, and unstackables
+#stay unstackable. This is the cheap axis: deeper stacks cost nothing
+#to iterate. Hard capped at 99 by ItemStack's own serialisation.
+[stackLimit]
+	# Default: 72
+	# Range: 1 ~ 99
+	copper = 72
+	# Default: 80
+	# Range: 1 ~ 99
+	iron = 80
+	# Default: 88
+	# Range: 1 ~ 99
+	gold = 88
+	# Default: 96
+	# Range: 1 ~ 99
+	diamond = 96
+	# Default: 99
+	# Range: 1 ~ 99
+	emerald = 99
+	# Default: 99
+	# Range: 1 ~ 99
+	obsidian = 99
+	# Default: 99
+	# Range: 1 ~ 99
+	netherite = 99
+
+#Shift-right-clicking a vault with an upgrade item
+[upgrading]
+	#If true, one shift-right-click upgrades every vault connected to the one
+	#clicked, and the player must hold one upgrade item per block to do it.
+	#If false, only the clicked block is upgraded and one item is enough.
+	upgradeWholeMultiblock = true
+	#Upgrade items are normally a reusable key: held, checked, and returned.
+	#Set true to consume them on use instead.
+	consumeUpgradeItems = false
+
+#Breaking or wrenching a vault
+[breaking]
+	#Warn before emptying a well-stocked vault onto the ground.
+	#The first attempt is cancelled with a message; repeating it within ten
+	#seconds goes through. Set false to break vaults without any prompt.
+	enableBreakWarning = true
+	#How many occupied slots a vault block needs before the warning fires.
+	#A high tier block can hold well over a hundred stacks, so turning them
+	#all loose at once is both easy to do by accident and a source of lag.
+	# Default: 24
+	# Range: 1 ~ 2048
+	breakWarningStacks = 24
+
+#Performance
+[performance]
+	#Collapse a vault's comparator refreshes to at most one per tick.
+	#Create refreshes on every slot change and each refresh walks the whole
+	#multiblock, so filling a large vault costs dozens of full walks per
+	#tick. This applies to Create's own vaults and other addons' too.
+	#Cost: a comparator can read up to one tick stale.
+	throttleComparators = true

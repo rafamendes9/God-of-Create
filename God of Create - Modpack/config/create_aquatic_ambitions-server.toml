@@ -28,3 +28,8 @@
 	# Default: 7200
 	# Range: 1 ~ 12000
 	awakenedTimeLimit = 7200
+	#.
+	#How much fluid (in mB) the conduit accepts in a single insertion, e.g. from a fluid pipe or a package. Defaults to 1 bucket. Raise this only if you need the conduit to accept larger single transfers, such as multi-bucket Fluid Logistics packages
+	# Default: 1000
+	# Range: 1000 ~ 256000
+	conduitFluidCapacity = 1000

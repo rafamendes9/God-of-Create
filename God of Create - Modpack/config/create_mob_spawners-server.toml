@@ -76,3 +76,8 @@
 	# Default: 0
 	# Range: > -2147483648
 	spawn_area_default_height_offset = 0
+	#Time (in ticks) of immunity against despawning for mobs spawned by the Mechanical Spawner
+	#0 = Vanilla despawn mechanics apply
+	# Default: 600
+	# Range: 0 ~ 72000
+	despawn_immunity_ticks = 600

@@ -1,0 +1,22 @@
+#Lantern position on the player model
+[position]
+	#Horizontal offset across the body (X axis).
+	#  0.0 = centred on the body
+	#  positive = towards the right hip (1.0 = default right hip)
+	#  negative = towards the left hip (-1.0 = left hip)
+	#Larger magnitudes push the lantern further off the side.
+	# Default: 1.0
+	# Range: -4.0 ~ 4.0
+	horizontalOffset = 1.0
+	#Vertical offset along the body (Y axis).
+	#Higher values raise the lantern (towards the chest),
+	#lower values drop it (towards the belt/hip). Dial to taste.
+	# Default: -1.55
+	# Range: -4.0 ~ 4.0
+	verticalOffset = -1.55
+	#Depth offset (Z axis).
+	#Higher values move the lantern towards the front of the body,
+	#lower values towards the back. Dial to taste.
+	# Default: -1.0
+	# Range: -4.0 ~ 4.0
+	depthOffset = -1.0

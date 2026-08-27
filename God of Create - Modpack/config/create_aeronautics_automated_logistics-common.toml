@@ -80,6 +80,32 @@
 	#Allowed Values: PER_OWNER, PER_TEAM
 	activeVehicleLimitMode = "PER_TEAM"
 
+[debug]
+	#Master switch for automated logistics debug logging.
+	#When false, all category debug logs below are disabled.
+	debugLogging = false
+	#Enable playback/runtime debug logs, including unloaded-transit progress and restore.
+	#Only used when debugLogging is true.
+	playback = true
+	#Enable low-level vehicle/Sable controller debug logs.
+	#Only used when debugLogging is true.
+	vehicle = true
+	#Enable docking connector discovery and docking-runtime debug logs.
+	#Only used when debugLogging is true.
+	docking = true
+	#Enable cargo endpoint, cargo wait, and cargo saved-data debug logs.
+	#Only used when debugLogging is true.
+	cargo = true
+	#Enable station/transponder menu, sync, and state-refresh debug logs.
+	#Only used when debugLogging is true.
+	uiSync = true
+
+[simurail]
+	#Keep active automated Simurail vehicles force-loaded through Sable for their full recorded route.
+	#The Sable loading ticket is acquired when playback starts while the vehicle is live, then released when playback stops, faults, or completes.
+	#Disable this to use normal unloaded-travel behavior instead.
+	forceLoadSimurailVehicles = true
+
 [permissions]
 	#Enable ownership-based permission checks for Ship Transponders, Airship Stations, and related logistics controls.
 	#When true, owner, team, ally, and operator rules are enforced.
@@ -113,29 +139,3 @@
 	logisticsTerminalAccess = "OWNER_AND_TEAM"
 	#Require players to crouch while mining Airship Stations and Ship Transponders, because breaking them removes related routes.
 	requireCrouchToBreakRouteBlocks = true
-[debug]
-	#Master switch for automated logistics debug logging.
-	#When false, all category debug logs below are disabled.
-	debugLogging = false
-	#Enable playback/runtime debug logs, including unloaded-transit progress and restore.
-	#Only used when debugLogging is true.
-	playback = true
-	#Enable low-level vehicle/Sable controller debug logs.
-	#Only used when debugLogging is true.
-	vehicle = true
-	#Enable docking connector discovery and docking-runtime debug logs.
-	#Only used when debugLogging is true.
-	docking = true
-	#Enable cargo endpoint, cargo wait, and cargo saved-data debug logs.
-	#Only used when debugLogging is true.
-	cargo = true
-	#Enable station/transponder menu, sync, and state-refresh debug logs.
-	#Only used when debugLogging is true.
-	uiSync = true
-
-[simurail]
-	#Keep active automated Simurail vehicles force-loaded through Sable for their full recorded route.
-	#The Sable loading ticket is acquired when playback starts while the vehicle is live, then released when playback stops, faults, or completes.
-	#Disable this to use normal unloaded-travel behavior instead.
-	forceLoadSimurailVehicles = true
-

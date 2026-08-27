@@ -5785,6 +5785,10 @@
     "maxWaterDepth": 155,
     "implosionChance": 0.076
   },
+  "azimuth:ponder_coordinate": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "backpacked:acacia_backpack_shelf": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
@@ -51917,13 +51921,29 @@
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
+  "create_delete_and_repeat:copper_cogwheel": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "create_delete_and_repeat:copper_plating": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
   "create_delete_and_repeat:fluid_voider": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
+  "create_delete_and_repeat:gasoline": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "create_delete_and_repeat:industrial_cauldron": {
     "maxWaterDepth": 60,
     "implosionChance": 0.64
+  },
+  "create_delete_and_repeat:large_copper_cogwheel": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
   },
   "create_delete_and_repeat:strainer": {
     "maxWaterDepth": 120,
@@ -52645,6 +52665,14 @@
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
+  "create_hypertube:hypertube_junction": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "create_hypertube:tube_path": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
   "create_integrated_farming:chicken_roost": {
     "maxWaterDepth": 25,
     "implosionChance": 0.85
@@ -52656,6 +52684,3814 @@
   "create_integrated_farming:roost": {
     "maxWaterDepth": 25,
     "implosionChance": 0.85
+  },
+  "create_iron_vaults:copper_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_black_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_black_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_black_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_black_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_black_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_black_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_black_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_blue_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_blue_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_blue_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_blue_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_blue_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_blue_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_blue_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_brown_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_brown_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_brown_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_brown_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_brown_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_brown_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_brown_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_cyan_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_cyan_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_cyan_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_cyan_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_cyan_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_cyan_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_cyan_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_gray_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_gray_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_gray_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_gray_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_gray_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_gray_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_gray_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_green_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_green_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_green_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_green_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_green_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_green_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_green_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_item_silo": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_light_blue_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_light_blue_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_light_blue_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_light_blue_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_light_blue_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_light_blue_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_light_blue_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_light_gray_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_light_gray_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_light_gray_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_light_gray_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_light_gray_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_light_gray_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_light_gray_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_lime_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_lime_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_lime_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_lime_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_lime_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_lime_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_lime_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_magenta_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_magenta_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_magenta_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_magenta_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_magenta_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_magenta_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_magenta_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_orange_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_orange_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_orange_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_orange_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_orange_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_orange_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_orange_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_pink_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_pink_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_pink_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_pink_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_pink_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_pink_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_pink_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_purple_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_purple_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_purple_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_purple_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_purple_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_purple_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_purple_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_red_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_red_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_red_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_red_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_red_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_red_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_red_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_black_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_blue_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_brown_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_cyan_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_gray_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_green_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_light_blue_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_light_gray_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_lime_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_magenta_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_orange_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_pink_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_purple_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_red_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_white_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_solid_yellow_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_white_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_white_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_white_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_white_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_white_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_white_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_white_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_yellow_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_yellow_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_yellow_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_yellow_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_yellow_vertical_basic_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_yellow_vertical_shipping_container": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:copper_yellow_vertical_vault": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "create_iron_vaults:diamond_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_black_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_black_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_black_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_black_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_black_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_black_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_black_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_blue_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_blue_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_blue_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_blue_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_blue_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_blue_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_blue_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_brown_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_brown_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_brown_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_brown_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_brown_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_brown_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_brown_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_cyan_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_cyan_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_cyan_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_cyan_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_cyan_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_cyan_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_cyan_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_gray_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_gray_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_gray_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_gray_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_gray_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_gray_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_gray_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_green_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_green_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_green_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_green_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_green_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_green_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_green_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_item_silo": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_light_blue_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_light_blue_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_light_blue_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_light_blue_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_light_blue_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_light_blue_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_light_blue_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_light_gray_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_light_gray_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_light_gray_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_light_gray_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_light_gray_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_light_gray_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_light_gray_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_lime_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_lime_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_lime_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_lime_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_lime_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_lime_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_lime_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_magenta_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_magenta_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_magenta_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_magenta_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_magenta_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_magenta_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_magenta_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_orange_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_orange_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_orange_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_orange_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_orange_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_orange_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_orange_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_pink_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_pink_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_pink_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_pink_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_pink_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_pink_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_pink_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_purple_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_purple_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_purple_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_purple_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_purple_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_purple_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_purple_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_red_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_red_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_red_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_red_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_red_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_red_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_red_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_black_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_blue_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_brown_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_cyan_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_gray_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_green_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_light_blue_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_light_gray_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_lime_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_magenta_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_orange_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_pink_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_purple_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_red_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_white_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_solid_yellow_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_white_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_white_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_white_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_white_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_white_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_white_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_white_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_yellow_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_yellow_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_yellow_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_yellow_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_yellow_vertical_basic_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_yellow_vertical_shipping_container": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:diamond_yellow_vertical_vault": {
+    "maxWaterDepth": 123,
+    "implosionChance": 0.26666668
+  },
+  "create_iron_vaults:emerald_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_black_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_black_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_black_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_black_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_black_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_black_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_black_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_blue_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_blue_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_blue_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_blue_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_blue_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_blue_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_blue_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_brown_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_brown_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_brown_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_brown_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_brown_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_brown_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_brown_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_cyan_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_cyan_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_cyan_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_cyan_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_cyan_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_cyan_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_cyan_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_gray_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_gray_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_gray_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_gray_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_gray_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_gray_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_gray_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_green_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_green_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_green_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_green_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_green_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_green_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_green_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_item_silo": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_light_blue_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_light_blue_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_light_blue_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_light_blue_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_light_blue_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_light_blue_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_light_blue_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_light_gray_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_light_gray_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_light_gray_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_light_gray_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_light_gray_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_light_gray_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_light_gray_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_lime_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_lime_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_lime_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_lime_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_lime_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_lime_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_lime_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_magenta_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_magenta_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_magenta_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_magenta_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_magenta_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_magenta_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_magenta_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_orange_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_orange_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_orange_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_orange_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_orange_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_orange_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_orange_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_pink_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_pink_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_pink_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_pink_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_pink_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_pink_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_pink_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_purple_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_purple_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_purple_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_purple_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_purple_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_purple_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_purple_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_red_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_red_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_red_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_red_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_red_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_red_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_red_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_black_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_blue_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_brown_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_cyan_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_gray_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_green_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_light_blue_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_light_gray_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_lime_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_magenta_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_orange_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_pink_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_purple_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_red_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_white_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_solid_yellow_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_white_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_white_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_white_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_white_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_white_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_white_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_white_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_yellow_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_yellow_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_yellow_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_yellow_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_yellow_vertical_basic_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_yellow_vertical_shipping_container": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:emerald_yellow_vertical_vault": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "create_iron_vaults:gold_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_black_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_black_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_black_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_black_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_black_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_black_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_black_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_blue_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_blue_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_blue_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_blue_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_blue_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_blue_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_blue_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_brown_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_brown_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_brown_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_brown_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_brown_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_brown_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_brown_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_cyan_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_cyan_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_cyan_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_cyan_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_cyan_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_cyan_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_cyan_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_gray_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_gray_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_gray_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_gray_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_gray_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_gray_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_gray_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_green_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_green_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_green_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_green_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_green_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_green_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_green_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_item_silo": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_light_blue_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_light_blue_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_light_blue_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_light_blue_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_light_blue_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_light_blue_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_light_blue_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_light_gray_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_light_gray_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_light_gray_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_light_gray_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_light_gray_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_light_gray_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_light_gray_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_lime_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_lime_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_lime_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_lime_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_lime_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_lime_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_lime_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_magenta_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_magenta_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_magenta_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_magenta_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_magenta_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_magenta_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_magenta_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_orange_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_orange_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_orange_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_orange_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_orange_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_orange_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_orange_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_pink_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_pink_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_pink_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_pink_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_pink_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_pink_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_pink_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_purple_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_purple_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_purple_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_purple_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_purple_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_purple_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_purple_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_red_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_red_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_red_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_red_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_red_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_red_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_red_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_black_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_blue_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_brown_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_cyan_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_gray_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_green_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_light_blue_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_light_gray_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_lime_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_magenta_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_orange_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_pink_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_purple_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_red_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_white_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_solid_yellow_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_white_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_white_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_white_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_white_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_white_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_white_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_white_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_yellow_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_yellow_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_yellow_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_yellow_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_yellow_vertical_basic_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_yellow_vertical_shipping_container": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:gold_yellow_vertical_vault": {
+    "maxWaterDepth": 112,
+    "implosionChance": 0.33333334
+  },
+  "create_iron_vaults:iron_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_black_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_black_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_black_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_black_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_black_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_black_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_black_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_blue_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_blue_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_blue_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_blue_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_blue_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_blue_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_blue_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_brown_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_brown_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_brown_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_brown_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_brown_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_brown_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_brown_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_cyan_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_cyan_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_cyan_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_cyan_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_cyan_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_cyan_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_cyan_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_gray_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_gray_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_gray_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_gray_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_gray_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_gray_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_gray_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_green_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_green_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_green_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_green_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_green_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_green_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_green_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_item_silo": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_light_blue_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_light_blue_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_light_blue_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_light_blue_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_light_blue_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_light_blue_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_light_blue_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_light_gray_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_light_gray_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_light_gray_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_light_gray_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_light_gray_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_light_gray_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_light_gray_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_lime_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_lime_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_lime_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_lime_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_lime_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_lime_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_lime_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_magenta_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_magenta_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_magenta_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_magenta_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_magenta_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_magenta_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_magenta_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_orange_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_orange_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_orange_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_orange_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_orange_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_orange_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_orange_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_pink_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_pink_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_pink_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_pink_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_pink_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_pink_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_pink_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_purple_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_purple_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_purple_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_purple_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_purple_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_purple_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_purple_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_red_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_red_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_red_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_red_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_red_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_red_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_red_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_black_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_blue_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_brown_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_cyan_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_gray_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_green_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_light_blue_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_light_gray_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_lime_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_magenta_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_orange_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_pink_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_purple_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_red_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_white_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_solid_yellow_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_white_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_white_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_white_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_white_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_white_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_white_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_white_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_yellow_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_yellow_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_yellow_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_yellow_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_yellow_vertical_basic_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_yellow_vertical_shipping_container": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:iron_yellow_vertical_vault": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "create_iron_vaults:netherite_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_black_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_black_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_black_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_black_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_black_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_black_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_black_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_blue_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_blue_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_blue_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_blue_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_blue_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_blue_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_blue_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_brown_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_brown_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_brown_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_brown_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_brown_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_brown_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_brown_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_cyan_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_cyan_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_cyan_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_cyan_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_cyan_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_cyan_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_cyan_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_gray_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_gray_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_gray_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_gray_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_gray_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_gray_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_gray_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_green_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_green_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_green_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_green_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_green_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_green_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_green_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_item_silo": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_light_blue_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_light_blue_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_light_blue_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_light_blue_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_light_blue_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_light_blue_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_light_blue_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_light_gray_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_light_gray_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_light_gray_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_light_gray_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_light_gray_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_light_gray_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_light_gray_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_lime_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_lime_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_lime_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_lime_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_lime_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_lime_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_lime_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_magenta_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_magenta_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_magenta_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_magenta_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_magenta_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_magenta_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_magenta_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_orange_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_orange_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_orange_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_orange_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_orange_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_orange_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_orange_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_pink_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_pink_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_pink_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_pink_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_pink_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_pink_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_pink_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_purple_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_purple_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_purple_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_purple_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_purple_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_purple_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_purple_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_red_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_red_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_red_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_red_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_red_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_red_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_red_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_black_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_blue_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_brown_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_cyan_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_gray_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_green_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_light_blue_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_light_gray_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_lime_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_magenta_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_orange_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_pink_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_purple_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_red_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_white_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_solid_yellow_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_white_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_white_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_white_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_white_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_white_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_white_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_white_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_yellow_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_yellow_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_yellow_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_yellow_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_yellow_vertical_basic_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_yellow_vertical_shipping_container": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:netherite_yellow_vertical_vault": {
+    "maxWaterDepth": 156,
+    "implosionChance": 0.06666667
+  },
+  "create_iron_vaults:obsidian_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_black_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_black_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_black_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_black_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_black_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_black_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_black_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_blue_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_blue_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_blue_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_blue_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_blue_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_blue_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_blue_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_brown_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_brown_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_brown_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_brown_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_brown_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_brown_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_brown_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_cyan_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_cyan_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_cyan_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_cyan_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_cyan_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_cyan_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_cyan_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_gray_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_gray_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_gray_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_gray_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_gray_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_gray_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_gray_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_green_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_green_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_green_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_green_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_green_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_green_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_green_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_item_silo": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_light_blue_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_light_blue_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_light_blue_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_light_blue_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_light_blue_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_light_blue_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_light_blue_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_light_gray_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_light_gray_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_light_gray_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_light_gray_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_light_gray_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_light_gray_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_light_gray_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_lime_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_lime_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_lime_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_lime_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_lime_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_lime_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_lime_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_magenta_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_magenta_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_magenta_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_magenta_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_magenta_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_magenta_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_magenta_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_orange_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_orange_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_orange_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_orange_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_orange_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_orange_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_orange_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_pink_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_pink_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_pink_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_pink_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_pink_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_pink_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_pink_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_purple_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_purple_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_purple_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_purple_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_purple_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_purple_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_purple_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_red_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_red_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_red_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_red_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_red_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_red_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_red_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_black_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_blue_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_brown_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_cyan_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_gray_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_green_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_light_blue_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_light_gray_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_lime_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_magenta_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_orange_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_pink_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_purple_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_red_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_white_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_solid_yellow_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_white_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_white_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_white_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_white_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_white_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_white_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_white_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_yellow_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_yellow_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_yellow_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_yellow_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_yellow_vertical_basic_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_yellow_vertical_shipping_container": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
+  },
+  "create_iron_vaults:obsidian_yellow_vertical_vault": {
+    "maxWaterDepth": 145,
+    "implosionChance": 0.13333334
   },
   "create_ironworks:bronze_block": {
     "maxWaterDepth": 89,
@@ -53137,6 +56973,10 @@
     "maxWaterDepth": 15,
     "implosionChance": 0.85
   },
+  "create_rns:coal_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
   "create_rns:cobalt_deposit_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -53157,6 +56997,10 @@
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
+  "create_rns:lapis_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
   "create_rns:lead_deposit_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -53174,6 +57018,14 @@
     "implosionChance": 0.67
   },
   "create_rns:nickel_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:osmium_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:platinum_deposit_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
@@ -53214,6 +57066,10 @@
     "implosionChance": 0.05
   },
   "create_rns:uranium_deposit_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "create_rns:wolframite_deposit_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
@@ -59797,6 +63653,10 @@
     "maxWaterDepth": 67,
     "implosionChance": 0.6
   },
+  "createdieselgenerators:andesite_girder_strut": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
   "createdieselgenerators:asphalt_block": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
@@ -65961,11 +69821,119 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createframed:amber_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:amber_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:amber_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:amber_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:amber_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:amber_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:amber_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:amber_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:amber_stained_tiled_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createframed:andesite_alloy_window": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "createframed:andesite_alloy_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:aqua_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:aqua_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:aqua_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:aqua_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:aqua_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:aqua_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:aqua_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:aqua_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:aqua_stained_tiled_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:beige_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:beige_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:beige_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:beige_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:beige_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:beige_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:beige_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:beige_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:beige_stained_tiled_glass_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -66041,6 +70009,18 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createframed:bound_amber_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:bound_aqua_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:bound_beige_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
   "createframed:bound_black_cardboard_block": {
     "maxWaterDepth": 3,
     "implosionChance": 0.85
@@ -66053,7 +70033,19 @@
     "maxWaterDepth": 3,
     "implosionChance": 0.85
   },
+  "createframed:bound_coral_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
   "createframed:bound_cyan_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:bound_forest_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:bound_ginger_cardboard_block": {
     "maxWaterDepth": 3,
     "implosionChance": 0.85
   },
@@ -66062,6 +70054,10 @@
     "implosionChance": 0.85
   },
   "createframed:bound_green_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:bound_indigo_cardboard_block": {
     "maxWaterDepth": 3,
     "implosionChance": 0.85
   },
@@ -66081,6 +70077,22 @@
     "maxWaterDepth": 3,
     "implosionChance": 0.85
   },
+  "createframed:bound_maroon_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:bound_mint_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:bound_navy_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:bound_olive_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
   "createframed:bound_orange_cardboard_block": {
     "maxWaterDepth": 3,
     "implosionChance": 0.85
@@ -66094,6 +70106,26 @@
     "implosionChance": 0.85
   },
   "createframed:bound_red_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:bound_rose_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:bound_slate_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:bound_tan_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:bound_teal_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:bound_verdant_cardboard_block": {
     "maxWaterDepth": 3,
     "implosionChance": 0.85
   },
@@ -66165,6 +70197,42 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createframed:coral_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:coral_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:coral_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:coral_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:coral_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:coral_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:coral_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:coral_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:coral_stained_tiled_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createframed:cyan_cardboard_block": {
     "maxWaterDepth": 3,
     "implosionChance": 0.85
@@ -66198,6 +70266,42 @@
     "implosionChance": 0.85
   },
   "createframed:cyan_stained_tiled_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:forest_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:forest_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:forest_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:forest_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:forest_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:forest_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:forest_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:forest_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:forest_stained_tiled_glass_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -66263,6 +70367,42 @@
   },
   "createframed:framed_radon_lamp_yellow": {
     "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "createframed:ginger_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:ginger_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:ginger_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:ginger_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:ginger_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:ginger_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:ginger_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:ginger_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:ginger_stained_tiled_glass_pane": {
+    "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "createframed:gray_cardboard_block": {
@@ -66337,6 +70477,30 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createframed:horizontal_amber_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_amber_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_aqua_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_aqua_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_beige_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_beige_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createframed:horizontal_black_stained_framed_glass": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -66361,11 +70525,35 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createframed:horizontal_coral_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_coral_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createframed:horizontal_cyan_stained_framed_glass": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "createframed:horizontal_cyan_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_forest_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_forest_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_ginger_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_ginger_stained_framed_glass_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -66382,6 +70570,14 @@
     "implosionChance": 0.85
   },
   "createframed:horizontal_green_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_indigo_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_indigo_stained_framed_glass_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -66417,6 +70613,38 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createframed:horizontal_maroon_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_maroon_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_mint_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_mint_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_navy_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_navy_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_olive_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_olive_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createframed:horizontal_orange_stained_framed_glass": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -66449,11 +70677,51 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createframed:horizontal_rose_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_rose_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_slate_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_slate_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_tan_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_tan_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_teal_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_teal_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createframed:horizontal_tinted_framed_glass": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "createframed:horizontal_tinted_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_verdant_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:horizontal_verdant_stained_framed_glass_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -66470,6 +70738,42 @@
     "implosionChance": 0.85
   },
   "createframed:horizontal_yellow_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:indigo_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:indigo_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:indigo_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:indigo_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:indigo_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:indigo_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:indigo_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:indigo_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:indigo_stained_tiled_glass_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -66621,6 +70925,150 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createframed:maroon_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:maroon_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:maroon_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:maroon_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:maroon_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:maroon_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:maroon_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:maroon_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:maroon_stained_tiled_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:mint_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:mint_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:mint_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:mint_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:mint_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:mint_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:mint_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:mint_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:mint_stained_tiled_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:navy_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:navy_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:navy_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:navy_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:navy_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:navy_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:navy_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:navy_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:navy_stained_tiled_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:olive_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:olive_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:olive_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:olive_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:olive_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:olive_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:olive_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:olive_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:olive_stained_tiled_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createframed:orange_cardboard_block": {
     "maxWaterDepth": 3,
     "implosionChance": 0.85
@@ -66769,6 +71217,18 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createframed:rose_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:rose_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:rose_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createframed:rose_quartz_window": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -66777,8 +71237,140 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createframed:rose_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:rose_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:rose_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:rose_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:rose_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:rose_stained_tiled_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createframed:shiny_karpboard_block": {
     "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:slate_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:slate_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:slate_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:slate_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:slate_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:slate_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:slate_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:slate_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:slate_stained_tiled_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:tan_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:tan_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:tan_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:tan_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:tan_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:tan_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:tan_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:tan_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:tan_stained_tiled_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:teal_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:teal_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:teal_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:teal_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:teal_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:teal_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:teal_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:teal_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:teal_stained_tiled_glass_pane": {
+    "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "createframed:tinted_framed_glass": {
@@ -66802,6 +71394,66 @@
     "implosionChance": 0.85
   },
   "createframed:tinted_tiled_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:verdant_cardboard_block": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createframed:verdant_cardboard_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:verdant_cardboard_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:verdant_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:verdant_stained_framed_glass_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createframed:verdant_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:verdant_stained_framed_glass_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createframed:verdant_stained_tiled_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:verdant_stained_tiled_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_amber_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_amber_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_aqua_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_aqua_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_beige_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_beige_stained_framed_glass_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -66829,11 +71481,35 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createframed:vertical_coral_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_coral_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createframed:vertical_cyan_stained_framed_glass": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "createframed:vertical_cyan_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_forest_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_forest_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_ginger_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_ginger_stained_framed_glass_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -66850,6 +71526,14 @@
     "implosionChance": 0.85
   },
   "createframed:vertical_green_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_indigo_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_indigo_stained_framed_glass_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -66885,6 +71569,38 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createframed:vertical_maroon_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_maroon_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_mint_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_mint_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_navy_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_navy_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_olive_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_olive_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createframed:vertical_orange_stained_framed_glass": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -66917,11 +71633,51 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createframed:vertical_rose_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_rose_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_slate_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_slate_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_tan_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_tan_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_teal_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_teal_stained_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createframed:vertical_tinted_framed_glass": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "createframed:vertical_tinted_framed_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_verdant_stained_framed_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createframed:vertical_verdant_stained_framed_glass_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -99433,6 +104189,10 @@
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
+  "morepropulsion:afterburner": {
+    "maxWaterDepth": 95,
+    "implosionChance": 0.43333334
+  },
   "morepropulsion:centrifuge": {
     "maxWaterDepth": 95,
     "implosionChance": 0.43333334
@@ -99442,6 +104202,10 @@
     "implosionChance": 0.43333334
   },
   "morepropulsion:compressor": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
+  "morepropulsion:engine_inlet": {
     "maxWaterDepth": 84,
     "implosionChance": 0.5
   },
@@ -99457,11 +104221,19 @@
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
+  "morepropulsion:large_afterburner": {
+    "maxWaterDepth": 95,
+    "implosionChance": 0.43333334
+  },
   "morepropulsion:large_combustion_chamber": {
     "maxWaterDepth": 95,
     "implosionChance": 0.43333334
   },
   "morepropulsion:large_compressor": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
+  "morepropulsion:large_engine_inlet": {
     "maxWaterDepth": 84,
     "implosionChance": 0.5
   },
@@ -99485,11 +104257,19 @@
     "maxWaterDepth": 84,
     "implosionChance": 0.5
   },
+  "morepropulsion:monstrous_afterburner": {
+    "maxWaterDepth": 95,
+    "implosionChance": 0.43333334
+  },
   "morepropulsion:monstrous_combustion_chamber": {
     "maxWaterDepth": 95,
     "implosionChance": 0.43333334
   },
   "morepropulsion:monstrous_compressor": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
+  "morepropulsion:monstrous_engine_inlet": {
     "maxWaterDepth": 84,
     "implosionChance": 0.5
   },
@@ -99513,11 +104293,19 @@
     "maxWaterDepth": 84,
     "implosionChance": 0.5
   },
+  "morepropulsion:small_afterburner": {
+    "maxWaterDepth": 95,
+    "implosionChance": 0.43333334
+  },
   "morepropulsion:small_combustion_chamber": {
     "maxWaterDepth": 95,
     "implosionChance": 0.43333334
   },
   "morepropulsion:small_compressor": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
+  "morepropulsion:small_engine_inlet": {
     "maxWaterDepth": 84,
     "implosionChance": 0.5
   },
@@ -99665,10 +104453,6 @@
     "maxWaterDepth": 161,
     "implosionChance": 0.05
   },
-  "neovitae:dawn_ritual_stone": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
   "neovitae:deforester_charge": {
     "maxWaterDepth": 100,
     "implosionChance": 0.4
@@ -99680,6 +104464,10 @@
   "neovitae:demon_lantern": {
     "maxWaterDepth": 58,
     "implosionChance": 0.65
+  },
+  "neovitae:deus_ritual_stone": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
   },
   "neovitae:dungeon_brick1": {
     "maxWaterDepth": 55,
@@ -100037,6 +104825,10 @@
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
+  "neovitae:dungeon_seal_inaccessible": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
   "neovitae:dungeon_smallbrick": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
@@ -100217,10 +105009,6 @@
     "maxWaterDepth": 30,
     "implosionChance": 0.82
   },
-  "neovitae:dusk_ritual_stone": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
   "neovitae:earth_ritual_stone": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
@@ -100277,6 +105065,10 @@
     "maxWaterDepth": 55,
     "implosionChance": 0.67
   },
+  "neovitae:liquified_experience_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
   "neovitae:master_ritual_stone": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
@@ -100296,6 +105088,10 @@
   "neovitae:obsidian_tile_path": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
+  },
+  "neovitae:omni_routing_node": {
+    "maxWaterDepth": 90,
+    "implosionChance": 0.46
   },
   "neovitae:orb_filling_link": {
     "maxWaterDepth": 55,
@@ -100441,6 +105237,10 @@
     "maxWaterDepth": 161,
     "implosionChance": 0.05
   },
+  "neovitae:spirit_accumulator": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
   "neovitae:spirit_cache": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
@@ -100478,6 +105278,10 @@
     "implosionChance": 0.67
   },
   "neovitae:teleposer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "neovitae:tenebrae_ritual_stone": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
   },
@@ -103097,6 +107901,10 @@
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
+  "powergrid:brass_encased_crt": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
   "powergrid:carbon_pile": {
     "maxWaterDepth": 98,
     "implosionChance": 0.41333333
@@ -103104,6 +107912,26 @@
   "powergrid:carbon_pile_coil": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
+  },
+  "powergrid:ceiling_tile": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "powergrid:ceiling_tile_connector": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "powergrid:ceiling_tile_junction": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "powergrid:ceiling_tile_lamp": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "powergrid:ceiling_tile_solar": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
   },
   "powergrid:circuit_board": {
     "maxWaterDepth": 55,
@@ -103122,6 +107950,18 @@
     "implosionChance": 0.05
   },
   "powergrid:contactor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "powergrid:copper_plating": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "powergrid:copper_plating_slab": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "powergrid:copper_plating_stairs": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
@@ -103161,9 +108001,25 @@
     "maxWaterDepth": 161,
     "implosionChance": 0.05
   },
+  "powergrid:electric_pump": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
   "powergrid:electromagnet": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
+  },
+  "powergrid:energy_meter": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "powergrid:factory_light": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "powergrid:fe_inverter": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
   },
   "powergrid:fuse_holder": {
     "maxWaterDepth": 20,
@@ -103182,6 +108038,10 @@
     "implosionChance": 0.28
   },
   "powergrid:generator_induction_rotor": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "powergrid:generator_large_induction_rotor": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
@@ -103221,9 +108081,17 @@
     "maxWaterDepth": 20,
     "implosionChance": 0.85
   },
+  "powergrid:modular_display": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
   "powergrid:mv_switch": {
     "maxWaterDepth": 20,
     "implosionChance": 0.85
+  },
+  "powergrid:nether_transformer": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
   },
   "powergrid:plotter": {
     "maxWaterDepth": 20,
@@ -103249,6 +108117,10 @@
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
+  "powergrid:redstone_converter": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "powergrid:rheostat": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
@@ -103260,6 +108132,14 @@
   "powergrid:socket": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
+  },
+  "powergrid:solar_panel": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "powergrid:solar_panel_bearing": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
   },
   "powergrid:spark_gap": {
     "maxWaterDepth": 20,
@@ -129524,6 +134404,10 @@
   "structurize:blocktagsubstitution": {
     "maxWaterDepth": 10,
     "implosionChance": 0.85
+  },
+  "struts:girder_strut_structure": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
   },
   "supplementaries:ash": {
     "maxWaterDepth": 1,
