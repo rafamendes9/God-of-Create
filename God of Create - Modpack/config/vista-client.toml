@@ -79,7 +79,7 @@
 
 	[television.wave_gate]
 		#Enable FFmpeg use. This is needed if you want to use the Wave Gate
-		ffmpeg_enabled = true
+		ffmpeg_enabled = false
 		#Scale factor for web images resolution
 		# Default: 8
 		# Range: 1 ~ 32

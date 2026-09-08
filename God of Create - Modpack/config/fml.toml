@@ -15,7 +15,7 @@ earlyWindowProvider = "SimpleCustomEarlyLoading"
 #Early window width
 earlyWindowWidth = 1600
 #Early window height
-earlyWindowHeight = 720
+earlyWindowHeight = 800
 #Early window framebuffer scale
 earlyWindowFBScale = 1
 #Early window starts maximized

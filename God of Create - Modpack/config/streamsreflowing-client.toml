@@ -34,7 +34,7 @@ streamBubbles = 2
 #World: safe on an existing world -- applies the moment you save, everywhere.
 # Default: 3000
 # Range: 0 ~ 100000
-maxStreamParticlesPerTick = 3000
+maxStreamParticlesPerTick = 1500
 #
 #How far out (in blocks) a CLIENT-side scanner hunts for waterfalls to spray, BEYOND vanilla's
 #~16-block ambient-particle range. Vanilla only animates blocks right next to you, so distant
@@ -47,7 +47,7 @@ maxStreamParticlesPerTick = 3000
 #World: safe on an existing world -- applies the moment you save, everywhere.
 # Default: 256
 # Range: 0 ~ 512
-streamParticleScanRadius = 256
+streamParticleScanRadius = 128
 #
 #Apply the mod's waterfall whitewater (the distant LOD scanner's spray + foam) to VANILLA water
 #as well -- rivers, lakes, vanilla waterfalls -- not just this mod's own streams. Purely visual
@@ -55,7 +55,7 @@ streamParticleScanRadius = 256
 #  true = on (default).  false = only this mod's streams get the whitewater.
 #Perf: CLIENT FPS. Extends particle work to all water, not just streams.
 #World: safe on an existing world -- applies the moment you save, everywhere.
-particlesOnVanillaWater = true
+particlesOnVanillaWater = false
 #
 #Floating debris on the stream surface: sticks and (on 1.21.4+) leaves drifting downstream with
 #the current. Purely visual and client-side.

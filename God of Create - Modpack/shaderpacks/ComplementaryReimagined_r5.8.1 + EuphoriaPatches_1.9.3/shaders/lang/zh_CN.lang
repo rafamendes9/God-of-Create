@@ -98,7 +98,7 @@ value.info18.0=
 option.info18.comment=感谢您安装 Euphoria Patches :)
 
 option.info19=§a有可用的更新
-value.info19.0=§cX.Y.Z §r->§a X.Y.Z
+value.info19.0=§c1.9.3 §r->§a 1.10.0
 option.info19.comment=EuphoriaPatcher 模组有新的版本. 从 Modrinth 下载: https://euphoriapatches.com/download.
 
 option.info20=

@@ -98,7 +98,7 @@ value.info18.0=
 option.info18.comment=Euphoria Patches를 설치해주셔서 감사합니다 :)
 
 option.info19=§aNEW UPDATE
-value.info19.0=§cX.Y.Z §r->§a X.Y.Z
+value.info19.0=§c1.9.3 §r->§a 1.10.0
 option.info19.comment=EuphoriaPatcher 모드의 새 버전을 사용할 수 있습니다. Modrinth에서 다운로드하세요 https://euphoriapatches.com/download
 
 option.info20=
