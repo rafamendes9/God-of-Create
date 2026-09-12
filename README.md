@@ -4,6 +4,19 @@
 ![God of Create](./God%20of%20Create%20-%20Modpack/Intro-modpack.jpg)
 ---
 
+Disclaimer
+
+O trabalho esta totalmente concluído, sem requisitar de novas adições, correções ou alterações no Modpack.
+
+Caso você já tenha instalado o Modpack e não deseja fazer nenhuma alteração, se mantenha em LEGACY, seu save ou nenhuma configuração será perdidas ou comprometida.
+
+Updates de correção assim como qualquer update futuro terá intervalos de tempo mais longo ou em contato direto dos usuários com abertura de Issues no Projeto do GitHub
+
+Caso você queira continuar como o trabalho continuo e inovação do modpack mais recente, recomendo você seguir para a Branch principal "Main"
+
+Legacy  segue ate a Realese 6.0 - Solarie
+
+ASS: OLD GOD
 ## 📋 Sobre
 
 **God of Create** Explore todo o potencial do Minecraft 1.21.1! Aqui, paisagens deslumbrantes, tecnologia, automação, física e criatividade são levadas ao limite da programação, tudo sem perder a performance. Seu mundo se tornará eterno: explore magias, dimensões e planetas enquanto gerencia civilizações e reinos. Seus súditos viverão em um universo vibrante, com estações dinâmicas, fauna extensa e monstros desafiadores espalhados por todos os mundos. Enfrente essas ameaças ao lado da sua Maid, do seu lobo e do seu cavalo – companheiros que evoluem com você!
