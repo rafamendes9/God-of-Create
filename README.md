@@ -16,7 +16,7 @@
 |--------|-----------|
 | **Versão Minecraft** | 1.21.1 |
 | **Loader** | Neo Forge - 21.1.235 |
-| **Mod Base** | Create + Aeronautics|
+
 
 ---
 
@@ -447,8 +447,14 @@ OBS: Recomendo deixar o Mod Distant Horizon desabilitado antes de criar o seu mu
 - Verifique se tem 12+ GB de RAM alocada
 - Confirme a versão do Java 8 / 17/ 21/ 25 instaladas e atualizadas
 
+**Entidades/Sub Levels do Create Aeronautic sem funcionar ou quebrar corretamente ?**
+
+- desabilite ou retire seus claims do chunk do mod OPEN CLAIMS
+
+
 **Falta de textura de itens ou Mods ?**
--Dependendo do seu armazenamento SSD pode ocorrer um atraso do carregamento correto de algumas textura no JEI, principalmente do mod **rechiseled** e **chipped**, isso é totalmente normal por esses mods adicionarem diversas texturas ao jogo, caso o erro persista ou nao se auto corrija automaticamente com alguns minutos de gameplay
+
+- Dependendo do seu armazenamento SSD pode ocorrer um atraso do carregamento correto de algumas textura no JEI, principalmente do mod **rechiseled** e **chipped**, isso é totalmente normal por esses mods adicionarem diversas texturas ao jogo, caso o erro persista ou nao se auto corrija automaticamente com alguns minutos de gameplay
 
 - Ao realizar o procedimento abaixo  tenha em mente que voce vai perder qualquer modificação realizada por  você, retornando o mod para as configurações padrões
 
