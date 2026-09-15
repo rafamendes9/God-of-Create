@@ -812,28 +812,6 @@ Por isso, compatibilidade é tratada como parte importante da manutenção do pr
 ---
 
 
-
-
-# 📜 Créditos
-
-**God of Create**
- Foi baseado do popular modpack **[All of Create](https://www.curseforge.com/minecraft/modpacks/aoc)**, Hoje sendo considerado Um Modpack totalmente Singular de sua vertente original, o foco do Modpack é levar o Minecraft ao limite de seu potencial e capacidade sem abrir mão da Performace, assim como conteúdo e funções, **God of Create** é otimizado para jogadores que desejam uma experiência enriquecida com performance aprimorada, Worldgens, mecânicas inovadoras e conteúdo de curadoria exclusiva.
-
-
-O God of Create utiliza diversos mods e projetos independentes.
-
-Todo crédito pelos sistemas, código, arte e conteúdo pertence aos respectivos autores e equipes.
-
-Consulte as páginas oficiais de cada mod para informações sobre:
-
-* licença;
-* autoria;
-* redistribuição;
-* dependências;
-* permissões.
-
----
-
 # ⚖️ Licenças
 
 O God of Create é uma coleção de mods desenvolvidos por diferentes autores.

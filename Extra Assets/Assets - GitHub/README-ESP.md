@@ -1088,65 +1088,6 @@ Prueba siempre las modificaciones en una ****copia de seguridad de tu mundo**** 
 
 **---**
 
-**# 📜 Créditos**
-
-****God of Create****
-
-El proyecto se basó originalmente en el popular modpack ****[All of Create]\(**[https://www.curseforge.com/minecraft/modpacks/aoc](https://www.curseforge.com/minecraft/modpacks/aoc\)**)[**)****](https://www.curseforge.com/minecraft/modpacks/aoc%29**).
-
-Hoy en día, God of Create se considera un proyecto altamente diferenciado de su inspiración original.
-
-El enfoque del modpack es llevar Minecraft al límite de su potencial y capacidades sin sacrificar innecesariamente el rendimiento, al mismo tiempo que proporciona contenido extenso, generación del mundo, mecánicas innovadoras y curaduría exclusiva.
-
-****God of Create**** está optimizado para jugadores que desean una experiencia de Minecraft enriquecida que incluya:
-
-* rendimiento mejorado;
-
-* generación extensa del mundo;
-
-* mecánicas innovadoras;
-
-* automatización a gran escala;
-
-* infraestructura;
-
-* exploración;
-
-* magia;
-
-* compañeros (Maids, Lobos, Caballos);
-
-* civilización;
-
-* aeronáutica;
-
-* planetas espaciales;
-
-* dimensiones;
-
-* teletransportación;
-
-* shaders personalizados;
-
-* contenido cuidadosamente seleccionado.
-
-El proyecto God of Create utiliza numerosos mods y proyectos independientes.
-
-Todo el crédito por los sistemas, código, arte y contenido pertenece a sus respectivos autores y equipos de desarrollo.
-
-Consulta la página oficial de cada mod para obtener información sobre:
-
-* licencia;
-
-* autoría;
-
-* redistribución;
-
-* dependencias;
-
-* permisos.
-
-**---**
 
 **# ⚖️ Licencias**
 
