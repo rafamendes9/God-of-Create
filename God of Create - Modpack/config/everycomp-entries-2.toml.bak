@@ -98,6 +98,17 @@
 			polished_sourcestone_lantern = true
 			archwood_lantern = true
 
+		[types.lantern.neovitae]
+			blood_lantern = true
+			demon_lantern = true
+
+		[types.lantern.occultism]
+			spirit_lantern = true
+
+		[types.lantern.forbidden_arcanus]
+			deorum_lantern = true
+			deorum_soul_lantern = true
+
 		[types.wood_type.quark]
 			azalea = true
 			ancient = true
@@ -138,6 +149,11 @@
 
 		[types.wood_type.ars_monde_lib]
 			amethyst = true
+
+		[types.wood_type.forbidden_arcanus]
+			fungyss = true
+			aurum = true
+			edelwood = true
 
 		[types.leaves_type.creategarnished]
 			pine_nut = true
@@ -252,6 +268,13 @@
 
 		[types.leaves_type.ars_elemental]
 			yellow_archwood = true
+
+		[types.leaves_type.occultism]
+			otherworld = true
+
+		[types.leaves_type.forbidden_arcanus]
+			aurum = true
+			nuggety_aurum = true
 
 #Disables specific entries
 [entries]

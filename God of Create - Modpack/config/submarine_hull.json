@@ -1733,6 +1733,70 @@
     "maxWaterDepth": 131,
     "implosionChance": 0.22
   },
+  "aerowarptics:astrolabe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "aerowarptics:rift_chute": {
+    "maxWaterDepth": 78,
+    "implosionChance": 0.53333336
+  },
+  "aerowarptics:rift_drive_creative": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "aerowarptics:rift_drive_mk_i": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "aerowarptics:rift_drive_mk_ii": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "aerowarptics:rift_drive_mk_iii": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "aerowarptics:rift_drive_singularity": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.4
+  },
+  "aerowarptics:rift_essence": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "aerowarptics:rift_fissure": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "aerowarptics:rift_gate": {
+    "maxWaterDepth": 111,
+    "implosionChance": 0.33333334
+  },
+  "aerowarptics:rift_gate_frame": {
+    "maxWaterDepth": 111,
+    "implosionChance": 0.33333334
+  },
+  "aerowarptics:rift_modulator": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "aerowarptics:rift_portal": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "aerowarptics:rift_probe": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
+  "aerowarptics:spatial_siphon": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
+  "aerowarptics:warp_anchor": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
   "aeroworks:gyroscope": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
@@ -4512,26 +4576,6 @@
   "amendments:water_lily_pad": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
-  },
-  "andesitegenerator:andesite_generator": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
-  },
-  "andesitegenerator:brass_generator": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "andesitegenerator:cobblestone_generator": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
-  },
-  "andesitegenerator:diorite_generator": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
-  },
-  "andesitegenerator:granite_generator": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
   },
   "any_lanterns:cat_lantern": {
     "maxWaterDepth": 235,
@@ -20075,34 +20119,6 @@
   },
   "cbcmoreshells:wide_tough_steel_single_cannon_sliding_breech": {
     "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "cgs:deepslate_lead_ore": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
-  },
-  "cgs:guano_block": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "cgs:lead_block": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "cgs:lead_ore": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "cgs:raw_lead_block": {
-    "maxWaterDepth": 98,
-    "implosionChance": 0.41333333
-  },
-  "cgs:steel_block": {
-    "maxWaterDepth": 120,
-    "implosionChance": 0.28
-  },
-  "cgs:sulfur_ore": {
-    "maxWaterDepth": 6,
     "implosionChance": 0.85
   },
   "chemica:acetone": {
@@ -48313,10 +48329,6 @@
     "maxWaterDepth": 25,
     "implosionChance": 0.85
   },
-  "cmverticaladditions:vertical_belt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
   "cnbridge:altitude_sensor": {
     "maxWaterDepth": 100,
     "implosionChance": 0.4
@@ -62081,10 +62093,6 @@
     "maxWaterDepth": 67,
     "implosionChance": 0.6
   },
-  "createcobblestone:mechanical_generator": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
   "createcolonies:schematic_table": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
@@ -72717,6 +72725,74 @@
     "maxWaterDepth": 168,
     "implosionChance": 0.05
   },
+  "createpolymer:rubber_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "createpolymer:rubber_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createpolymer:rubber_fence": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createpolymer:rubber_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createpolymer:rubber_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "createpolymer:rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createpolymer:rubber_log_sap_dry": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createpolymer:rubber_log_sap_wet": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createpolymer:rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createpolymer:rubber_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "createpolymer:rubber_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createpolymer:rubber_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createpolymer:rubber_stairs": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createpolymer:rubber_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createpolymer:rubber_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createpolymer:stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createpolymer:stripped_rubber_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
   "createprism:andesite_clear_glass_casing": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -74340,6 +74416,10 @@
   "diagonalfences:create_more_additions/silver_fence": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
+  },
+  "diagonalfences:createpolymer/rubber_fence": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
   },
   "diagonalfences:deeperdarker/bloom_fence": {
     "maxWaterDepth": 23,
@@ -79105,10 +79185,6 @@
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
-  "endrem:ancient_portal_frame": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
   "escalated:glass_escalator_handrail": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -79213,6 +79289,10 @@
     "maxWaterDepth": 20,
     "implosionChance": 0.85
   },
+  "everycomp:bp/createpolymer/rubber_backpack_shelf": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "everycomp:bp/deeperdarker/bloom_backpack_shelf": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
@@ -79310,6 +79390,14 @@
     "implosionChance": 0.85
   },
   "everycomp:c/createdieselgenerators/chip_wood_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:c/createpolymer/rubber_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:c/createpolymer/rubber_window_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -84407,6 +84495,590 @@
   },
   "everycomp:ch/creategarnished/white_flower_pine_nut_leaves": {
     "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/airy_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/apple_rubber_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/barred_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/barred_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/basket_woven_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/beach_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/boarded_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/boxed_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/brick_bond_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/bricky_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/bundled_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/carved_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/center_cut_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/checkered_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/cherry_rubber_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/chipped_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/circle_rubber_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/circle_rubber_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/classic_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/classic_windowed_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/cobweb_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/cornered_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/crated_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/cross_laced_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/crossed_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/d_sign_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/damaged_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/dead_rubber_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/detailed_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/diagonal_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/diamond_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/distorted_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/double_herringbone_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/dual_paneled_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/edge_cut_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/edged_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/enclosed_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/f_sign_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/fancy_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/fine_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/fine_vertical_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/firewood_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/flowering_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/fortified_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/framed_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/frosted_rubber_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/gated_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/glass_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/golden_apple_rubber_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/golden_barred_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/golden_cherry_rubber_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/golden_rubber_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/heavy_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/heavy_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/herringbone_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/hewn_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/i_sign_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/iron_barred_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/k_sign_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/knotted_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/l_sign_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/laced_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/layered_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/leafy_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/lumpy_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/magenta_flower_rubber_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/meshed_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/mixed_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/nailed_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/nailed_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/natural_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/orange_rubber_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/overgrown_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/overgrown_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/overgrown_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/paneled_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/paper_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/patient_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/pegged_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/planked_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/pointless_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/polished_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/pressed_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/railed_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/red_rubber_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/reinforced_rubber_crate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/reinforced_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/reinforced_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_bared_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_bared_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_barrel": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_bordered_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_bordered_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_crate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_diamond_bordered_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_diamond_bordered_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_horizontal_lined_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_horizontal_lined_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_large_diamond_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_large_diamond_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_line_bared_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_line_bared_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_ornate_bared_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_ornate_bared_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_planks_mosaic": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_planks_panel": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_planks_shavings": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_snowflake_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_snowflake_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_torch": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_wall_torch": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_woven_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/rubber_woven_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/screen_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/secret_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/shack_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/shifted_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/sign_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/slanted_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/sliding_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/slotted_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/smooth_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/solid_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/square_rubber_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/square_rubber_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/stacked_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/stern_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/supported_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/suspicious_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/thin_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/tile_windowed_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/tiled_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/tiled_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/twisted_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/versailles_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/vertical_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/vertically_railed_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/vined_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/warted_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/whirlwind_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/white_flower_rubber_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/wickered_rubber_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/windowed_rubber_door": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/windowed_rubber_trapdoor": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/wise_stripped_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createpolymer/woven_rubber_trapdoor": {
+    "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
   "everycomp:ch/deeperdarker/airy_bloom_trapdoor": {
@@ -92849,6 +93521,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "everycomp:fd/createpolymer/rubber_cabinet": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "everycomp:fd/deeperdarker/bloom_cabinet": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
@@ -93358,6 +94034,66 @@
     "implosionChance": 0.85
   },
   "everycomp:hc/createdieselgenerators/chip_wood_table": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:hc/createpolymer/rubber_bench": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:hc/createpolymer/rubber_chair": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:hc/createpolymer/rubber_corner_trim": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:hc/createpolymer/rubber_couch": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:hc/createpolymer/rubber_counter": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:hc/createpolymer/rubber_cupboard": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:hc/createpolymer/rubber_desk": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:hc/createpolymer/rubber_dining_bench": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:hc/createpolymer/rubber_drawer": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:hc/createpolymer/rubber_fancy_bed": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "everycomp:hc/createpolymer/rubber_nightstand": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:hc/createpolymer/rubber_pillar_trim": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:hc/createpolymer/rubber_shelf": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:hc/createpolymer/rubber_side_table": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:hc/createpolymer/rubber_table": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -94807,6 +95543,50 @@
   },
   "everycomp:q/creategarnished/pine_nut_leaf_carpet": {
     "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:q/createpolymer/hollow_rubber_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "everycomp:q/createpolymer/rubber_bookshelf": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.85
+  },
+  "everycomp:q/createpolymer/rubber_chest": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "everycomp:q/createpolymer/rubber_hedge": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:q/createpolymer/rubber_ladder": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "everycomp:q/createpolymer/rubber_leaf_carpet": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:q/createpolymer/rubber_post": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:q/createpolymer/rubber_vertical_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:q/createpolymer/stripped_rubber_post": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "everycomp:q/createpolymer/trapped_rubber_chest": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "everycomp:q/createpolymer/vertical_rubber_planks": {
+    "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
   "everycomp:q/deeperdarker/bloom_bookshelf": {
@@ -106393,10 +107173,6 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
-  "ntgl:workbench": {
-    "maxWaterDepth": 45,
-    "implosionChance": 0.73
-  },
   "occultism:celestial_chalice": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -107879,6 +108655,10 @@
   },
   "pipeorgans:windchest_master": {
     "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "placeableblazerods:blaze_rod": {
+    "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "powergrid:acid": {
@@ -132313,26 +133093,6 @@
     "maxWaterDepth": 73,
     "implosionChance": 0.56
   },
-  "rubberworks:compressor": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "rubberworks:resin": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "rubberworks:rubber_block": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "rubberworks:rubber_sheet_block": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "rubberworks:sapper": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
   "s_a_b:b": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -133963,6 +134723,246 @@
   },
   "sealife:hatchery": {
     "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:blanketflower_1_flower": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:blanketflower_double": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:blanketflower_quad": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:blanketflower_triple": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:bloom_basket": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:bloom_basket_blue_orchids": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:bloom_basket_frost_pansies": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:bloom_basket_halloween_pansies": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:bloom_basket_orange_crown_cacti": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:bloom_basket_orange_pansies": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:bloom_basket_panola_pansies": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:bloom_basket_pink_crown_cacti": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:bloom_basket_pink_pansies": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:bloom_basket_purple_pansies": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:bloom_basket_red_pansies": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:bloom_basket_sunrise_pansies": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:bloom_basket_twinflowers": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:bloom_basket_white_pansies": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:bloom_basket_yellow_pansies": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:blue_frost_pansies": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:blue_liverwort": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:butterfly_bush": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:candy_mountain_foxglove": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:fireweed": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:golden_lupine": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:green_hydrangea": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:halloween_foxglove": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:halloween_hydrangea": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:halloween_pansies": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:hydrangea": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:indigo_butterfly_bush": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:lavender_foxglove": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:lupine_pink": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:lupine_white": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:manhattan_lights_lupine": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:orange_crown_cactus": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:orange_pansies": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:panola_pink_pansies": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:peach_foxglove": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:pink_butterfly_bush": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:pink_crown_cactus": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:pink_hydrangea": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:pink_pansies": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:purple_foxglove": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:purple_hydrangea": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:purple_liverwort": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:purple_lupine": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:purple_pansies": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:red_hydrangea": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:red_pansies": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:sky_blue_lupine": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:sunrise_pansies": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:sunset_foxglove": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:twinflower": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:white_butterfly_bush": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:white_foxglove": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:white_hydrangea": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:white_liverwort": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:white_pansies": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "serene_shrubbery:yellow_pansies": {
+    "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "simulated:altitude_sensor": {
@@ -137856,10 +138856,6 @@
   "vsfluidlink:magnet_hose_connector": {
     "maxWaterDepth": 36,
     "implosionChance": 0.78
-  },
-  "waterwheelbearing:wheel_bearing": {
-    "maxWaterDepth": 46,
-    "implosionChance": 0.7213333
   },
   "waystones:black_portstone": {
     "maxWaterDepth": 300,

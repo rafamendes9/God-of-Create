@@ -365,6 +365,9 @@ chunk_rebuild_scheduler = "culling"
 				propeller_bearing_contraption = true
 				gust = true
 
+			[light_sources.settings.entities.dyenamics]
+				sheep = true
+
 			[light_sources.settings.entities.doggytalents]
 				dog_food_projectile = true
 				grand_piano_white = true
@@ -495,11 +498,79 @@ chunk_rebuild_scheduler = "culling"
 				chest_boat = true
 				boat = true
 
+			[light_sources.settings.entities.ars_nouveau]
+				follow_proj = true
+				an_lightning = true
+				arcing_spell_proj = true
+				bookwyrm = true
+				scryer_camera = true
+				spike = true
+				wilden_boss = true
+				dummy = true
+				animated_block = true
+				enchanted_head_block = true
+				animated_head = true
+				spell_arrow = true
+				orbit = true
+				cinder = true
+				cascading_weald_walker = true
+				starbuncle = true
+				ritual = true
+				archwood_boat = true
+				flying_item = true
+				summon_horse = true
+				blazing_weald_walker = true
+				spell_proj = true
+				enchanted_mage_block = true
+				gift_starby = true
+				ice_shard = true
+				wilden_stalker = true
+				summon_wolf = true
+				familiar_drygmy = true
+				wixie = true
+				homing_spell_proj = true
+				familiar_starbuncle = true
+				summon_skeleton = true
+				wilden_guardian = true
+				enchanters_hook = true
+				familiar_bookwyrm = true
+				delayed_block_breaker = true
+				amethyst_golem = true
+				bubble = true
+				enchanted_falling_block = true
+				familiar_amethyst_golem = true
+				linger = true
+				alakarkinos = true
+				drygmy = true
+				nook = true
+				whirlisprig = true
+				wilden_hunter = true
+				fangs = true
+				ally_vex = true
+				lily = true
+				flourishing_weald_walker = true
+				familiar_whirlisprig = true
+				familiar_wixie = true
+				wall = true
+				vexing_weald_walker = true
+
 			[light_sources.settings.entities.interiors]
 				big_seat = true
 
 			[light_sources.settings.entities.addon_gancho]
 				connector = true
+
+			[light_sources.settings.entities.occultism_extra_spirits]
+				demonic_queen = true
+				celestial = true
+				fire_bird = true
+				galactical = true
+				galactical_unbound = true
+				demonic_king = true
+				celestial_unbound = true
+
+			[light_sources.settings.entities.createqol]
+				statue = true
 
 			[light_sources.settings.entities.supplementaries]
 				dispenser_minecart = true
@@ -800,11 +871,32 @@ chunk_rebuild_scheduler = "culling"
 			[light_sources.settings.entities.maidbeacon]
 				extra_rendering_entity = true
 
+			[light_sources.settings.entities.create_delete_and_repeat]
+				igniter_projectile = true
+				gasoline_projectile = true
+
 			[light_sources.settings.entities.synaxis]
 				flap_contraption = true
 
 			[light_sources.settings.entities.blocksyouneed_luna]
 				obsidia_projectile = true
+
+			[light_sources.settings.entities.forbidden_arcanus]
+				dark_trader = true
+				enchanted_lost_soul = true
+				aureal_bottle = true
+				crimson_lightning_bolt = true
+				energy_ball = true
+				corrupt_lost_soul = true
+				aureal_missile = true
+				chest_boat = true
+				lost_soul = true
+				boat = true
+				boom_arrow = true
+				draco_arcanus_arrow = true
+
+			[light_sources.settings.entities.theurgy]
+				follow_projectile = true
 
 			[light_sources.settings.entities.create_blaze_burner_fuels]
 				dung_brick_projectile = true
@@ -1076,6 +1168,64 @@ chunk_rebuild_scheduler = "culling"
 				cardboard_arrow = true
 				cardboard_ball = true
 
+			[light_sources.settings.entities.neovitae]
+				blood_shield = true
+				necromancy_summon_husk = true
+				necromancy_summon_skeleton = true
+				slime_vitae = true
+				daemonium_glaciaris = true
+				daemonium_rancoris = true
+				meteor = true
+				daemonium_voraxis = true
+				daemonium_corrodis = true
+				daemonium_pestis = true
+				necromancy_summon_stray = true
+				potion_flask = true
+				blood_light = true
+				daemonium_fervidis = true
+				daemonium_doloris = true
+				daemonium_cruoris = true
+				daemonium_ignis = true
+				throwing_dagger_syringe = true
+				shaped_charge = true
+				throwing_dagger = true
+				daemonium_animaris = true
+				necromancy_summon = true
+
+			[light_sources.settings.entities.ars_elemental]
+				siren_entity = true
+				lava_geyser = true
+				summon_direwolf = true
+				summon_slime = true
+				lerp = true
+				summon_vhex = true
+				dripstone_spike = true
+				summon_camel = true
+				summon_dolphin = true
+				phalanx_projectile = true
+				summon_wskeleton = true
+				firenando_entity = true
+				summon_skelehorse = true
+				flashing_weald_walker = true
+				conjured_dripstone = true
+				mist_cloud = true
+				earth_mage = true
+				siren_familiar = true
+				conjured_ice_spike = true
+				firenando_familiar = true
+				geyser = true
+				water_jet = true
+				air_mage = true
+				ice_spike = true
+				flashjack_familiar = true
+				linger_magnet = true
+				summon_bee = true
+				fire_mage = true
+				summon_strider = true
+				flashjack_entity = true
+				water_mage = true
+				flash_lightning = true
+
 			[light_sources.settings.entities.immersive_paintings]
 				glow_graffiti = true
 				painting = true
@@ -1092,6 +1242,16 @@ chunk_rebuild_scheduler = "culling"
 
 			[light_sources.settings.entities.dtnpaletteofpaws]
 				wolf = true
+
+			[light_sources.settings.entities.ars_technica]
+				arcane_fusion_entity = true
+				arcane_compact_entity = true
+				arcane_pack_entity = true
+				arcane_polish_entity = true
+				arcane_press_entity = true
+				item_projectile_entity = true
+				arcane_hammer_entity = true
+				arcane_whirl_entity = true
 
 			[light_sources.settings.entities.minecolonies]
 				pirate = true
@@ -1254,6 +1414,72 @@ chunk_rebuild_scheduler = "culling"
 				aphe_loitering_rocket = true
 				reinforced_reductive_short_range_torpedo = true
 				airdropped_torpedo = true
+
+			[light_sources.settings.entities.occultism]
+				wild_hunt_skeleton = true
+				wild_silverfish = true
+				iesnium_golem = true
+				wild_zombie = true
+				guardian_familiar = true
+				possessed_phantom = true
+				djinni = true
+				mummy_familiar = true
+				wild_skeleton = true
+				dragon_familiar = true
+				possessed_elder_guardian = true
+				possessed_weak_shulker = true
+				wild_husk = true
+				possessed_evoker = true
+				goat_familiar = true
+				bat_familiar = true
+				possessed_breeze = true
+				deer_familiar = true
+				wild_spider = true
+				shub_niggurath_familiar = true
+				possessed_guardian = true
+				headless_familiar = true
+				foliot = true
+				wild_horde_creeper = true
+				chimera_familiar = true
+				possessed_warden = true
+				wild_stray = true
+				devil_familiar = true
+				possessed_hoglin = true
+				wild_horde_drowned = true
+				possessed_witch = true
+				cthulhu_familiar = true
+				possessed_bee = true
+				wild_cave_spider = true
+				thrown_sword = true
+				possessed_strong_breeze = true
+				possessed_skeleton = true
+				blacksmith_familiar = true
+				mercy_goat = true
+				marid = true
+				possessed_enderman = true
+				wild_slime = true
+				beaver_familiar = true
+				wondering_trader = true
+				possessed_shulker = true
+				otherworld_bird = true
+				beholder_familiar = true
+				wild_bogged = true
+				marid_unbound = true
+				afrit = true
+				wild_hunt_wither_skeleton = true
+				possessed_ghast = true
+				afrit_wild = true
+				demonic_husband = true
+				possessed_endermite = true
+				wild_horde_silverfish = true
+				demonic_wife = true
+				possessed_blaze = true
+				fairy_familiar = true
+				wild_horde_husk = true
+				shub_niggurath_spawn = true
+				greedy_familiar = true
+				possessed_zombie_piglin = true
+				possessed_weak_breeze = true
 
 			[light_sources.settings.entities.casualswing]
 				seat = true

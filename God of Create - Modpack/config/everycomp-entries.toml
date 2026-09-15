@@ -152,6 +152,9 @@
 			aurum = true
 			edelwood = true
 
+		[types.wood_type.createpolymer]
+			rubber = true
+
 		[types.leaves_type.creategarnished]
 			pine_nut = true
 			hazelnut = true
@@ -272,6 +275,9 @@
 		[types.leaves_type.forbidden_arcanus]
 			aurum = true
 			nuggety_aurum = true
+
+		[types.leaves_type.createpolymer]
+			rubber = true
 
 		[entries.wood_type.handcrafted]
 			counter = true

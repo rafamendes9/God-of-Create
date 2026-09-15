@@ -1,6 +1,3 @@
-#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
-[types]
-
 		[types.cake.creategarnished]
 			pound_cake = true
 
@@ -275,9 +272,6 @@
 		[types.leaves_type.forbidden_arcanus]
 			aurum = true
 			nuggety_aurum = true
-
-#Disables specific entries
-[entries]
 
 		[entries.wood_type.handcrafted]
 			counter = true

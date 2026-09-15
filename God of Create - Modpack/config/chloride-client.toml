@@ -51,7 +51,7 @@ modpackMode = false
   start = 0
 
   # Value must be less than '10000' and greater than '100'
-  end = 192
+  end = 600
 
   # Accepted values are: [SPHERE, CYLINDER]
   shape = "CYLINDER"
