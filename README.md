@@ -510,12 +510,11 @@ OBS: Recomendo deixar o Mod Distant Horizon desabilitado antes de criar o seu mu
 ---
 
 
-### **God of Create**
- Foi baseado do popular modpack **[All of Create](https://www.curseforge.com/minecraft/modpacks/aoc)**, Hoje sendo considerado Um Modpack totalmente Singular de sua vertente original, o foco do Modpack é levar o Minecraft ao limite de seu potencial e capacidade sem abrir mão da Performace, assim como conteúdo e funções,**God of Create** é otimizado para jogadores que desejam uma experiência enriquecida com performance aprimorada, Worldgens, mecânicas inovadoras e conteúdo de curadoria exclusiva.
+
 
 ## 📄 Licença
 
-Este modpack é uma customização do **All Of Create**. Respeita as licenças originais de cada mod incluído.
+Este modpack é uma coleção de varios autores, tendo todos os seus direitors originais reservados
 
 ---
 
