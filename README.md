@@ -1,11 +1,11 @@
-# 🏭 God of Create
+
 
 ![Intro Modpack](Extra%20Assets/Assets%20-%20GitHub/Intro-modpack%201.png)
 
-[🇧🇷 Leia em português](Extra%20Assets/Assets%20-%20GitHub/README-PTBR.md)
+[🇧🇷 Leia em português](Extra%20Assets/Assets%20-%20GitHub/README-PTBR.md)    -   [🇪🇸 Leer en español](Extra%20Assets/Assets%20-%20GitHub/README-ESP.md)
 
 ---
-[🇪🇸 Leer en español](Extra%20Assets/Assets%20-%20GitHub/README-ESP.md)
+
 > **Automation • Aeronautics • Magic • Exploration • Colonies • Space**
 
 **God of Create** is a modpack for **Minecraft 1.21.1 + NeoForge 21.1.235**, built around **Create** and **Create Aeronautics**, expanding into industrial automation, logistics, vehicles, aeronautics, magic, exploration, colonies, combat, world generation, and space exploration.
