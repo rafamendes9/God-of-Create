@@ -134725,6 +134725,14 @@
     "maxWaterDepth": 6,
     "implosionChance": 0.85
   },
+  "searchlights:headlight": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "searchlights:searchlight": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
   "serene_shrubbery:blanketflower_1_flower": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
